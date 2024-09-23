@@ -1,7 +1,7 @@
 ---
 title: "Unveiling AI Advancements: Sam Altman Talks Post-Build Plans with Microsoft | Latest News on ZDNET"
-date: 2024-09-17 16:58:39
-updated: 2024-09-20 12:23:34
+date: 2024-09-22T16:51:32.189Z
+updated: 2024-09-23T16:25:23.043Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,34 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-iphone-slow-motion-shooting-essentials/"><u>[Updated] In 2024, IPhone Slow Motion Shooting Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-dynamic-duo-videos-on-macos-sierra/"><u>2024 Approved Crafting Dynamic Duo Videos on macOS Sierra</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-simple-screenshot-pro-on-windows-10/"><u>2024 Approved Simple Screenshot Pro on Windows 10</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726221967132-mp3-wma-movavi/"><u>簡便無限制的 MP3 和 WMA 間接流程- 利用 Movavi 解決方案</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claude-vs-gpt-a-deep-dive-into-4-crucial-enhancements-for-users/"><u>Claude vs GPT: A Deep Dive Into 4 Crucial Enhancements for Users</u></a></li>
+<li><a href="https://win-lab.techidaily.com/convertir-gifs-en-archivos-flv-sin-costo-con-moviescribe/"><u>Convertir GIFs en Archivos FLV Sin Costo Con MovieScribe</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-best-11-animation-series-like-the-greatest-available-both-for-free-and-subscription-based-viewing/"><u>Discover the Best: 11 Animation Series Like 'The Greatest' - Available Both for Free and Subscription-Based Viewing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-finest-selection-the-best-10-slow-motion-video-editing-tools-online/"><u>Discover the Finest Selection: The Best 10 Slow-Motion Video Editing Tools Online</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/efficiently-remove-unwanted-photos-from-facebook-a-comprehensive-walkthrough/"><u>Efficiently Remove Unwanted Photos From Facebook - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortless-online-f4v-flv-file-format-change-get-started-with-movavi-now/"><u>Effortless Online F4V-FLV File Format Change - Get Started with Movavi Now</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratuit-verbetering-m4a-in-wav-formaat-efficient-online-tool-movavi/"><u>Gratuit Verbetering M4A in WAV Formaat: Efficiënt Online-Tool Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-xr-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone XR Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-vivo-s17-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Vivo S17 Face Lock?</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-your-thoughts-a-comprehensive-guide-to-navigating-the-iphone-journal-app/"><u>Mastering Your Thoughts: A Comprehensive Guide to Navigating the iPhone Journal App</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-winegard-fl5500a-flatwave-antenna-reviewed-solid-performance-overshadowed-by-high-price/"><u>The Winegard FL5500A FlatWave Antenna Reviewed: Solid Performance Overshadowed by High Price</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transferer-facilement-un-gif-vers-une-video-mp4-sans-frais-tutorials-video-professionnels-avec-movavi/"><u>Transférer Facilement Un GIF Vers Une Vidéo MP4 Sans Frais - Tutorials Vidéo Professionnels Avec Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trasformare-i-file-mpeg-in-formato-m4v-gratuitamente-online-con-convertimpeg/"><u>Trasformare I File MPEG in Formato M4V Gratuitamente Online Con ConvertiMpeg</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unraveling-the-greatest-9-false-beliefs-in-the-world-of-ai-chatbot-technology/"><u>Unraveling the Greatest 9 False Beliefs in the World of AI Chatbot Technology</u></a></li>
+<li><a href="https://win-lab.techidaily.com/wma-m4r-movavi/"><u>오피니 공간에서 WMA펫스를 M4R 파일로 자유성적으로 전환: 무료 해상도 - MOVAVI</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726227435766-flv-mp4/"><u>제공자가 아닌 FLV 파일을 MP4로 변환 - 오픈소스 앱</u></a></li>
+</ul></div>
+

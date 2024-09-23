@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Value of Older iPhones for Today's Tech-Savvy Users
-date: 2024-09-19 13:26:52
-updated: 2024-09-20 11:32:40
+date: 2024-09-16T16:27:48.082Z
+updated: 2024-09-23T16:35:34.686Z
 tags:
   - windows
 categories:
@@ -33,6 +33,13 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
@@ -53,6 +60,13 @@ Screenshot by Lance Whitney/ZDNET
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -83,11 +97,25 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -119,11 +147,31 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ow-to-automate-iphones-video-repetition-for-2024/"><u>[New] How to Automate iPhone's Video Repetition for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-customize-your-scroll-delete-instagram-suggestions/"><u>[New] In 2024, Customize Your Scroll Delete Instagram Suggestions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-mystery-of-slug-line-formats/"><u>[New] Unveiling the Mystery of Slug Line Formats</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-at-the-forefront-haptic-enhanced-headgear/"><u>[Updated] At the Forefront Haptic-Enhanced Headgear</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-document-total-screen-content/"><u>[Updated] In 2024, Document Total Screen Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-elevate-engagement-cutting-edge-hashtags-for-hit-making-videos/"><u>[Updated] In 2024, Elevate Engagement Cutting-Edge Hashtags for Hit-Making Videos</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2024s-elite-list-of-windows-11-graphic-game-programs-ranking-the-top-14-choices/"><u>2024'S Elite List of Windows 11 Graphic Game Programs – Ranking the Top 14 Choices</u></a></li>
+<li><a href="https://win-lab.techidaily.com/crea-versioni-swf-da-file-video-flvmp4-converti-gratuitamente-con-movavi/"><u>Crea Versioni SWF Da File Video FLV/MP4: Converti Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/descargar-gratuito-de-convertir-video-m1v-a-formato-mp4-con-software-online/"><u>Descargar Gratuito De Convertir Video M1V a Formato MP4 Con Software Online</u></a></li>
+<li><a href="https://windows11.techidaily.com/google-chrome-unresponsiveness-solved-expert-troubleshooting-tips/"><u>Google Chrome Unresponsiveness Solved: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leveraging-pip-for-multitasking-in-edge-browser/"><u>Leveraging PIP for Multitasking in Edge Browser</u></a></li>
+<li><a href="https://win-lab.techidaily.com/movavis-web-based-tool-for-complimentary-mpeg-encoding-from-ram-files/"><u>Movavi's Web-Based Tool for Complimentary MPEG Encoding From RAM Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726228209297-mp4asf-movavi/"><u>MP4與ASF間無障礙交換的線上自由方法 - Movavi影片轉檔器</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-adobe-premiere-pro-secrets-6-time-saving-tips-for-better-video-edits-for-2024/"><u>New Adobe Premiere Pro Secrets 6 Time-Saving Tips for Better Video Edits for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/radka-nefunguje-obrazovka-nahravani-movavi-v-prubehu-oprav/"><u>Rádka - Nefunguje Obrazovka Nahrávání [Movavi] v Průběhu Oprav</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trp-mp4-online-movavi/"><u>TRP MP4 영상을 쉽게 오늘 무료로 Online 전환: Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/turkce-odeme-yontemlere-ulasabilmenin-isbir-gecerli-capadaklarini-belirleyecegine-daha-basarili-turkumulermis/"><u>Türkçe: Ödeme Yöntemlere Ulaşabilmenin İşbir-Geçerli Çapadaklarını Belirleyeceğine Daha Başarılı Türkümülermiş</u></a></li>
+</ul></div>
+

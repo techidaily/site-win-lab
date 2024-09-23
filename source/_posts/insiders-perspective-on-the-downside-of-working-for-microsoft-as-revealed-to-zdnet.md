@@ -1,7 +1,7 @@
 ---
 title: Insider's Perspective on the Downside of Working for Microsoft, as Revealed to ZDNet
-date: 2024-09-19 21:35:39
-updated: 2024-09-20 10:29:17
+date: 2024-09-16T16:22:09.451Z
+updated: 2024-09-23T17:03:36.474Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-photograph-total-browser-scope/"><u>[New] 2024 Approved Photograph Total Browser Scope</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-comparing-reels-and-stories-whats-the-best-choice-for-2024/"><u>[New] Comparing Reels & Stories What's the Best Choice for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-ryans-wealth-wonders-a-kids-fortune-in-the-streaming-space/"><u>[Updated] In 2024, Ryan’s Wealth Wonders A Kid's Fortune in the Streaming Space</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-your-complete-guide-to-understanding-srt-fundamentals/"><u>[Updated] Your Complete Guide to Understanding SRT Fundamentals</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-grandes-selecciones-de-musica-ideal-para-complementar-fotografias-en-video/"><u>1. Grandes Selecciones De Música Ideal Para Complementar Fotografías en Video</u></a></li>
+<li><a href="https://win-lab.techidaily.com/conversion-gratuit-des-fichiers-mpe-vers-linternet-utilisez-les-services-de-movavi-pour-un-processus-facile-et-rapide/"><u>Conversion Gratuit Des Fichiers MPE Vers L'internet : Utilisez Les Services De Movavi Pour Un Processus Facile Et Rapide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/convertissez-votre-fichier-m4a-au-format-wmv-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Votre Fichier M4A Au Format WMV Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ferramenta-on-line-sem-custo-transforme-seu-m2ts-em-mp4-usando-movavi-aulas-iniciais/"><u>Ferramenta On-Line Sem Custo: Transforme Seu M2TS Em MP4 Usando Movavi – Aulas Iniciais</u></a></li>
+<li><a href="https://change-location.techidaily.com/home-button-not-working-on-honor-magic-6-pro-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Honor Magic 6 Pro? Here Are Real Fixes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-xr21-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia XR21 Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-oppo-reno-10-pro-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Oppo Reno 10 Pro 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/online-kostenloser-asf-zu-wav-konverter-mit-movavi-fugen-sie-ihren-audiodateien-heute-eine-neue-qualitatsebene-hinzu/"><u>Online Kostenloser ASF Zu WAV Konverter Mit Movavi – Fügen Sie Ihren Audiodateien Heute Eine Neue Qualitätsebene Hinzu!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/rhythmic-instagrams-a-step-by-step-music-guide/"><u>Rhythmic Instagrams A Step-by-Step Music Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/swf-online-swf-movavi/"><u>SWF 파일을 원격으로 제공하는 무료 Online SWF 변환 도구 - Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-smooth-performance-resolving-crashes-in-jurassic-world-evolution/"><u>Unlocking Smooth Performance: Resolving Crashes in Jurassic World Evolution</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mp4-flv-online/"><u>무료 MP4, FLV 압쇄 전환 - Online 솔루션</u></a></li>
+</ul></div>
+

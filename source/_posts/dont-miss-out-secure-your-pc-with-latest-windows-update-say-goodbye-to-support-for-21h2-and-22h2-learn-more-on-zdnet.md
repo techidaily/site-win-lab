@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET"
-date: 2024-09-17 15:37:50
-updated: 2024-09-20 10:50:55
+date: 2024-09-19T16:45:38.456Z
+updated: 2024-09-23T16:22:19.678Z
 tags:
   - windows
 categories:
@@ -54,6 +54,13 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
@@ -66,6 +73,13 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -77,11 +91,25 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -119,11 +147,25 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-hub.techidaily.com/claude-pro-unveiled-evaluating-its-competitive-edge-over-chatgpt-plus/"><u>Claude Pro Unveiled: Evaluating Its Competitive Edge Over ChatGPT Plus</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ensuring-compliance-in-zoom-meetings-a-recording-guide-for-2024/"><u>Ensuring Compliance in Zoom Meetings A Recording Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/inside-mastery-exploring-polarrs-sophisticated-image-editing-for-2024/"><u>Inside Mastery Exploring Polarr's Sophisticated Image Editing for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/movavis-web-based-tool-for-complimentary-mpeg-encoding-from-ram-files/"><u>Movavi's Web-Based Tool for Complimentary MPEG Encoding From RAM Files</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-audio-interruptions-and-glitches-in-powerpoint-slideshows/"><u>Overcoming Audio Interruptions and Glitches in PowerPoint Slideshows</u></a></li>
+<li><a href="https://win-lab.techidaily.com/radka-nefunguje-obrazovka-nahravani-movavi-v-prubehu-oprav/"><u>Rádka - Nefunguje Obrazovka Nahrávání [Movavi] v Průběhu Oprav</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-to-the-best-16-automatic-subtitle-creation-tools-for-video-editors/"><u>The Ultimate Guide to the Best 16 Automatic Subtitle Creation Tools for Video Editors</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trp-mp4-online-movavi/"><u>TRP MP4 영상을 쉽게 오늘 무료로 Online 전환: Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/turkce-odeme-yontemlere-ulasabilmenin-isbir-gecerli-capadaklarini-belirleyecegine-daha-basarili-turkumulermis/"><u>Türkçe: Ödeme Yöntemlere Ulaşabilmenin İşbir-Geçerli Çapadaklarını Belirleyeceğine Daha Başarılı Türkümülermiş</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleash-your-love-for-music-with-these-8-amazing-free-iphone-apps/"><u>Unleash Your Love for Music with These 8 Amazing Free iPhone Apps</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unraveling-the-secrets-to-soaring-podcast-rankings-with-seo-for-2024/"><u>Unraveling the Secrets to Soaring Podcast Rankings with SEO for 2024</u></a></li>
+</ul></div>
+

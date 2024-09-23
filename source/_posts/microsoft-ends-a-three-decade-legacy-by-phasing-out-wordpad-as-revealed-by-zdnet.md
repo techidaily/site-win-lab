@@ -1,7 +1,7 @@
 ---
 title: Microsoft Ends a Three-Decade Legacy by Phasing Out WordPad, as Revealed by ZDNet
-date: 2024-09-17 13:33:25
-updated: 2024-09-20 11:49:20
+date: 2024-09-20T16:26:11.610Z
+updated: 2024-09-23T16:50:52.125Z
 tags:
   - windows
 categories:
@@ -43,6 +43,13 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs are running Windows 10 today?
 
 If anyone tells you they know the answer to this one, maybe stop listening to them?
@@ -77,6 +84,13 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How many PCs will still be running Windows 10 at the end of 2025?
 
 That's the real question, isn't it?
@@ -90,6 +104,13 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Those who don't qualify for an automatic upgrade.** Some people own older hardware that doesn't meet the minimum hardware compatibility standards for Windows 11\. Basically, that means any PC that was designed in 2018 or earlier. Note that this category includes many budget PCs that used older designs and unsupported CPUs but were sold as new in 2019 and 2020.
 * **Corporate PCs that are standardized on Windows 10.** A nontrivial number of enterprise IT managers have just finished their Windows 10 migrations in the last year or two and probably aren't anxious to do it again.
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
 
@@ -151,11 +172,29 @@ _This article was originally published in July 2023\. The most recent update was
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-affordable-aerial-cameras-top-picks-under-100/"><u>[New] 2024 Approved Affordable Aerial Cameras Top Picks Under $100</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-constructing-captivating-conclusions/"><u>[New] 2024 Approved Constructing Captivating Conclusions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-humor-image-tinkerer/"><u>[New] Top Humor Image Tinkerer</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>[Updated] KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-free-software-for-rotating-videos-in-windows-11-top-picks/"><u>Best Free Software for Rotating Videos in Windows 11: Top Picks</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratis-online-convertor-verwijder-pgm-naar-bmp-met-movavi-vriendenlijk-begripbaar/"><u>Gratis Online-Convertor: Verwijder PGM Naar BMP Met Movavi - Vriendenlijk Begripbaar</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratuit-online-converteren-van-3gp-naar-m4a-movavi/"><u>Gratuit Online Converteren Van 3GP Naar M4A - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-get-and-run-llama-2-in-a-local-environment/"><u>How to Get and Run Llama 2 in a Local Environment</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-z-fold-5-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-oppo-find-x6-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Oppo Find X6 Unlock Without Password</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-compelling-case-for-youtube-premium-membership/"><u>The Compelling Case for YouTube Premium Membership</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-6-dvd-naar-mp4-konverter-voor-2024-de-ultieme-losung-voor-hoeveelvoudige-inhalen/"><u>Top 6 DVD Naar MP4 Konverter Voor 2024: De Ultieme Lösung Voor Hoeveelvoudige Inhalen</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-ts-videos-into-high-quality-mp4-files-at-no-cost-using-movavis-web-tool/"><u>Transform Your .TS Videos Into High-Quality .MP4 Files at No Cost Using Movavi's Web Tool</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-3gpp-en-format-3gp-gratuitement-sur-internet-logiciel-de-conversion-rapide/"><u>Transformez Votre Fichier 3GPP en Format 3GP Gratuitement Sur Internet - Logiciel De Conversion Rapide</u></a></li>
+<li><a href="https://common-error.techidaily.com/windows-11-stability-upgrade-fixing-pixel-anomalies-and-ending-the-screen-dance/"><u>Windows 11 Stability Upgrade: Fixing Pixel Anomalies and Ending the Screen Dance.</u></a></li>
+</ul></div>
+

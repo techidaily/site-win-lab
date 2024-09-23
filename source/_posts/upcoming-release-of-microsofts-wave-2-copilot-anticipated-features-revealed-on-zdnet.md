@@ -1,7 +1,7 @@
 ---
 title: Upcoming Release of Microsoft's Wave 2 Copilot - Anticipated Features Revealed on ZDNet
-date: 2024-09-18 16:45:48
-updated: 2024-09-20 11:43:17
+date: 2024-09-18T16:48:44.434Z
+updated: 2024-09-23T16:31:46.957Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -82,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -114,6 +135,13 @@ In addition, the ESUs provide only security updates. There will be no new featur
 In summary, commercial organizations will pay $61 to $244 per device over three years, while education gets heavily discounted pricing of $1 to $4 per license. Consumer pricing is still to be determined.
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-customize-video-speed-to-match-your-desired-watch-time/"><u>[New] 2024 Approved Customize Video Speed to Match Your Desired Watch Time</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-transform-your-instagram-reels-into-high-quality-mp4-files-anywhere/"><u>[New] Transform Your Instagram Reels Into High-Quality MP4 Files Anywhere</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-elevating-your-audio-experience-with-the-best-microphones-for-macos/"><u>[Updated] 2024 Approved Elevating Your Audio Experience with the Best Microphones for MacOS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-mastering-facebook-video-auto-play/"><u>[Updated] Mastering Facebook Video Auto-Play</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-grandes-selecciones-de-musica-ideal-para-complementar-fotografias-en-video/"><u>1. Grandes Selecciones De Música Ideal Para Complementar Fotografías en Video</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-13-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 13 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/best-fixes-for-audio-services-not-responding-windows-11/"><u>Best Fixes for Audio Services Not Responding Windows 11</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-free-software-for-rotating-videos-in-windows-11-top-picks/"><u>Best Free Software for Rotating Videos in Windows 11: Top Picks</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratis-online-convertor-verwijder-pgm-naar-bmp-met-movavi-vriendenlijk-begripbaar/"><u>Gratis Online-Convertor: Verwijder PGM Naar BMP Met Movavi - Vriendenlijk Begripbaar</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratuit-online-converteren-van-3gp-naar-m4a-movavi/"><u>Gratuit Online Converteren Van 3GP Naar M4A - Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-social-locating-facebook-profile-and-group-connections/"><u>Mastering Social: Locating Facebook Profile & Group Connections</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-4-best-video-resume-makers/"><u>New 4 Best Video Resume Makers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-6-dvd-naar-mp4-konverter-voor-2024-de-ultieme-losung-voor-hoeveelvoudige-inhalen/"><u>Top 6 DVD Naar MP4 Konverter Voor 2024: De Ultieme Lösung Voor Hoeveelvoudige Inhalen</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/top-tips-for-leveraging-manycam-in-your-live-streaming-setup-with-virtual-cam-features/"><u>Top Tips for Leveraging ManyCam in Your Live Streaming Setup with Virtual Cam Features</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-ts-videos-into-high-quality-mp4-files-at-no-cost-using-movavis-web-tool/"><u>Transform Your .TS Videos Into High-Quality .MP4 Files at No Cost Using Movavi's Web Tool</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transforma-videos-mkv-a-mp4-gratuita-y-facil-la-guia-de-movavi/"><u>Transforma Vídeos MKV a MP4 Gratuita Y Fácil: La Guía De Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-3gpp-en-format-3gp-gratuitement-sur-internet-logiciel-de-conversion-rapide/"><u>Transformez Votre Fichier 3GPP en Format 3GP Gratuitement Sur Internet - Logiciel De Conversion Rapide</u></a></li>
+</ul></div>
+

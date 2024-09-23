@@ -1,7 +1,7 @@
 ---
 title: "Business Launch: OpenAI Unveils Enterprise-Focused ChatGPT Solution - Insights From ZDNet"
-date: 2024-09-17 13:20:31
-updated: 2024-09-20 12:23:56
+date: 2024-09-19T17:06:46.531Z
+updated: 2024-09-23T16:09:31.991Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,31 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-finest-9-mic-recorders-web-based-edition/"><u>[New] In 2024, The Finest 9 Mic Recorders, Web-Based Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-olympic-speed-skating-sprint-games-best-performances/"><u>[New] Olympic Speed Skating Sprint Games' Best Performances</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unparalleled-vr-game-setups-top-8-edition/"><u>[New] Unparalleled VR Game Setups Top 8 Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-overcoming-the-challenge-of-hidden-youtube-shorts-thumbnails/"><u>2024 Approved Overcoming the Challenge of Hidden YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-lava-yuva-3-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Lava Yuva 3 Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726221967132-mp3-wma-movavi/"><u>簡便無限制的 MP3 和 WMA 間接流程- 利用 Movavi 解決方案</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-finest-selection-the-best-10-slow-motion-video-editing-tools-online/"><u>Discover the Finest Selection: The Best 10 Slow-Motion Video Editing Tools Online</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortless-online-f4v-flv-file-format-change-get-started-with-movavi-now/"><u>Effortless Online F4V-FLV File Format Change - Get Started with Movavi Now</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratuit-verbetering-m4a-in-wav-formaat-efficient-online-tool-movavi/"><u>Gratuit Verbetering M4A in WAV Formaat: Efficiënt Online-Tool Movavi</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-gratis-convert-m2ts-file-format-seamlessly-into-mp4-without-quality-loss/"><u>Online Gratis: Convert M2TS File Format Seamlessly Into MP4 without Quality Loss</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/read-faster-with-flip-reader-your-essential-tool-for-ebooks-in-fbrzip-formats-from-flipbuilder/"><u>Read Faster with Flip Reader - Your Essential Tool for EBooks in Fbr/Zip Formats From FlipBuilder</u></a></li>
+<li><a href="https://os-tips.techidaily.com/review-infinacore-t3-the-ultimate-portable-wireless-charger-and-multi-device-hub-with-ergonomic-adaptability/"><u>Review: Infinacore T3 - The Ultimate Portable Wireless Charger and Multi-Device Hub with Ergonomic Adaptability</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transferer-facilement-un-gif-vers-une-video-mp4-sans-frais-tutorials-video-professionnels-avec-movavi/"><u>Transférer Facilement Un GIF Vers Une Vidéo MP4 Sans Frais - Tutorials Vidéo Professionnels Avec Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trasformare-i-file-mpeg-in-formato-m4v-gratuitamente-online-con-convertimpeg/"><u>Trasformare I File MPEG in Formato M4V Gratuitamente Online Con ConvertiMpeg</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/unlocking-secrets-your-complete-overview-of-stardew-and-ginger-isle-for-2024/"><u>Unlocking Secrets Your Complete Overview of Stardew and Ginger Isle for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/wma-m4r-movavi/"><u>오피니 공간에서 WMA펫스를 M4R 파일로 자유성적으로 전환: 무료 해상도 - MOVAVI</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726227435766-flv-mp4/"><u>제공자가 아닌 FLV 파일을 MP4로 변환 - 오픈소스 앱</u></a></li>
+</ul></div>
+

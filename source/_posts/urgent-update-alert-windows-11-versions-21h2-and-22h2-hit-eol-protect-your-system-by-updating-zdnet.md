@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Protect Your System by Updating! (ZDNet)"
-date: 2024-09-19 13:16:47
-updated: 2024-09-20 11:16:57
+date: 2024-09-20T16:55:59.194Z
+updated: 2024-09-23T17:04:14.883Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +135,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +199,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-building-an-empire-in-smm-a-step-by-step-guide-for-success/"><u>[New] Building an Empire in SMM A Step-by-Step Guide for Success</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-conveying-cinematic-dreams-through-screenwriting/"><u>[New] Conveying Cinematic Dreams Through Screenwriting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-elevate-your-streams-with-seamless-obspluszoom-integration-for-2024/"><u>[New] Elevate Your Streams with Seamless OBS+Zoom Integration for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imagepurityplus-professional-photo-editing-suite/"><u>2024 Approved ImagePurityPlus Professional Photo Editing Suite</u></a></li>
+<li><a href="https://win-lab.techidaily.com/conversion-gratuit-des-fichiers-mpe-vers-linternet-utilisez-les-services-de-movavi-pour-un-processus-facile-et-rapide/"><u>Conversion Gratuit Des Fichiers MPE Vers L'internet : Utilisez Les Services De Movavi Pour Un Processus Facile Et Rapide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/convertissez-votre-fichier-m4a-au-format-wmv-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Votre Fichier M4A Au Format WMV Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ferramenta-on-line-sem-custo-transforme-seu-m2ts-em-mp4-usando-movavi-aulas-iniciais/"><u>Ferramenta On-Line Sem Custo: Transforme Seu M2TS Em MP4 Usando Movavi – Aulas Iniciais</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-install-an-sd-card-on-your-steam-deck/"><u>How to Install an SD Card on Your Steam Deck</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-memes-unleashed-ranking-the-best-templates-10/"><u>In 2024, Memes Unleashed Ranking the Best Templates #10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-the-art-of-invisible-viewership-on-instagram-live/"><u>Mastering the Art of Invisible Viewership on Instagram Live</u></a></li>
+<li><a href="https://win-lab.techidaily.com/online-kostenloser-asf-zu-wav-konverter-mit-movavi-fugen-sie-ihren-audiodateien-heute-eine-neue-qualitatsebene-hinzu/"><u>Online Kostenloser ASF Zu WAV Konverter Mit Movavi – Fügen Sie Ihren Audiodateien Heute Eine Neue Qualitätsebene Hinzu!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/swf-online-swf-movavi/"><u>SWF 파일을 원격으로 제공하는 무료 Online SWF 변환 도구 - Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ultimate-guide-capturing-crisp-lag-free-minecraft-gaming-footage/"><u>Ultimate Guide: Capturing Crisp, Lag-Free Minecraft Gaming Footage</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mp4-flv-online/"><u>무료 MP4, FLV 압쇄 전환 - Online 솔루션</u></a></li>
+</ul></div>
+

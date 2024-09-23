@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Recent Disruption in Microsoft 365 Usage: Incident Report and Resolution Insights"
-date: 2024-09-17 17:28:20
-updated: 2024-09-20 10:55:47
+date: 2024-09-16T16:53:33.809Z
+updated: 2024-09-23T16:37:53.142Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,30 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-easier-cinematography-perfecting-fade-effects-for-2024/"><u>[New] Easier Cinematography Perfecting Fade Effects for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-streamlining-video-production-merging-youtube-editing-and-imovies-best-practices/"><u>[New] Streamlining Video Production Merging YouTube Editing & iMovie's Best Practices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-directly-connect-youtube-tunes-to-imovie-seamlessly/"><u>[Updated] Directly Connect YouTube Tunes to iMovie Seamlessly</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-become-a-communication-connoisseur-with-google-meet/"><u>[Updated] In 2024, Become a Communication Connoisseur with Google Meet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-meizu-21-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Meizu 21 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/descargar-gratuito-de-convertir-video-m1v-a-formato-mp4-con-software-online/"><u>Descargar Gratuito De Convertir Video M1V a Formato MP4 Con Software Online</u></a></li>
+<li><a href="https://win-lab.techidaily.com/diy-image-gallery-maker-craft-stunning-slideshows-with-soundtrack/"><u>DIY Image Gallery Maker: Craft Stunning Slideshows With Soundtrack!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/1720062675509-latest-usb-drivers-version-45-for-u-are-u-fp/"><u>Latest USB Drivers: Version 4.5 for U-Are-U FP</u></a></li>
+<li><a href="https://games-able.techidaily.com/mastering-your-gaming-setup-key-mice-traits-on-the-rise/"><u>Mastering Your Gaming Setup: Key Mice Traits on the Rise</u></a></li>
+<li><a href="https://win-lab.techidaily.com/movavis-web-based-tool-for-complimentary-mpeg-encoding-from-ram-files/"><u>Movavi's Web-Based Tool for Complimentary MPEG Encoding From RAM Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/radka-nefunguje-obrazovka-nahravani-movavi-v-prubehu-oprav/"><u>Rádka - Nefunguje Obrazovka Nahrávání [Movavi] v Průběhu Oprav</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-complete-blueprint-to-tally-your-youtube-growth-and-income/"><u>The Complete Blueprint to Tally Your YouTube Growth and Income</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-to-the-best-16-automatic-subtitle-creation-tools-for-video-editors/"><u>The Ultimate Guide to the Best 16 Automatic Subtitle Creation Tools for Video Editors</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trp-mp4-online-movavi/"><u>TRP MP4 영상을 쉽게 오늘 무료로 Online 전환: Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/turkce-odeme-yontemlere-ulasabilmenin-isbir-gecerli-capadaklarini-belirleyecegine-daha-basarili-turkumulermis/"><u>Türkçe: Ödeme Yöntemlere Ulaşabilmenin İşbir-Geçerli Çapadaklarını Belirleyeceğine Daha Başarılı Türkümülermiş</u></a></li>
+</ul></div>
+

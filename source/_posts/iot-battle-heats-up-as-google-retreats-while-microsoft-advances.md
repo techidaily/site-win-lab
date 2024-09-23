@@ -1,7 +1,7 @@
 ---
 title: IoT Battle Heats Up as Google Retreats While Microsoft Advances
-date: 2024-09-19 17:24:39
-updated: 2024-09-20 10:25:32
+date: 2024-09-21T17:14:53.111Z
+updated: 2024-09-23T16:33:21.983Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,41 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-jumpstart-your-journey-essential-youtubing-skills-course/"><u>[New] 2024 Approved Jumpstart Your Journey Essential YouTubing Skills Course</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-audioextractorproxs-new-era-insights-from-the-2024-update/"><u>[New] AudioExtractorProX's New Era Insights From the 2024 Update</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-exploring-adsense-revenue-streams-on-youtube-for-every-1k-watcher-for-2024/"><u>[New] Exploring AdSense Revenue Streams on YouTube for Every 1K Watcher for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-capturing-competitive-overwatch-in-minutes/"><u>[Updated] Capturing Competitive Overwatch in Minutes</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-navigating-the-soundscape-downloading-and-instaling-vrecorder-for-2024/"><u>[Updated] Navigating the Soundscape Downloading and Instaling VRecorder for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2024s-elite-list-of-windows-11-graphic-game-programs-ranking-the-top-14-choices/"><u>2024'S Elite List of Windows 11 Graphic Game Programs – Ranking the Top 14 Choices</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-radeon-r9-graphics-card-how-to-update-your-drivers-on-a-windows-machine/"><u>AMD Radeon R9 Graphics Card - How To Update Your Drivers on a Windows Machine</u></a></li>
+<li><a href="https://win-lab.techidaily.com/convertissez-votre-fichier-m4a-au-format-wmv-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Votre Fichier M4A Au Format WMV Gratuitement en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/crea-versioni-swf-da-file-video-flvmp4-converti-gratuitamente-con-movavi/"><u>Crea Versioni SWF Da File Video FLV/MP4: Converti Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/descargar-gratuito-de-convertir-video-m1v-a-formato-mp4-con-software-online/"><u>Descargar Gratuito De Convertir Video M1V a Formato MP4 Con Software Online</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ferramenta-on-line-sem-custo-transforme-seu-m2ts-em-mp4-usando-movavi-aulas-iniciais/"><u>Ferramenta On-Line Sem Custo: Transforme Seu M2TS Em MP4 Usando Movavi – Aulas Iniciais</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic5-ultimate-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-we-overcame-the-problem-of-contacting-a-non-responsive-dhcp-server/"><u>How We Overcame the Problem of Contacting a Non-Responsive DHCP Server</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-strategies-for-altering-pubg-speech/"><u>In 2024, Innovative Strategies for Altering PUBG Speech</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mp4-to-mpeg-transformation-for-free-discover-the-power-of-movavis-online-tool/"><u>MP4 to MPEG Transformation for Free: Discover the Power of Movavi's Online Tool!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726228209297-mp4asf-movavi/"><u>MP4與ASF間無障礙交換的線上自由方法 - Movavi影片轉檔器</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725287583597-music-fm/"><u>Music FM復活へ：最新版無料音楽アプリインストールガイド</u></a></li>
+<li><a href="https://win-lab.techidaily.com/radka-nefunguje-obrazovka-nahravani-movavi-v-prubehu-oprav/"><u>Rádka - Nefunguje Obrazovka Nahrávání [Movavi] v Průběhu Oprav</u></a></li>
+<li><a href="https://win-lab.techidaily.com/swf-online-swf-movavi/"><u>SWF 파일을 원격으로 제공하는 무료 Online SWF 변환 도구 - Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

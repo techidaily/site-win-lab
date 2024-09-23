@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Encourages Innovation in Excel: My Response and Experience Detailed on ZDNet"
-date: 2024-09-19 21:18:57
-updated: 2024-09-20 10:30:12
+date: 2024-09-21T16:07:27.478Z
+updated: 2024-09-23T16:42:52.637Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,31 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +193,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-screen-recording-software-list-for-vloggers/"><u>[Updated] 2024 Approved Essential Screen Recording Software List for Vloggers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-a-step-by-step-guide-to-soundtracks-on-social-feeds/"><u>[Updated] In 2024, A Step-by-Step Guide to Soundtracks on Social Feeds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-optimal-methods-for-controlling-video-pace-on-snapchat/"><u>2024 Approved Optimal Methods for Controlling Video Pace on Snapchat</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2024s-elite-list-of-windows-11-graphic-game-programs-ranking-the-top-14-choices/"><u>2024'S Elite List of Windows 11 Graphic Game Programs – Ranking the Top 14 Choices</u></a></li>
+<li><a href="https://win-lab.techidaily.com/crea-versioni-swf-da-file-video-flvmp4-converti-gratuitamente-con-movavi/"><u>Crea Versioni SWF Da File Video FLV/MP4: Converti Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/descargar-gratuito-de-convertir-video-m1v-a-formato-mp4-con-software-online/"><u>Descargar Gratuito De Convertir Video M1V a Formato MP4 Con Software Online</u></a></li>
+<li><a href="https://media-tips.techidaily.com/free-conversion-guide-transform-your-avchd-videos-without-hitch/"><u>Free Conversion Guide: Transform Your AVCHD Videos Without Hitch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-budget-friendly-strategies-to-infuse-text-and-video/"><u>In 2024, Budget-Friendly Strategies to Infuse Text & Video</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mp4-to-mpeg-transformation-for-free-discover-the-power-of-movavis-online-tool/"><u>MP4 to MPEG Transformation for Free: Discover the Power of Movavi's Online Tool!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726228209297-mp4asf-movavi/"><u>MP4與ASF間無障礙交換的線上自由方法 - Movavi影片轉檔器</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-ditch-the-limits-installing-linux-on-your-chromebook-updated-2023/"><u>Updated 2024 Approved Ditch the Limits Installing Linux on Your Chromebook (Updated 2023)</u></a></li>
+</ul></div>
+

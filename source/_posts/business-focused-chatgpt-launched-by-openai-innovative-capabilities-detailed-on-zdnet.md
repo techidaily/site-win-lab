@@ -1,7 +1,7 @@
 ---
 title: Business-Focused ChatGPT Launched by OpenAI; Innovative Capabilities Detailed on ZDNET
-date: 2024-09-19 18:33:49
-updated: 2024-09-20 10:46:53
+date: 2024-09-22T16:21:06.770Z
+updated: 2024-09-23T17:08:47.010Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -115,11 +129,25 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -159,11 +187,29 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-eye-on-the-screen-youtube-journey-comparison-from-creator-to-competitor/"><u>[Updated] Eye on the Screen YouTube Journey Comparison From Creator to Competitor</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-frame-rate-selection-made-simple-pros-and-cons-of-30fps-and-60hz/"><u>[Updated] Frame Rate Selection Made Simple Pros and Cons of 30Fps and 60Hz</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-zoom-techniques-enhance-photos-and-videos-with-simple-steps/"><u>[Updated] Optimal Zoom Techniques Enhance Photos & Videos with Simple Steps</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-grandes-selecciones-de-musica-ideal-para-complementar-fotografias-en-video/"><u>1. Grandes Selecciones De Música Ideal Para Complementar Fotografías en Video</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-upgrade-list-best-accessories-for-phantom-4/"><u>2024 Approved The Ultimate Upgrade List Best Accessories for Phantom 4</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-free-software-for-rotating-videos-in-windows-11-top-picks/"><u>Best Free Software for Rotating Videos in Windows 11: Top Picks</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-printer-drivers-compatible-with-windows-7-8-and-10-free-download-guide/"><u>Canon Printer Drivers Compatible with Windows 7, 8 & 10 - Free Download Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/vate-crowds-mastering-hashtag-use-in-high-traffic-short-videos/"><u>Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos</u></a></li>
+<li><a href="https://win-lab.techidaily.com/conversion-gratuit-des-fichiers-mpe-vers-linternet-utilisez-les-services-de-movavi-pour-un-processus-facile-et-rapide/"><u>Conversion Gratuit Des Fichiers MPE Vers L'internet : Utilisez Les Services De Movavi Pour Un Processus Facile Et Rapide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratuit-online-converteren-van-3gp-naar-m4a-movavi/"><u>Gratuit Online Converteren Van 3GP Naar M4A - Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/online-kostenloser-asf-zu-wav-konverter-mit-movavi-fugen-sie-ihren-audiodateien-heute-eine-neue-qualitatsebene-hinzu/"><u>Online Kostenloser ASF Zu WAV Konverter Mit Movavi – Fügen Sie Ihren Audiodateien Heute Eine Neue Qualitätsebene Hinzu!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transforma-videos-mkv-a-mp4-gratuita-y-facil-la-guia-de-movavi/"><u>Transforma Vídeos MKV a MP4 Gratuita Y Fácil: La Guía De Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-nvidia-control-panel-malfunctions/"><u>Troubleshooting Steps: Resolving NVIDIA Control Panel Malfunctions</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-optimizing-video-output-a-comprehensive-guide-to-compressor-in-fcpx/"><u>Updated In 2024, Optimizing Video Output A Comprehensive Guide to Compressor in FCPX</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mp4-flv-online/"><u>무료 MP4, FLV 압쇄 전환 - Online 솔루션</u></a></li>
+</ul></div>
+

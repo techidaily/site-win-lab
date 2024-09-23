@@ -1,7 +1,7 @@
 ---
 title: Unannounced Microsoft Enhancement Leads to User Uproar, Industry Taken by Surprise | ITInsider
-date: 2024-09-18 22:54:21
-updated: 2024-09-20 12:42:37
+date: 2024-09-22T16:16:47.060Z
+updated: 2024-09-23T16:04:23.568Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -115,15 +122,36 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -159,11 +187,27 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-7-low-cost-tiktok-video-enhancements-on-macos/"><u>[New] 2024 Approved 7 Low-Cost TikTok Video Enhancements on MacOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-secrets-from-the-pros-high-quality-roblox-recordings-mac-edition/"><u>[Updated] In 2024, Secrets From the Pros High-Quality Roblox Recordings (Mac Edition)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-lightrooms-10-lut-sensations-transforming-photos/"><u>[Updated] LightRoom's 10 LUT Sensations Transforming Photos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-newbies-guide-to-vlogging-gear-and-software-insights/"><u>[Updated] Newbie's Guide to Vlogging Gear and Software Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2024s-elite-list-of-windows-11-graphic-game-programs-ranking-the-top-14-choices/"><u>2024'S Elite List of Windows 11 Graphic Game Programs – Ranking the Top 14 Choices</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/6-popular-animated-emoji-video-effects-for-2024/"><u>6 Popular Animated Emoji Video Effects for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/crea-versioni-swf-da-file-video-flvmp4-converti-gratuitamente-con-movavi/"><u>Crea Versioni SWF Da File Video FLV/MP4: Converti Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-solve-difficulties-with-your-wireless-adapters-realtek-rtl8811au-drivers/"><u>How to Solve Difficulties With Your Wireless Adapter's Realtek RTL8811AU Drivers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/increase-your-wi-fi-coverage-an-insightful-review-of-the-netgear-ex3700-ac750-range-booster/"><u>Increase Your Wi-Fi Coverage: An Insightful Review of the Netgear EX3700 AC750 Range Booster</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mp4-to-mpeg-transformation-for-free-discover-the-power-of-movavis-online-tool/"><u>MP4 to MPEG Transformation for Free: Discover the Power of Movavi's Online Tool!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726228209297-mp4asf-movavi/"><u>MP4與ASF間無障礙交換的線上自由方法 - Movavi影片轉檔器</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transformacion-gratuita-de-archivos-mpeg-a-formatos-m4a-con-movavi/"><u>Transformación Gratuita De Archivos MPEG a Formatos M4A Con Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
+</ul></div>
+
