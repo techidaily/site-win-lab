@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Value of Older iPhones for Today's Tech-Savvy Users
-date: 2024-09-16T16:27:48.082Z
-updated: 2024-09-23T16:35:34.686Z
+date: 2024-09-22T05:04:25.716Z
+updated: 2024-09-28T03:48:03.687Z
 tags:
   - windows
 categories:
@@ -33,18 +33,18 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -61,18 +61,18 @@ Double-click the icon, and a window opens with all the available settings. The c
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -98,10 +98,16 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -111,10 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -154,5 +160,26 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-showcase-excellence-with-these-essential-thumbnail-fonts/"><u>[New] In 2024, Showcase Excellence with These Essential Thumbnail Fonts</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nlocking-the-door-to-dual-video-playback/"><u>[New] Unlocking the Door to Dual Video Playback</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-a-quick-guide-to-editing-and-updating-twitter-video-images/"><u>[Updated] A Quick Guide to Editing and Updating Twitter Video Images</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-all-about-razers-hd-webcam-full-analysis-for-2024/"><u>[Updated] All About Razer's HD Webcam Full Analysis for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-explaining-the-gopro-burst-mode/"><u>[Updated] Explaining the GoPro Burst Mode</u></a></li>
+<li><a href="https://os-tips.techidaily.com/complete-tutorial-how-to-reflect-iphone-display-on-a-2024-vizio-television/"><u>Complete Tutorial: How to Reflect iPhone Display on a 2024 VIZIO Television</u></a></li>
+<li><a href="https://discover-great.techidaily.com/duplicate-a-dvd-with-high-fidelity-on-your-mac-a-comprehensive-tutorial/"><u>Duplicate a DVD with High Fidelity on Your Mac – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-broadcast-gaming-sessions-successfully-a-complete-guide-to-live-streaming-on-hitbox/"><u>How to Broadcast Gaming Sessions Successfully: A Complete Guide to Live Streaming on Hitbox</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-device-editors-for-app-development/"><u>In 2024, Prime Device Editors for App Development</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-ceo-resignation-unpacking-the-implications-for-chatgpt-technology/"><u>OpenAI CEO Resignation: Unpacking the Implications for ChatGPT Technology.</u></a></li>
+<li><a href="https://win-lab.techidaily.com/step-by-step-tutorial-securely-save-newsmax-video-content/"><u>Step-by-Step Tutorial: Securely Save Newsmax Video Content</u></a></li>
+<li><a href="https://win-lab.techidaily.com/streetvoice-audio-downloads-in-multiple-formats-mp3-wav-aac-and-more/"><u>StreetVoice Audio Downloads in Multiple Formats - MP3, WAV, AAC, and More</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-ultimate-tutorial-on-downloading-clipfish-content-with-ease/"><u>The Ultimate Tutorial on Downloading Clipfish Content with Ease</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-alternatives-to-streamtransport-the-best-options-for-both-mac-and-windows-users/"><u>Top Alternatives to StreamTransport: The Best Options for Both Mac & Windows Users</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-choice-discover-the-ultimate-keeperaid-solution-compatible-with-macos-and-windows-by-allavsoft/"><u>Top Choice: Discover the Ultimate Keeperaid Solution Compatible with macOS & Windows by Allavsoft</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-rated-all-year-download-tool-the-ultimate-alternative-to-ytd-with-allavsoft/"><u>Top Rated All-Year Download Tool: The Ultimate Alternative to YTD with Allavsoft</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-guide-converting-and-downloading-your-favorite-chess-club-footage-in-various-formats-like-mp4-avi-and-more/"><u>Ultimate Guide: Converting and Downloading Your Favorite Chess Club Footage in Various Formats Like MP4, AVI, and More</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-tutorial-effortless-fmj-video-download-for-pcs-and-mac-users/"><u>Ultimate Tutorial: Effortless FMJ Video Download for PCs & Mac Users</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/updated-list-of-linksys-default-login-details-july-2024-edition/"><u>Updated List of Linksys Default Login Details - July 2024 Edition</u></a></li>
+</ul></div>
 

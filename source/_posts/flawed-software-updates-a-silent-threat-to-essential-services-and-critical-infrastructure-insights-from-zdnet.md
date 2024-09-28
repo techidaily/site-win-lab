@@ -1,7 +1,7 @@
 ---
 title: "Flawed Software Updates: A Silent Threat to Essential Services and Critical Infrastructure - Insights From ZDNet"
-date: 2024-09-19T16:03:23.208Z
-updated: 2024-09-23T17:10:23.788Z
+date: 2024-09-21T04:51:53.622Z
+updated: 2024-09-27T23:12:39.339Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-yourwebcamunlocked-astep-by-steprecordingpath/"><u>[Updated] 2024 Approved YourWebcamUnlocked AStep-by-StepRecordingPath</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-craft-your-countdown-adding-time-management-to-obs-sessions/"><u>[Updated] Craft Your Countdown Adding Time Management to OBS Sessions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-does-instant-subscription-strategy-improve-user-engagement/"><u>[Updated] Does Instant Subscription Strategy Improve User Engagement?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-harmonizing-hearts-and-hertz-music-on-the-vimeo-scene-for-2024/"><u>[Updated] Harmonizing Hearts and Hertz Music on the Vimeo Scene for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/elevating-imagery-detailed-analysis-of-mavic-pro-for-2024/"><u>Elevating Imagery - Detailed Analysis of Mavic Pro for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-the-new-m1-pro-transforms-the-macbook-pro-into-an-unbeatable-windows-11-machine-zdnet/"><u>How the New M1 Pro Transforms the MacBook Pro Into an Unbeatable Windows 11 Machine | ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/iconic-instagram-aesthetics-compilation/"><u>Iconic Instagram Aesthetics Compilation</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-smart-spending-on-action-cams-find-your-bargains-under-100/"><u>In 2024, Smart Spending on ACTION Cams Find Your Bargains Under $100</u></a></li>
+<li><a href="https://win-lab.techidaily.com/insiders-perspective-on-the-downside-of-working-for-microsoft-as-revealed-to-zdnet/"><u>Insider's Perspective on the Downside of Working for Microsoft, as Revealed to ZDNet</u></a></li>
+<li><a href="https://win-lab.techidaily.com/microsoft-encourages-innovation-in-excel-my-response-and-experience-detailed-on-zdnet/"><u>Microsoft Encourages Innovation in Excel: My Response and Experience Detailed on ZDNet</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/prime-locations-to-find-rich-text-enhancements-for-2024/"><u>Prime Locations to Find Rich Text Enhancements for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/prominent-ai-experts-encourage-localized-data-framework-usage-to-enhance-diverse-representation-zdnet/"><u>Prominent AI Experts Encourage Localized Data Framework Usage to Enhance Diverse Representation | ZDNET</u></a></li>
+<li><a href="https://win-lab.techidaily.com/revolutionizing-legal-workflow-microsoft-copilot-joins-forces-with-singapores-digital-law-platform-zdnet-insights/"><u>Revolutionizing Legal Workflow: Microsoft Copilot Joins Forces with Singapore's Digital Law Platform | ZDNet Insights</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
