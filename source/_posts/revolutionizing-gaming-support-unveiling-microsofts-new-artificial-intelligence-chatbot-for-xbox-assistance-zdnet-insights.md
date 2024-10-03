@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Gaming Support: Unveiling Microsoft’s New Artificial Intelligence Chatbot for Xbox Assistance | ZDNET Insights"
-date: 2024-09-26T04:49:17.209Z
-updated: 2024-09-28T01:38:51.494Z
+date: 2024-09-26T02:32:49.375Z
+updated: 2024-10-02T21:41:51.016Z
 tags:
   - microsoft
 categories:
@@ -63,13 +63,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -89,6 +82,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +123,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,15 +202,15 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-ethical-approaches-to-extract-and-convert-youtube-videos/"><u>[Updated] 2024 Approved Ethical Approaches to Extract and Convert YouTube Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unlock-immersive-worlds-with-youtubes-top-10-vr-videos/"><u>[Updated] In 2024, Unlock Immersive Worlds with YouTube's Top 10 VR Videos</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-profits-youtubes-studio-monetization-simplified/"><u>2024 Approved Elevate Your Profits YouTube's Studio Monetization Simplified</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/hering-revenue-sharing-in-youtube-shorts-for-2024/"><u>Deciphering Revenue Sharing in YouTube Shorts for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ferramenta-on-line-sem-custo-transforme-seu-m2ts-em-mp4-usando-movavi-aulas-iniciais/"><u>Ferramenta On-Line Sem Custo: Transforme Seu M2TS Em MP4 Usando Movavi – Aulas Iniciais</u></a></li>
-<li><a href="https://win-lab.techidaily.com/swf-online-swf-movavi/"><u>SWF 파일을 원격으로 제공하는 무료 Online SWF 변환 도구 - Movavi</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/tank-om-sverige-valkomma/"><u>Tänk Om Sverige: Välkomma</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
-<li><a href="https://windows11.techidaily.com/troubleshooting-unresponsive-inputs-in-win11s-sleep-mode/"><u>Troubleshooting Unresponsive Inputs in Win11's Sleep Mode</u></a></li>
-<li><a href="https://win-lab.techidaily.com/zdnet-investigates-the-value-of-older-iphones-for-todays-tech-savvy-users/"><u>ZDNet Investigates the Value of Older iPhones for Today's Tech-Savvy Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-foremost-video-starters-the-leading-16-youtube-openers/"><u>[New] 2024 Approved Foremost Video Starters The Leading 16 YouTube Openers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-youtube-to-igtv-top-methods-unveiled/"><u>2024 Approved From YouTube to IGTV Top Methods Unveiled</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-hands-on-hp-elitebook-x360-1030-g2-compatible-driver-pack-available-now/"><u>Get Your Hands on HP EliteBook X360 (1030 G2) - Compatible Driver Pack Available Now</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Lava Blaze Curve 5G</u></a></li>
+<li><a href="https://win-lab.techidaily.com/share-your-creations-easily-learn-to-send-email-attachments-with-interactive-html-links-for-flipbooks-on-flipbuildercom/"><u>Share Your Creations Easily! Learn to Send Email Attachments with Interactive HTML Links for Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-free-video-tools-cross-platform-os-support-for-2024/"><u>Top 10 Free Video Tools Cross-Platform OS Support for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-multiple-pdfs-into-interactive-flash-books-for-free/"><u>Transform Multiple PDFs Into Interactive Flash Books for Free!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-pdfs-into-engaging-flash-books-with-page-turn-sounds-on-flipbuildercom/"><u>Transform Your PDFs Into Engaging Flash Books with Page-Turn Sounds on FlipBuilder.com</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transforming-pixels-to-audible-artistry-for-2024/"><u>Transforming Pixels to Audible Artistry for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/understanding-flipbuilders-product-upgrade-strategy-a-comprehensive-guide/"><u>Understanding FlipBuilder's Product Upgrade Strategy: A Comprehensive Guide</u></a></li>
 </ul></div>
 

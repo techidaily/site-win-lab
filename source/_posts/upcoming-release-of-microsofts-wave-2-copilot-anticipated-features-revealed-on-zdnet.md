@@ -1,7 +1,7 @@
 ---
 title: Upcoming Release of Microsoft's Wave 2 Copilot - Anticipated Features Revealed on ZDNet
-date: 2024-09-26T04:13:59.532Z
-updated: 2024-09-28T05:47:28.784Z
+date: 2024-10-01T02:59:26.465Z
+updated: 2024-10-02T16:39:41.447Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-ultimate-list-of-premier-youtube-cosmetics-experts/"><u>[New] 2024 Approved The Ultimate List of Premier YouTube Cosmetics Experts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-elevate-visual-storytelling-with-the-best-scripted-text-extensions/"><u>[New] In 2024, Elevate Visual Storytelling with the Best Scripted Text Extensions</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-smart-shopping-guide-to-best-5k-screens-8/"><u>[Updated] In 2024, Smart Shopping Guide to Best 5K Screens #8</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/0x00000019-bad-pool-header-in-windows-1087-solved/"><u>0X00000019 Bad Pool Header in Windows 10/8/7 [SOLVED]</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/discover-the-ultimate-list-of-12-no-cost-ai-powered-video-improvers-for-any-device/"><u>Discover the Ultimate List of 12 No-Cost AI Powered Video Improvers for Any Device!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-pacific-drive-error-a-comprehensive-guide/"><u>Fixing the Unresponsive Pacific Drive Error - A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-realme-12-5g-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-from-iphone-11-pro-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication From iPhone 11 Pro</u></a></li>
-<li><a href="https://win-lab.techidaily.com/one-piece-series-download-full-episodes-in-various-formats-like-mp4-avi-and-more/"><u>One Piece Series: Download Full Episodes in Various Formats Like MP4, AVI, and More</u></a></li>
-<li><a href="https://win-lab.techidaily.com/outstanding-video-converter-options-beyond-freemake-for-apple-users-and-window-enthusiasts/"><u>Outstanding Video Converter Options: Beyond FreeMake for Apple Users & Window Enthusiasts</u></a></li>
-<li><a href="https://win-lab.techidaily.com/pirates-of-the-caribbean-complete-collection-free-download-in-hd-video-formats-mp4-and-avi-for-pc-and-mac-users/"><u>Pirates of the Caribbean Complete Collection: Free Download in HD Video Formats (MP4 & AVI) for PC and Mac Users</u></a></li>
-<li><a href="https://win-lab.techidaily.com/seamlessly-save-your-skillshare-classes-as-mp4-or-mp3-with-our-exclusive-download-tool/"><u>Seamlessly Save Your Skillshare Classes as MP4 or MP3 with Our Exclusive Download Tool!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-converting-archived-wayback-machine-footage-into-various-video-formats/"><u>Step-by-Step Guide: Converting Archived Wayback Machine Footage Into Various Video Formats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-metaverse-masterpieces-transforming-images-into-memetic-hits/"><u>[New] In 2024, Metaverse Masterpieces Transforming Images Into Memetic Hits</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop/"><u>[New] Master's Tutorial Total Deep Dive Into XMedia Suite Workshop</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-a-list-mobile-camera-utilities-for-iphone/"><u>[Updated] A-List Mobile Camera Utilities for iPhone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-insta-photo-carousel-magic/"><u>[Updated] In 2024, Insta-Photo Carousel Magic</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-seamlessly-post-vimeo-to-instagram/"><u>[Updated] In 2024, Seamlessly Post Vimeo to Instagram</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-effortless-techniques-for-seamlessly-moving-images-from-ios-devices-to-a-windows-10-pc-without-using-itunes/"><u>1. Effortless Techniques for Seamlessly Moving Images From iOS Devices to a Windows 10 PC Without Using iTunes</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-quick-and-simple-guide-moving-your-icloud-contacts-over-to-android/"><u>1. Quick and Simple Guide: Moving Your iCloud Contacts Over to Android</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevate-your-videography-premiere-to-youtube-upload/"><u>2024 Approved Elevate Your Videography Premiere to YouTube Upload</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-4-display-sharing-applications-for-your-mi-device-a-comprehensive-guide/"><u>Best 4 Display Sharing Applications for Your Mi Device: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/choosing-the-right-tool-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Tool: Snapchat's My AI Vs. ChatGPT</u></a></li>
+<li><a href="https://win-lab.techidaily.com/easy-ipad-pdf-form-filling-app-effortlessly-complete-pdfs-directly-from-your-apple-tablet/"><u>Easy iPad PDF Form Filling App: Effortlessly Complete PDFs Directly From Your Apple Tablet</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effective-solutions-for-when-apowerunlock-struggles-with-identifying-your-ios-device/"><u>Effective Solutions for When Apowerunlock Struggles with Identifying Your iOS Device</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortless-transformation-how-to-turn-videos-into-gif-format/"><u>Effortless Transformation: How to Turn Videos Into GIF Format</u></a></li>
+<li><a href="https://win-lab.techidaily.com/essential-insights-into-the-mpeg-4-video-file-standard/"><u>Essential Insights Into the MPEG-4 Video File Standard</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-kernel32dll-failures/"><u>Overcoming Kernel32.dll Failures</u></a></li>
+<li><a href="https://win-lab.techidaily.com/simple-guide-how-to-record-your-entire-mac-screen-as-a-video/"><u>Simple Guide: How to Record Your Entire Mac Screen as a Video</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-steps-to-repair-your-pc-when-it-powers-up-with-blank-screen/"><u>Solving the Dilemma: Steps to Repair Your PC When It Powers Up with Blank Screen</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-jackery-energy-station-evaluating-its-integrated-ac-receptacle-functionality/"><u>The Ultimate Guide to the Jackery Energy Station - Evaluating Its Integrated AC Receptacle Functionality</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-rated-jpeg-image-de-watermarking-tools/"><u>Top Rated JPEG Image De-Watermarking Tools</u></a></li>
 </ul></div>
 

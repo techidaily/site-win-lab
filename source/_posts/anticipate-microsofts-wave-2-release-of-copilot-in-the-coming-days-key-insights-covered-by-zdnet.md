@@ -1,7 +1,7 @@
 ---
 title: Anticipate Microsoft's Wave 2 Release of Copilot in the Coming Days - Key Insights Covered by ZDNet
-date: 2024-09-21T23:44:43.650Z
-updated: 2024-09-28T01:24:19.560Z
+date: 2024-10-01T05:21:54.924Z
+updated: 2024-10-02T19:13:56.742Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,29 +136,22 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-discover-the-best-video-recording-tools-of-2024-expert-opinions/"><u>[New] Discover the Best Video Recording Tools of 2024 – Expert Opinions</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-from-zero-to-hero-crafting-an-authoritative-online-self/"><u>[New] From Zero to Hero Crafting an Authoritative Online Self</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-reimagining-action-filming-the-complete-review-of-sj7s-star-cam/"><u>[New] Reimagining Action Filming The Complete Review of SJ7's Star Cam</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-navigating-content-size-on-igtv-top-5-expert-tips-to-consider/"><u>[Updated] In 2024, Navigating Content Size on IGTV Top 5 Expert Tips to Consider</u></a></li>
-<li><a href="https://win-lab.techidaily.com/business-launch-openai-unveils-enterprise-focused-chatgpt-solution-insights-from-zdnet/"><u>Business Launch: OpenAI Unveils Enterprise-Focused ChatGPT Solution - Insights From ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/does-bing-truly-challenge-google-unraveling-the-dynamics-insights-from-zdnet/"><u>Does Bing Truly Challenge Google? Unraveling the Dynamics - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/easy-access-luxury-free-access-to-your-dreamset-of-50-banners/"><u>Easy-Access Luxury - Free Access to Your Dreamset of 50 Banners</u></a></li>
-<li><a href="https://win-lab.techidaily.com/first-impressions-testing-the-limits-of-microsofts-surface-pro-and-laptop-could-they-replace-my-macbook-in-depth-review-techzoom/"><u>First Impressions: Testing the Limits of Microsoft's Surface Pro & Laptop - Could They Replace My MacBook? [In-Depth Review] | TechZoom</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-honor-magic5-ultimate-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Honor Magic5 Ultimate Devices | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-buy-mirillis-products-understanding-the-purchasing-process-and-payment-methods/"><u>How to Buy Mirillis Products: Understanding the Purchasing Process and Payment Methods</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-poco-x6-pro-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Poco X6 Pro Phone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/incoming-changes-alert-windows-11-update-fees-set-by-microsoft-for-next-year-what-youll-need-to-pay-wired-innovation-news/"><u>Incoming Changes Alert: Windows 11 Update Fees Set by Microsoft for Next Year - What You'll Need to Pay | Wired Innovation News</u></a></li>
-<li><a href="https://win-lab.techidaily.com/personalized-help-with-mirallis-products-top-tier-user-support-services/"><u>Personalized Help with Mirallis Products – Top-Tier User Support Services</u></a></li>
-<li><a href="https://win-lab.techidaily.com/stay-on-track-with-mirillis-seamless-activation-and-key-management-solutions/"><u>Stay on Track with Mirillis: Seamless Activation & Key Management Solutions</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2024s-elite-list-of-windows-11-graphic-game-programs-ranking-the-top-14-choices/"><u>2024'S Elite List of Windows 11 Graphic Game Programs – Ranking the Top 14 Choices</u></a></li>
+<li><a href="https://win-lab.techidaily.com/crea-versioni-swf-da-file-video-flvmp4-converti-gratuitamente-con-movavi/"><u>Crea Versioni SWF Da File Video FLV/MP4: Converti Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/descargar-gratuito-de-convertir-video-m1v-a-formato-mp4-con-software-online/"><u>Descargar Gratuito De Convertir Video M1V a Formato MP4 Con Software Online</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ferramenta-on-line-sem-custo-transforme-seu-m2ts-em-mp4-usando-movavi-aulas-iniciais/"><u>Ferramenta On-Line Sem Custo: Transforme Seu M2TS Em MP4 Usando Movavi – Aulas Iniciais</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-100-pro-by-drfone-android/"><u>Full Guide to Unlock Your Honor 100 Pro</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-invent-comical-content/"><u>In 2024, Invent Comical Content</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/local-voices-teach-you-romanian/"><u>Local Voices Teach You Romanian</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/masterclass-selecting-christian-streaming-platforms-for-2024/"><u>Masterclass Selecting Christian Streaming Platforms for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-human-ai-dialogue-learn-to-communicate-with-chatgpt-today/"><u>Mastering Human-AI Dialogue: Learn to Communicate with ChatGPT Today</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mp4-to-mpeg-transformation-for-free-discover-the-power-of-movavis-online-tool/"><u>MP4 to MPEG Transformation for Free: Discover the Power of Movavi's Online Tool!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726228209297-mp4asf-movavi/"><u>MP4與ASF間無障礙交換的線上自由方法 - Movavi影片轉檔器</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-preventing-euro-truck-simulator-2-from-crashing-on-windows-systems/"><u>Optimizing Performance: Preventing Euro Truck Simulator 2 From Crashing on Windows Systems</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/visual-storytelling-with-vsco-a-complete-guide/"><u>Visual Storytelling with VSCO A Complete Guide</u></a></li>
 </ul></div>
 

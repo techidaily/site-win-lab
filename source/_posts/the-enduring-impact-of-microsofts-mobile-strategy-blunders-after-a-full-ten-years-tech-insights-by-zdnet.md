@@ -1,7 +1,7 @@
 ---
 title: The Enduring Impact of Microsoft's Mobile Strategy Blunders After a Full Ten Years | Tech Insights by ZDNET
-date: 2024-09-26T17:06:18.411Z
-updated: 2024-09-27T16:01:10.503Z
+date: 2024-09-30T22:56:04.526Z
+updated: 2024-10-02T17:56:17.054Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,30 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-flutter-free-video-conversion-the-best-alternatives-for-youtube-upload-for-2024/"><u>[New] Flutter Free Video Conversion The Best Alternatives for YouTube Upload for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-auditory-ambience-finder-for-film-and-video-sets/"><u>2024 Approved Auditory Ambience Finder For Film and Video Sets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-top-15-cinematic-tools-for-gopro-videos-and-films/"><u>2024 Approved Top 15 Cinematic Tools for GoPro Videos and Films</u></a></li>
-<li><a href="https://win-lab.techidaily.com/2024s-elite-list-of-windows-11-graphic-game-programs-ranking-the-top-14-choices/"><u>2024'S Elite List of Windows 11 Graphic Game Programs – Ranking the Top 14 Choices</u></a></li>
-<li><a href="https://win-lab.techidaily.com/crea-versioni-swf-da-file-video-flvmp4-converti-gratuitamente-con-movavi/"><u>Crea Versioni SWF Da File Video FLV/MP4: Converti Gratuitamente Con Movavi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/descargar-gratuito-de-convertir-video-m1v-a-formato-mp4-con-software-online/"><u>Descargar Gratuito De Convertir Video M1V a Formato MP4 Con Software Online</u></a></li>
-<li><a href="https://win-lab.techidaily.com/movavis-web-based-tool-for-complimentary-mpeg-encoding-from-ram-files/"><u>Movavi's Web-Based Tool for Complimentary MPEG Encoding From RAM Files</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mp4-to-mpeg-transformation-for-free-discover-the-power-of-movavis-online-tool/"><u>MP4 to MPEG Transformation for Free: Discover the Power of Movavi's Online Tool!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1726228209297-mp4asf-movavi/"><u>MP4與ASF間無障礙交換的線上自由方法 - Movavi影片轉檔器</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-how-to-be-a-good-podcast-host-for-2024/"><u>New How to Be a Good Podcast Host for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/overcoming-logitech-f71nt-migrate-to-windows-111087-heres-your-fix/"><u>Overcoming Logitech F71n't Migrate to Windows 11/10/8/7? Here's Your Fix!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/radka-nefunguje-obrazovka-nahravani-movavi-v-prubehu-oprav/"><u>Rádka - Nefunguje Obrazovka Nahrávání [Movavi] v Průběhu Oprav</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-honor-100-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Honor 100 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-10-photography-image-recovery-solutions-advantages-and-disadvantages/"><u>Top 10 Photography Image Recovery Solutions : Advantages & Disadvantages</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-usb-connection-issues-resolving-the-persistent-device-not-recognized/"><u>Troubleshooting USB Connection Issues: Resolving the Persistent 'Device Not Recognized'</u></a></li>
-<li><a href="https://win-lab.techidaily.com/trp-mp4-online-movavi/"><u>TRP MP4 영상을 쉽게 오늘 무료로 Online 전환: Movavi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/turkce-odeme-yontemlere-ulasabilmenin-isbir-gecerli-capadaklarini-belirleyecegine-daha-basarili-turkumulermis/"><u>Türkçe: Ödeme Yöntemlere Ulaşabilmenin İşbir-Geçerli Çapadaklarını Belirleyeceğine Daha Başarılı Türkümülermiş</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ultimate-guide-to-the-most-effective-mts-video-converter-of-202nce-compatible-with-win10-and-win11/"><u>Ultimate Guide to the Most Effective MTS Video Converter of 202Nce | Compatible with Win10 and Win11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-expert-strategies-for-an-engaging-zoom-youtube-live-session/"><u>[New] 2024 Approved Expert Strategies for an Engaging Zoom YouTube Live Session</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-garageband-strategies-for-perfect-podcast-editing/"><u>[New] GarageBand Strategies for Perfect Podcast Editing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/access-the-complete-infinite-skills-course-series-subtitled-videos-available-for-download-now/"><u>Access the Complete Infinite Skills Course Series - Subtitled Videos Available for Download Now!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/amos-the-process-of-downloading-and-saving-flickr-footage-in-various-video-codecs/"><u>Amo's the Process of Downloading and Saving Flickr Footage in Various Video Codecs</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-release-delayed-no-pc-version-yet/"><u>Diablo Immortal Release Delayed: No PC Version Yet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-impactful-relation-between-paperclip-maximization-and-advanced-ai-technology/"><u>Exploring the Impactful Relation Between Paperclip Maximization & Advanced AI Technology</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-rights-and-recourse-following-sudden-account-suspension-on-fb/"><u>In 2024, Rights and Recourse Following Sudden Account Suspension on FB</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-selecting-sounds-for-success-top-microphones-for-multifacited-youtube-professionals/"><u>In 2024, Selecting Sounds for Success Top Microphones for Multifacited YouTube Professionals</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/smartest-top-10-free-image-platforms-for-endless-memories-for-2024/"><u>Smartest Top 10 Free Image Platforms for Endless Memories for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-get-retro-with-fcp-simple-vhs-effect-techniques/"><u>Updated In 2024, Get Retro with FCP Simple VHS Effect Techniques</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

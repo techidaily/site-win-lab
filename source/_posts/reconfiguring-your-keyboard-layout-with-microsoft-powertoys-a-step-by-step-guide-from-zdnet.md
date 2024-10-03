@@ -1,7 +1,7 @@
 ---
 title: "Reconfiguring Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide From ZDNet"
-date: 2024-09-26T03:27:26.331Z
-updated: 2024-09-27T19:21:23.249Z
+date: 2024-09-29T23:26:08.663Z
+updated: 2024-10-02T19:42:46.939Z
 tags:
   - microsoft
 categories:
@@ -114,25 +114,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-quick-guide-capturing-time-lapse-on-your-ipad/"><u>[New] In 2024, Quick Guide Capturing Time Lapse on Your iPad</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-essential-ingredients-for-triumphant-tiktok-marketing-plans/"><u>[Updated] In 2024, Essential Ingredients for Triumphant TikTok Marketing Plans</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2023-update-sony-bdp-s3700-in-depth-analysis/"><u>2023 Update Sony BDP-S3700 in Depth Analysis</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-essential-vr-gear-for-aerial-devices/"><u>2024 Approved Essential VR Gear for Aerial Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-ultimate-community-dos-and-donts-for-youtubers/"><u>2024 Approved Ultimate Community Dos and Don'ts for Youtubers</u></a></li>
-<li><a href="https://win-lab.techidaily.com/a-deep-dive-into-the-delightful-world-of-macs-why-one-google-employee-swaps-for-joy-over-windows-woes/"><u>A Deep Dive Into the Delightful World of Macs: Why One Google Employee Swaps for Joy Over Windows Woes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-tecno-spark-20c-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Tecno Spark 20C Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/iot-battle-heats-up-as-google-retreats-while-microsoft-advances/"><u>IoT Battle Heats Up as Google Retreats While Microsoft Advances</u></a></li>
-<li><a href="https://win-lab.techidaily.com/top-rated-2023-surface-computers-in-depth-analysis-and-comparison-by-tech-experts-zdnet/"><u>Top-Rated 2023 Surface Computers: In-Depth Analysis & Comparison by Tech Experts - ZDNet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-guide-8-budget-friendly-video-calls-on-windows-and-mac-for-2024/"><u>Ultimate Guide 8 Budget-Friendly Video Calls on Windows & Mac for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/upcoming-release-of-microsofts-wave-2-copilot-anticipated-features-revealed-on-zdnet/"><u>Upcoming Release of Microsoft's Wave 2 Copilot - Anticipated Features Revealed on ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/urgent-update-alert-windows-11-versions-21h2-and-22h2-hit-eol-protect-your-system-by-updating-zdnet/"><u>Urgent Update Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Protect Your System by Updating! (ZDNet)</u></a></li>
-<li><a href="https://win-lab.techidaily.com/zdnet-exclusive-microsoft-transforms-window-copilot-into-full-fledged-application-for-enhanced-user-experience/"><u>ZDNet Exclusive: Microsoft Transforms Window Copilot Into Full-Fledged Application for Enhanced User Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-10-ultimate-high-res-4k-mirrorless-cams-for-2024/"><u>[Updated] 10 Ultimate High-Res 4K Mirrorless Cams for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-hashtag-mastery-pathway-to-6-figure-youtube-impact/"><u>[Updated] Hashtag Mastery Pathway to 6-Figure Youtube Impact</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-insider-guide-to-flourishing-on-youtube-games-included/"><u>[Updated] The Insider Guide to Flourishing on YouTube, Games Included</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-moto-g14-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Moto G14.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-download-automatic-amd-graphics-drivers-installation-guide/"><u>Easy Download: Automatic AMD Graphics Drivers Installation Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-creating-accessibility-your-guide-to-an-intuitive-youtube-signup/"><u>In 2024, Creating Accessibility Your Guide to an Intuitive YouTube Signup</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-xiaomi-redmi-12-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP from Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-rotate-your-upside-down-and-sideway-photos-on-iphone/"><u>In 2024, How to Rotate Your Upside Down and Sideway Photos on iPhone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/personalize-flipbook-dimensions-and-hues-a-complete-guide-on-flipbuilder/"><u>Personalize FlipBook Dimensions and Hues - A Complete Guide on FlipBuilder</u></a></li>
+<li><a href="https://win-lab.techidaily.com/share-your-creations-easily-learn-to-send-email-attachments-with-interactive-html-links-for-flipbooks-on-flipbuildercom/"><u>Share Your Creations Easily! Learn to Send Email Attachments with Interactive HTML Links for Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-multiple-pdfs-into-interactive-flash-books-for-free/"><u>Transform Multiple PDFs Into Interactive Flash Books for Free!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-pdfs-into-engaging-flash-books-with-page-turn-sounds-on-flipbuildercom/"><u>Transform Your PDFs Into Engaging Flash Books with Page-Turn Sounds on FlipBuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/understanding-flipbuilders-product-upgrade-strategy-a-comprehensive-guide/"><u>Understanding FlipBuilder's Product Upgrade Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

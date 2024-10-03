@@ -1,7 +1,7 @@
 ---
 title: Prominent AI Experts Encourage Localized Data Framework Usage to Enhance Diverse Representation | ZDNET
-date: 2024-09-26T16:48:38.348Z
-updated: 2024-09-28T00:37:32.309Z
+date: 2024-09-28T07:29:29.203Z
+updated: 2024-10-02T16:58:41.503Z
 tags:
   - microsoft
 categories:
@@ -114,28 +114,35 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-capturing-your-workspace-a-step-by-step-screenrec-guide-for-2024/"><u>[Updated] Capturing Your Workspace A Step-by-Step ScreenRec Guide for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-effortless-tutorial-for-top-notch-yt-video-thumbnails/"><u>[Updated] Effortless Tutorial for Top-Notch YT Video Thumbnails</u></a></li>
-<li><a href="https://win-lab.techidaily.com/access-the-complete-infinite-skills-course-series-subtitled-videos-available-for-download-now/"><u>Access the Complete Infinite Skills Course Series - Subtitled Videos Available for Download Now!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/amos-the-process-of-downloading-and-saving-flickr-footage-in-various-video-codecs/"><u>Amo's the Process of Downloading and Saving Flickr Footage in Various Video Codecs</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-choice-of-efficient-mat-systems/"><u>Best Choice of Efficient Mat Systems</u></a></li>
-<li><a href="https://win-lab.techidaily.com/boundhub-video-extractor-and-converter-seamlessly-transform-videos-to-mp4movavi/"><u>BoundHub Video Extractor & Converter: Seamlessly Transform Videos to MP4/MOV/AVI</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/cant-miss-these-buzzing-tiktok-trials-for-2024/"><u>Can't Miss These Buzzing TikTok Trials for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/capture-and-conserve-every-frame-expert-tips-for-rtsp-live-streams-downloading-success/"><u>Capture and Conserve Every Frame: Expert Tips for RTSP Live Streams Downloading Success!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/converting-mozilla-air-files-how-to-save-your-favorites-as-mp4-mov-or-avi-and-more/"><u>Converting Mozilla Air Files: How to Save Your Favorites as MP4, MOV or AVI and More!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-insights-for-iphone-night-photos/"><u>In 2024, Illuminating Insights for iPhone Night Photos</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/new-best-video-language-changers-to-make-your-videos-accessible-for-2024/"><u>New Best Video Language Changers to Make Your Videos Accessible for 2024</u></a></li>
-<li><a href="https://techidaily.com/sign-xlsx-online-add-signature-to-xlsx-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xlsx Online - Add Signature to .xlsx for Free</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-t17239724903076/"><u>Tom's Tech Insights: The Ultimate Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-xbox-power-no-input-device-needed/"><u>Unleash Xbox Power, No Input Device Needed</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/11-essential-tips-for-mastering-the-windows-touchpad-boost-your-productivity-and-efficiency-on-any-surface-techadvisor/"><u>11 Essential Tips for Mastering the Windows Touchpad: Boost Your Productivity & Efficiency on Any Surface | TechAdvisor</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2023s-premier-selection-of-ergonomic-gaming-chairs-reviewed-by-pcmag/"><u>2023'S Premier Selection of Ergonomic Gaming Chairs Reviewed by PCMag</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-12-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 12 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/9-red-flags-in-your-digital-presences-security/"><u>9 Red Flags in Your Digital Presence's Security</u></a></li>
+<li><a href="https://win-lab.techidaily.com/bypassing-banners-a-guide-to-hiding-promotions-in-windows-11s-enhanced-taskbar-feature-zdnet-insights/"><u>Bypassing Banners: A Guide to Hiding Promotions in Windows 11'S Enhanced Taskbar Feature | ZDNet Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/dont-miss-out-secure-your-pc-with-latest-windows-update-say-goodbye-to-support-for-21h2-and-22h2-learn-more-on-zdnet/"><u>Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/editing-like-a-pro-a-comprehensive-online-video-guide/"><u>Editing Like a Pro A Comprehensive Online Video Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/exclusive-update-windows-11-systems-to-feature-the-revolutionary-copilot-ai-assistant/"><u>Exclusive Update: Windows 11 Systems to Feature the Revolutionary Copilot AI Assistant</u></a></li>
+<li><a href="https://win-lab.techidaily.com/expert-review-navigating-the-future-with-comfort-leading-office-chairs-unveiled/"><u>Expert Review: Navigating the Future with Comfort - Leading Office Chairs Unveiled</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2022-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2022) System? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-inside-look-how-does-vr-headgear-work/"><u>In 2024, Inside Look How Does VR Headgear Work?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-no-cost-solution-the-leading-converters-for-jpeg-to-gifs/"><u>In 2024, No-Cost Solution The Leading Converters for JPEG to GIFs</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mastering-windows-11-installation-selecting-the-perfect-user-account-type-guide/"><u>Mastering Windows 11 Installation: Selecting the Perfect User Account Type Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-y27s-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo Y27s to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-blaze-2-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Blaze 2 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-guide-to-selecting-the-ideal-wobble-seats-and-adjustable-desk-chairs-2023-rankings-from-zdnet/"><u>Ultimate Guide to Selecting the Ideal Wobble Seats and Adjustable Desk Chairs - 2023 Rankings From ZDNET</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-art-of-cinematography-basic-shots-explained/"><u>Unveiling the Art of Cinematography Basic Shots Explained</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

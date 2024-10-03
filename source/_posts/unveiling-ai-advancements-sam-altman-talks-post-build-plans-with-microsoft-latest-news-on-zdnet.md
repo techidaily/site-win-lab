@@ -1,7 +1,7 @@
 ---
 title: "Unveiling AI Advancements: Sam Altman Talks Post-Build Plans with Microsoft | Latest News on ZDNET"
-date: 2024-09-25T03:44:59.615Z
-updated: 2024-09-28T03:07:44.315Z
+date: 2024-09-26T04:13:26.641Z
+updated: 2024-10-02T19:52:24.439Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,22 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-seamless-photo-and-video-import-in-windows-10/"><u>2024 Approved Expert Tips for Seamless Photo and Video Import in Windows 10</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1726221967132-mp3-wma-movavi/"><u>簡便無限制的 MP3 和 WMA 間接流程- 利用 Movavi 解決方案</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convert-wma-to-flacmp3mp4-for-free-using-movavis-web-tool/"><u>Convert WMA to FLAC/Mp3/MP4 for Free Using Movavi's Web Tool</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-elite-dangerous-pc-freezing-issues-top-solutions-explored/"><u>Fixing Elite Dangerous PC Freezing Issues - Top Solutions Explored</u></a></li>
-<li><a href="https://win-lab.techidaily.com/gratis-online-convertor-verwijder-pgm-naar-bmp-met-movavi-vriendenlijk-begripbaar/"><u>Gratis Online-Convertor: Verwijder PGM Naar BMP Met Movavi - Vriendenlijk Begripbaar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-xiaomi-redmi-note-12-proplus-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Xiaomi Redmi Note 12 Pro+ 5G? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/jpeg-naar-bmp-konverteren-vrije-en-beslist-movivi/"><u>JPEG Naar BMP Konverteren Vrije en Beslist - MoviVi</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-updating-your-samsung-smart-tvs-firmware/"><u>Step-by-Step Guide: Updating Your Samsung Smart TV's Firmware</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/tailor-your-insta-experience-no-more-suggestions/"><u>Tailor Your Insta Experience No More Suggestions</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-honor-magic-5-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Honor Magic 5 Pro Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/top-6-dvd-naar-mp4-konverter-voor-2024-de-ultieme-losung-voor-hoeveelvoudige-inhalen/"><u>Top 6 DVD Naar MP4 Konverter Voor 2024: De Ultieme Lösung Voor Hoeveelvoudige Inhalen</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transform-your-ts-videos-into-high-quality-mp4-files-at-no-cost-using-movavis-web-tool/"><u>Transform Your .TS Videos Into High-Quality .MP4 Files at No Cost Using Movavi's Web Tool</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-3gpp-en-format-3gp-gratuitement-sur-internet-logiciel-de-conversion-rapide/"><u>Transformez Votre Fichier 3GPP en Format 3GP Gratuitement Sur Internet - Logiciel De Conversion Rapide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-en-ogg-gratuitement-via-internet-avec-movavi-conversion-fluide-et-facile/"><u>Transformez Votre Fichier en Ogg Gratuitement via Internet Avec Movavi - Conversion Fluide Et Facile</u></a></li>
-<li><a href="https://win-lab.techidaily.com/trasformare-i-file-mpeg-in-formato-m4v-gratuitamente-online-con-convertimpeg/"><u>Trasformare I File MPEG in Formato M4V Gratuitamente Online Con ConvertiMpeg</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-full-playback-potential-view-anything-on-apple-tv-using-vlc-methods/"><u>Unlock Full Playback Potential: View Anything on Apple TV Using VLC Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-yt-creator-hub-the-ultimate-playbook/"><u>[Updated] 2024 Approved Mastering YT Creator Hub The Ultimate Playbook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-a-compre-point-strategies-for-effortless-story-posting-for-2024/"><u>[Updated] A Compre Point Strategies For Effortless Story Posting for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-instagram-influencer-blueprint-from-few-to-a-thousand-fans/"><u>[Updated] In 2024, The Instagram Influencer Blueprint From Few to a Thousand Fans</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-the-latest-in-video-capturing-apeaksoft-2023-edition-analysis/"><u>2024 Approved The Latest in Video Capturing Apeaksoft 2023 Edition Analysis</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/choosing-the-right-format-a-comparison-of-flv-and-mp4-for-optimal-youtube-and-twitch-streaming/"><u>Choosing the Right Format: A Comparison of FLV and MP4 for Optimal YouTube and Twitch Streaming</u></a></li>
+<li><a href="https://fox-that.techidaily.com/experiencing-sound-direction-changes-on-airpods-disable-dynamic-head-tracking-for-a-stable-listening-experience/"><u>Experiencing Sound Direction Changes on AirPods? Disable Dynamic Head Tracking for a Stable Listening Experience</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fastest-audible-audiobook-mp3-converter-up-to-10-times-speed-boost/"><u>Fastest Audible Audiobook MP3 Converter - Up to 10 Times Speed Boost!</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-11-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 11 Pro Space | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-download-and-transcode-aescripts-videos-into-mp4avi-for-windows-and-macos-systems/"><u>How to Download and Transcode Aescripts Videos Into MP4/AVI for Windows and macOS Systems</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-save-france2fr-streams-as-mp4-or-avi-files/"><u>How to Save France2.Fr Streams as MP4 or AVI Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-transform-textbooks-into-audible-formats-mp3flac-a-cross-platform-tutorial-for-mac-and-pc/"><u>How To Transform Textbooks Into Audible Formats (MP3/FLAC): A Cross-Platform Tutorial for Mac & PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/imbalances-can-lead-to-soil-depletion-or-pest-outbreaks-a-balanced-ecosystem-promotes-healthy-crops-and-resilience-against-diseases/"><u>Imbalances Can Lead to Soil Depletion or Pest Outbreaks; a Balanced Ecosystem Promotes Healthy Crops and Resilience Against Diseases</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/one-piece-series-download-full-episodes-in-various-formats-like-mp4-avi-and-more/"><u>One Piece Series: Download Full Episodes in Various Formats Like MP4, AVI, and More</u></a></li>
+<li><a href="https://win-lab.techidaily.com/outstanding-video-converter-options-beyond-freemake-for-apple-users-and-window-enthusiasts/"><u>Outstanding Video Converter Options: Beyond FreeMake for Apple Users & Window Enthusiasts</u></a></li>
+<li><a href="https://win-lab.techidaily.com/pirates-of-the-caribbean-complete-collection-free-download-in-hd-video-formats-mp4-and-avi-for-pc-and-mac-users/"><u>Pirates of the Caribbean Complete Collection: Free Download in HD Video Formats (MP4 & AVI) for PC and Mac Users</u></a></li>
+<li><a href="https://win-lab.techidaily.com/seamlessly-save-your-skillshare-classes-as-mp4-or-mp3-with-our-exclusive-download-tool/"><u>Seamlessly Save Your Skillshare Classes as MP4 or MP3 with Our Exclusive Download Tool!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/step-by-step-guide-converting-archived-wayback-machine-footage-into-various-video-formats/"><u>Step-by-Step Guide: Converting Archived Wayback Machine Footage Into Various Video Formats</u></a></li>
+<li><a href="https://win-lab.techidaily.com/step-by-step-guide-downloading-content-from-videobash/"><u>Step-by-Step Guide: Downloading Content From VideoBash</u></a></li>
 </ul></div>
 

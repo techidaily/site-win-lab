@@ -1,7 +1,7 @@
 ---
 title: Microsoft Ends a Three-Decade Legacy by Phasing Out WordPad, as Revealed by ZDNet
-date: 2024-09-22T20:13:29.546Z
-updated: 2024-09-27T19:44:51.782Z
+date: 2024-09-30T07:54:21.849Z
+updated: 2024-10-03T01:08:44.683Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,19 +181,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unseen-elements-in-instagram-stories-for-the-curious-viewer/"><u>[New] 2024 Approved Unseen Elements in Instagram Stories For the Curious Viewer</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-navigating-the-art-of-live-stream-archiving-for-tv-series/"><u>[Updated] 2024 Approved Navigating the Art of Live Stream Archiving for TV Series</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-quick-click-quest-the-art-of-facebook-id-reconnaissance/"><u>[Updated] In 2024, Quick Click Quest The Art of Facebook ID Reconnaissance</u></a></li>
-<li><a href="https://win-lab.techidaily.com/can-you-find-a-customized-book-cover-in-your-flipbook-on-flipbuildercom/"><u>Can You Find a Customized Book Cover in Your Flipbook on FlipBuilder.com?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/can-you-legally-apply-your-corporate-symbol-as-a-watermark-for-digital-books-using-flipping-book-technology/"><u>Can You Legally Apply Your Corporate Symbol as a Watermark for Digital Books Using Flipping Book Technology?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/conversion-gratuit-des-fichiers-mpe-vers-linternet-utilisez-les-services-de-movavi-pour-un-processus-facile-et-rapide/"><u>Conversion Gratuit Des Fichiers MPE Vers L'internet : Utilisez Les Services De Movavi Pour Un Processus Facile Et Rapide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/convertissez-votre-fichier-m4a-au-format-wmv-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Votre Fichier M4A Au Format WMV Gratuitement en Ligne Avec Movavi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/customize-and-print-your-own-unique-buttons-with-flipbuilder-start-designing-now/"><u>Customize & Print Your Own Unique Buttons with FlipBuilder - Start Designing Now!</u></a></li>
-<li><a href="https://facebook.techidaily.com/decoding-metas-blueprint-for-instagram-and-fb-access/"><u>Decoding Meta's Blueprint for Instagram & FB Access</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-essential-android-apps-for-playing-old-school-ps2-titles/"><u>In 2024, Essential Android Apps for Playing Old-School PS2 Titles</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-sharing-8-key-techniques-for-viral-videos-on-youtube/"><u>Master the Art of Sharing: 8 Key Techniques for Viral Videos on YouTube</u></a></li>
-<li><a href="https://network-issues.techidaily.com/nvidias-installer-now-functioning-as-expected/"><u>Nvidia's Installer Now Functioning as Expected</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mp4-flv-online/"><u>무료 MP4, FLV 압쇄 전환 - Online 솔루션</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-freedom-on-facebook-10-tricks-to-sidestep-blockage/"><u>[New] 2024 Approved Freedom on Facebook 10 Tricks to Sidestep Blockage</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-underrated-gems-this-year-films-for-2024/"><u>[New] Discovering Underrated Gems This Year (Films) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-twitch-livestream-hacks-to-boost-engagement-and-followers-for-2024/"><u>[New] Twitch Livestream Hacks to Boost Engagement and Followers for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximize-creativity-10-no-cost-tiktok-editors-for-macos/"><u>[Updated] 2024 Approved Maximize Creativity 10 No-Cost TikTok Editors for MacOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-demystifying-the-use-of-luts-in-professional-photoshop-workflows-for-2024/"><u>[Updated] Demystifying the Use of LUTs in Professional Photoshop Workflows for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-finding-your-video-complement-the-process-of-collaborative-pairing/"><u>2024 Approved Finding Your Video Complement The Process of Collaborative Pairing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/bypassing-banners-a-guide-to-hiding-promotions-in-windows-11s-enhanced-taskbar-feature-zdnet-insights/"><u>Bypassing Banners: A Guide to Hiding Promotions in Windows 11'S Enhanced Taskbar Feature | ZDNet Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/dont-miss-out-secure-your-pc-with-latest-windows-update-say-goodbye-to-support-for-21h2-and-22h2-learn-more-on-zdnet/"><u>Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET</u></a></li>
+<li><a href="https://win-lab.techidaily.com/exclusive-update-windows-11-systems-to-feature-the-revolutionary-copilot-ai-assistant/"><u>Exclusive Update: Windows 11 Systems to Feature the Revolutionary Copilot AI Assistant</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-reveal-the-rare-5-effortless-ways-to-enhance-views/"><u>In 2024, Reveal the Rare 5 Effortless Ways to Enhance Views</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mastering-windows-11-installation-selecting-the-perfect-user-account-type-guide/"><u>Mastering Windows 11 Installation: Selecting the Perfect User Account Type Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/microsofts-potential-ban-on-windows-11-24h2-mod-apps-what-you-need-to-know-now/"><u>Microsoft's Potential Ban on Windows 11 24H2 Mod Apps – What You Need to Know Now</u></a></li>
+<li><a href="https://win-lab.techidaily.com/seamless-transfer-of-documents-between-windows-and-android-devices-via-googles-quick-share-feature/"><u>Seamless Transfer of Documents Between Windows & Android Devices via Google's Quick Share Feature</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-online-sources-for-high-quality-vector-illustrations-for-2024/"><u>Top Online Sources for High-Quality Vector Illustrations for 2024</u></a></li>
 </ul></div>
 

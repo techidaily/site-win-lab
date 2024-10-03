@@ -1,7 +1,7 @@
 ---
 title: Microsoft Explores Artificial Intelligence with New Xbox Support Bot - Learn Its Functionality
-date: 2024-09-21T04:47:36.449Z
-updated: 2024-09-27T16:50:57.776Z
+date: 2024-09-27T19:24:53.268Z
+updated: 2024-10-03T05:23:12.377Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-highest-quality-mp4-adapter-for-fb-integration/"><u>[New] 2024 Approved Highest Quality MP4 Adapter for FB Integration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-tips-to-counteract-obs-fullscreen-woes/"><u>[Updated] 2024 Approved Tips to Counteract OBS Fullscreen Woes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-global-leaderboard-top-subscribers-by-youtube-star/"><u>[Updated] Global Leaderboard Top Subscribers by YouTube Star</u></a></li>
-<li><a href="https://win-lab.techidaily.com/11-essential-tips-for-mastering-the-windows-touchpad-boost-your-productivity-and-efficiency-on-any-surface-techadvisor/"><u>11 Essential Tips for Mastering the Windows Touchpad: Boost Your Productivity & Efficiency on Any Surface | TechAdvisor</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-a56s-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo A56s 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-honor-magic-5-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor Magic 5 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/bypassing-banners-a-guide-to-hiding-promotions-in-windows-11s-enhanced-taskbar-feature-zdnet-insights/"><u>Bypassing Banners: A Guide to Hiding Promotions in Windows 11'S Enhanced Taskbar Feature | ZDNet Insights</u></a></li>
-<li><a href="https://win-lab.techidaily.com/dont-miss-out-secure-your-pc-with-latest-windows-update-say-goodbye-to-support-for-21h2-and-22h2-learn-more-on-zdnet/"><u>Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET</u></a></li>
-<li><a href="https://win-lab.techidaily.com/exclusive-update-windows-11-systems-to-feature-the-revolutionary-copilot-ai-assistant/"><u>Exclusive Update: Windows 11 Systems to Feature the Revolutionary Copilot AI Assistant</u></a></li>
-<li><a href="https://win-lab.techidaily.com/expert-review-navigating-the-future-with-comfort-leading-office-chairs-unveiled/"><u>Expert Review: Navigating the Future with Comfort - Leading Office Chairs Unveiled</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/exploring-the-upsides-and-downsides-of-pidgin-messaging-platform/"><u>Exploring the Upsides and Downsides of Pidgin Messaging Platform</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-ways-to-convert-avi-files-to-mp4-format-tips-for-windows-11-and-mac-users/"><u>Free Ways to Convert AVI Files to MP4 Format: Tips for Windows 11 and Mac Users</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-honor-magic-v2-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Honor Magic V2 to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mastering-windows-11-installation-selecting-the-perfect-user-account-type-guide/"><u>Mastering Windows 11 Installation: Selecting the Perfect User Account Type Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/microsoft-ends-a-three-decade-legacy-by-phasing-out-wordpad-as-revealed-by-zdnet/"><u>Microsoft Ends a Three-Decade Legacy by Phasing Out WordPad, as Revealed by ZDNet</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-mp3-essentials-guide-10-online-converters-reviewed-for-2024/"><u>The MP3 Essentials Guide #10 Online Converters Reviewed for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ultimate-guide-to-selecting-the-ideal-wobble-seats-and-adjustable-desk-chairs-2023-rankings-from-zdnet/"><u>Ultimate Guide to Selecting the Ideal Wobble Seats and Adjustable Desk Chairs - 2023 Rankings From ZDNET</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-ultimate-guide-to-proficiently-navigating-win-10/"><u>[New] 2024 Approved The Ultimate Guide to Proficiently Navigating Win 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-iconic-scripts-that-reshaped-cinemas-landscape/"><u>[New] Iconic Scripts That Reshaped Cinema's Landscape</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-propel-your-igtv-presence-techniques-to-skyrocket-subscriber-count/"><u>[Updated] Propel Your IGTV Presence Techniques to Skyrocket Subscriber Count</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-perfect-habits-to-embrace-with-podcasts-playing/"><u>2024 Approved Perfect Habits to Embrace with Podcasts Playing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726030287138-aviutl/"><u>動画カット・トリミングのプロセスを簡潔に解説：AviUtlでのガイド</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/audio-aspects-for-digital-photo-compilation-for-2024/"><u>Audio Aspects for Digital Photo Compilation for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/captivating-viewers-with-tiktoks-best-captioning-practices-top-5/"><u>Captivating Viewers with TikTok's Best Captioning Practices (Top 5)</u></a></li>
+<li><a href="https://win-lab.techidaily.com/customize-and-print-your-own-unique-buttons-with-flipbuilder-start-designing-now/"><u>Customize & Print Your Own Unique Buttons with FlipBuilder - Start Designing Now!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/easy-steps-to-apply-watermarks-on-your-images-with-flipbuilder/"><u>Easy Steps to Apply Watermarks on Your Images with FlipBuilder</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortlessly-share-your-flipbook-creations-via-email-include-cover-display-technique-learn-at-flipbuilder/"><u>Effortlessly Share Your FlipBook Creations via Email - Include Cover Display Technique | Learn at FlipBuilder</u></a></li>
+<li><a href="https://win-lab.techidaily.com/embedding-flv-videos-in-flipbook-pages-easy-integration-techniques-and-tips/"><u>Embedding Flv Videos in Flipbook Pages: Easy Integration Techniques and Tips</u></a></li>
+<li><a href="https://win-lab.techidaily.com/explore-exceptional-flipbook-creations-on-flipbuilder-your-gateway-to-specialized-media/"><u>Explore Exceptional Flipbook Creations on FlipBuilder - Your Gateway to Specialized Media</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Nokia C12 | Dr.fone</u></a></li>
 </ul></div>
 

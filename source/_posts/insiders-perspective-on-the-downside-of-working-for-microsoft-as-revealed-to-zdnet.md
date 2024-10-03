@@ -1,7 +1,7 @@
 ---
 title: Insider's Perspective on the Downside of Working for Microsoft, as Revealed to ZDNet
-date: 2024-09-21T17:34:09.713Z
-updated: 2024-09-27T23:36:15.804Z
+date: 2024-10-02T03:53:15.881Z
+updated: 2024-10-03T04:54:15.946Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -123,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,28 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -202,20 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-launchpad-equipment-the-beginners-checklist/"><u>[New] 2024 Approved Launchpad Equipment The Beginner's Checklist</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-understanding-ffpm-in-firefox-today/"><u>[New] Understanding FFPM in Firefox Today</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-getting-started-with-snapchats-new-spotlight/"><u>[Updated] Getting Started with Snapchat's New Spotlight</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lost-video-steps-to-fix-sony-a6400-problem/"><u>[Updated] In 2024, Lost Video Steps to Fix Sony A6400 Problem</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-the-ultimate-inspirational-recruiter-playlist/"><u>[Updated] In 2024, The Ultimate Inspirational Recruiter Playlist</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-motorola-razr-40-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Motorola Razr 40 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/embedding-flv-videos-in-flipbook-pages-easy-integration-techniques-and-tips/"><u>Embedding Flv Videos in Flipbook Pages: Easy Integration Techniques and Tips</u></a></li>
-<li><a href="https://win-lab.techidaily.com/explore-exceptional-flipbook-creations-on-flipbuilder-your-gateway-to-specialized-media/"><u>Explore Exceptional Flipbook Creations on FlipBuilder - Your Gateway to Specialized Media</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-can-i-transform-compact-chm-files-into-engaging-ebook-formats-using-flipbuildercom/"><u>How Can I Transform Compact CHM Files Into Engaging eBook Formats Using FlipBuilder.com</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-can-you-customize-bookmark-font-in-flipbooks-with-flipbuilder/"><u>How Can You Customize Bookmark Font in Flipbooks with FlipBuilder?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/in-depth-insights-and-guidance-on-general-queries-your-ultimate-hub-with-flipbuilder/"><u>In-Depth Insights & Guidance on General Queries - Your Ultimate Hub with FlipBuilder</u></a></li>
-<li><a href="https://win-lab.techidaily.com/is-it-possible-to-embed-hyperlinks-in-content-made-using-flipbuilders-editing-tools/"><u>Is It Possible to Embed Hyperlinks in Content Made Using FlipBuilder's Editing Tools?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/is-your-wallet-better-off-with-an-amazon-prime-card/"><u>Is Your Wallet Better Off with an Amazon Prime Card?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/master-the-art-of-creating-engaging-digital-publications-from-ms-word-files-with-flipbooks-quick-conversion-solutions/"><u>Master the Art of Creating Engaging Digital Publications From MS Word Files with FlipBook's Quick Conversion Solutions!</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-analyzing-toolwiz-a-photographers-digital-arsenal/"><u>[New] 2024 Approved Analyzing Toolwiz A Photographer’s Digital Arsenal</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-the-role-of-alternate-footage/"><u>[New] Mastering the Role of Alternate Footage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-voice-memo-creation-on-ios-devices-for-2024/"><u>[New] Unveiling Voice Memo Creation on iOS Devices for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-a-look-inside-vidmas-screen-recording-mechanics-for-2024/"><u>[Updated] A Look Inside Vidma's Screen Recording Mechanics for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-finding-pixel-ringtone-treasures-online/"><u>[Updated] Finding Pixel Ringtone Treasures Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-accelerating-livestreams-on-periscope-made-easy/"><u>2024 Approved Accelerating Livestreams on Periscope Made Easy</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-gionee-f3-pro-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Gionee F3 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-the-new-m1-pro-transforms-the-macbook-pro-into-an-unbeatable-windows-11-machine-zdnet/"><u>How the New M1 Pro Transforms the MacBook Pro Into an Unbeatable Windows 11 Machine | ZDNet</u></a></li>
+<li><a href="https://win-lab.techidaily.com/microsoft-encourages-innovation-in-excel-my-response-and-experience-detailed-on-zdnet/"><u>Microsoft Encourages Innovation in Excel: My Response and Experience Detailed on ZDNet</u></a></li>
+<li><a href="https://win-lab.techidaily.com/prominent-ai-experts-encourage-localized-data-framework-usage-to-enhance-diverse-representation-zdnet/"><u>Prominent AI Experts Encourage Localized Data Framework Usage to Enhance Diverse Representation | ZDNET</u></a></li>
+<li><a href="https://win-lab.techidaily.com/revolutionizing-legal-workflow-microsoft-copilot-joins-forces-with-singapores-digital-law-platform-zdnet-insights/"><u>Revolutionizing Legal Workflow: Microsoft Copilot Joins Forces with Singapore's Digital Law Platform | ZDNet Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-rated-2023-surface-computers-in-depth-analysis-and-comparison-by-tech-experts-zdnet/"><u>Top-Rated 2023 Surface Computers: In-Depth Analysis & Comparison by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-xiaomi-redmi-note-12-4g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Xiaomi Redmi Note 12 4G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

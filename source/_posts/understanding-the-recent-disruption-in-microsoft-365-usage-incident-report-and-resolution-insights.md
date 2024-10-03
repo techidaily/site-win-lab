@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Recent Disruption in Microsoft 365 Usage: Incident Report and Resolution Insights"
-date: 2024-09-26T19:52:42.049Z
-updated: 2024-09-27T18:45:50.129Z
+date: 2024-09-26T01:51:16.691Z
+updated: 2024-10-03T02:56:21.917Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-leading-intro-apps-for-budding-creators-iphoneandroid/"><u>[New] Leading Intro Apps for Budding Creators (iPhone/Android)</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-finest-selection-the-best-10-slow-motion-video-editing-tools-online/"><u>Discover the Finest Selection: The Best 10 Slow-Motion Video Editing Tools Online</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-guide-installing-and-updating-ralink-network-adapter-drivers-on-windows-systems/"><u>Easy Guide: Installing and Updating Ralink Network Adapter Drivers on Windows Systems</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effortless-online-f4v-flv-file-format-change-get-started-with-movavi-now/"><u>Effortless Online F4V-FLV File Format Change - Get Started with Movavi Now</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/gathered-group-glances/"><u>Gathered Group Glances</u></a></li>
-<li><a href="https://win-lab.techidaily.com/gratuit-verbetering-m4a-in-wav-formaat-efficient-online-tool-movavi/"><u>Gratuit Verbetering M4A in WAV Formaat: Efficiënt Online-Tool Movavi</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-itel-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Itel Phone that is Locked?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-effortless-strategies-to-detect-duplicate-and-phony-likes/"><u>In 2024, Effortless Strategies to Detect Duplicate and Phony Likes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-mac-acoustics-for-aspiring-artists/"><u>In 2024, Mac Acoustics for Aspiring Artists</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-seamlessly-stitch-words-onto-pictures-photo-editor-pros/"><u>In 2024, Seamlessly Stitch Words Onto Pictures Photo Editor Pros</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transferer-facilement-un-gif-vers-une-video-mp4-sans-frais-tutorials-video-professionnels-avec-movavi/"><u>Transférer Facilement Un GIF Vers Une Vidéo MP4 Sans Frais - Tutorials Vidéo Professionnels Avec Movavi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/wma-m4r-movavi/"><u>오피니 공간에서 WMA펫스를 M4R 파일로 자유성적으로 전환: 무료 해상도 - MOVAVI</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1726227435766-flv-mp4/"><u>제공자가 아닌 FLV 파일을 MP4로 변환 - 오픈소스 앱</u></a></li>
+<li><a href="https://fox-http.techidaily.com/a-novices-introduction-to-video-coders/"><u>A Novice's Introduction to Video Coders</u></a></li>
+<li><a href="https://win-lab.techidaily.com/free-3d-film-converter-and-downloader-transform-and-save-your-favorite-films-as-mp4-or-mov-files/"><u>Free 3D Film Converter & Downloader: Transform and Save Your Favorite Films as MP4 or MOV Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/free-showcase-downloader-easily-save-videos-from-showcaseca-on-macwindows/"><u>Free Showcase Downloader: Easily Save Videos From Showcase.ca on Mac/Windows</u></a></li>
+<li><a href="https://win-lab.techidaily.com/get-free-access-save-mtvs-hits-in-mp3-and-mp4-formats-for-mac-users-and-windows-enthusiasts/"><u>Get Free Access: Save MTV's Hits in MP3 and MP4 Formats for Mac Users & Windows Enthusiasts</u></a></li>
+<li><a href="https://win-lab.techidaily.com/get-smart-downloading-mastering-vidzitv-videos-on-both-mac-os-and-windows-systems/"><u>Get Smart Downloading: Mastering Vidzi.tv Videos on Both MAC OS & Windows Systems</u></a></li>
+<li><a href="https://win-lab.techidaily.com/get-your-favorite-media-easy-download-from-digital-trends-channel/"><u>Get Your Favorite Media - Easy Download From Digital Trends Channel</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-human-capital-layouts-that-leverage-team-synergy/"><u>Harnessing Human Capital Layouts That Leverage Team Synergy</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lava-blaze-2-lock-screen-password-by-drfone-android/"><u>How To Change Lava Blaze 2 Lock Screen Password?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722960365271-how-to-fix-common-bluetooth-drivers-error-on-windows-11-solutions-inside/"><u>How to Fix Common Bluetooth Drivers Error on Windows 11 – Solutions Inside!</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-no-paywalls-here-learn-how-to-record-and-save-your-youtube-experience-for-free/"><u>In 2024, No Paywalls Here! Learn How To Record and Save Your YouTube Experience For Free</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-techniques-for-extracting-mp3-from-instagram-videos/"><u>In 2024, Techniques for Extracting MP3 From Instagram Videos</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlocking-insights-6-proven-methods-of-applying-chatgpt-for-data-science/"><u>Unlocking Insights: 6 Proven Methods of Applying ChatGPT for Data Science</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/vob-video-file-converter/"><u>VOB 폴리핑을 위한 오픈소스 VIDEO FILE CONVERTER - 무료 온라인 도구</u></a></li>
 </ul></div>
 

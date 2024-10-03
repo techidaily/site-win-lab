@@ -1,7 +1,7 @@
 ---
 title: Business-Focused ChatGPT Launched by OpenAI; Innovative Capabilities Detailed on ZDNET
-date: 2024-09-23T03:10:08.823Z
-updated: 2024-09-28T05:36:58.982Z
+date: 2024-09-26T20:50:36.687Z
+updated: 2024-10-03T03:09:17.106Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -137,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -196,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-enhance-your-file-management-six-tips-for-win-11s-mov-files/"><u>[New] Enhance Your File Management Six Tips for Win 11'S MOV Files</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-best-free-live-streaming-software-and-app-for-all-platforms/"><u>[Updated] Best Free Live Streaming Software and App for All Platforms</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-navigate-to-the-5-preferred-android-ps2-emulator-apps/"><u>[Updated] Navigate to the 5 Preferred Android PS2 Emulator Apps</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/enhancing-productivity-with-automated-bill-management-from-abbyy-key-driver-for-energy-companies/"><u>Enhancing Productivity with Automated Bill Management From ABBYY - Key Driver for Energy Companies</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-steps-for-secure-and-swift-video-transfers-iphone-macconnection/"><u>Expert Steps for Secure & Swift Video Transfers IPhone-macConnection</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ferramenta-on-line-sem-custo-transforme-seu-m2ts-em-mp4-usando-movavi-aulas-iniciais/"><u>Ferramenta On-Line Sem Custo: Transforme Seu M2TS Em MP4 Usando Movavi – Aulas Iniciais</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-90-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor 90 Pro to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-from-iphone-x-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock from iPhone X</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/intel-ac-3160-drivers-quick-installation-guide-for-enhanced-wireless-connectivity/"><u>Intel AC 3160 Drivers - Quick Installation Guide for Enhanced Wireless Connectivity</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mp4-to-mpeg-transformation-for-free-discover-the-power-of-movavis-online-tool/"><u>MP4 to MPEG Transformation for Free: Discover the Power of Movavi's Online Tool!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/swf-online-swf-movavi/"><u>SWF 파일을 원격으로 제공하는 무료 Online SWF 변환 도구 - Movavi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unleashing-your-pcs-potential-with-microsofts-free-powertoys-fancyzones-discover-how-and-benefits/"><u>Unleashing Your PC's Potential with Microsoft's Free PowerToys FancyZones - Discover How & Benefits!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unveiling-of-microsofts-windows-11-special-edition-computers-aimed-at-educational-institutions-insights-from-pc-manufacturers/"><u>Unveiling of Microsoft's Windows 11 Special Edition Computers Aimed at Educational Institutions - Insights From PC Manufacturers</u></a></li>
-<li><a href="https://win-lab.techidaily.com/upcoming-change-alert-will-microsoft-charge-for-windows-11-updates-expected-prices-and-details-unveiled-zdnet-insights/"><u>Upcoming Change Alert: Will Microsoft Charge for Windows 11 Updates? Expected Prices & Details Unveiled | ZDNET Insights</u></a></li>
-<li><a href="https://win-lab.techidaily.com/zdnet-investigates-the-value-of-older-iphones-for-todays-tech-savvy-users/"><u>ZDNet Investigates the Value of Older iPhones for Today's Tech-Savvy Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-master-class-screenscreen-recording-using-adobe-captivating-software/"><u>[New] 2024 Approved Master Class Screenscreen Recording Using Adobe Captivating Software</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-framelight-free-elevate-mobile-photography-today/"><u>[New] Framelight Free Elevate Mobile Photography Today</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harnessing-lut-power-for-free-high-quality-colorization/"><u>[New] Harnessing LUT Power for Free, High-Quality Colorization</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtube-seo-mastery-balancing-titles-and-tags/"><u>[New] In 2024, YouTube SEO Mastery Balancing Titles and Tags</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-masterful-color-grading-explore-these-7-methods/"><u>[New] Masterful Color Grading Explore These 7 Methods</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expert-analysis-top-picks-of-the-best-5-slow-motion-cams/"><u>[Updated] Expert Analysis Top Picks of the Best 5 Slow Motion Cams</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-drones-the-ten-to-watch/"><u>Elite Drones The Ten To Watch</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/guide-complet-resoudre-les-echecs-de-lecture-dvd-udf-en-utilisant-winx-dvd-ripper-pour-une-experience-video-optimisee/"><u>Guide Complet : Résoudre Les Échecs De Lecture DVD UDF en Utilisant WinX DVD Ripper Pour Une Expérience Vidéo Optimisée</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-save-france2fr-streams-as-mp4-or-avi-files/"><u>How to Save France2.Fr Streams as MP4 or AVI Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-transform-textbooks-into-audible-formats-mp3flac-a-cross-platform-tutorial-for-mac-and-pc/"><u>How To Transform Textbooks Into Audible Formats (MP3/FLAC): A Cross-Platform Tutorial for Mac & PC</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-get-motion-blur-in-roblox/"><u>New In 2024, How to Get Motion Blur in Roblox?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/one-piece-series-download-full-episodes-in-various-formats-like-mp4-avi-and-more/"><u>One Piece Series: Download Full Episodes in Various Formats Like MP4, AVI, and More</u></a></li>
+<li><a href="https://win-lab.techidaily.com/outstanding-video-converter-options-beyond-freemake-for-apple-users-and-window-enthusiasts/"><u>Outstanding Video Converter Options: Beyond FreeMake for Apple Users & Window Enthusiasts</u></a></li>
+<li><a href="https://win-lab.techidaily.com/pirates-of-the-caribbean-complete-collection-free-download-in-hd-video-formats-mp4-and-avi-for-pc-and-mac-users/"><u>Pirates of the Caribbean Complete Collection: Free Download in HD Video Formats (MP4 & AVI) for PC and Mac Users</u></a></li>
+<li><a href="https://win-lab.techidaily.com/seamlessly-save-your-skillshare-classes-as-mp4-or-mp3-with-our-exclusive-download-tool/"><u>Seamlessly Save Your Skillshare Classes as MP4 or MP3 with Our Exclusive Download Tool!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/step-by-step-guide-converting-archived-wayback-machine-footage-into-various-video-formats/"><u>Step-by-Step Guide: Converting Archived Wayback Machine Footage Into Various Video Formats</u></a></li>
+<li><a href="https://win-lab.techidaily.com/step-by-step-guide-downloading-content-from-videobash/"><u>Step-by-Step Guide: Downloading Content From VideoBash</u></a></li>
 </ul></div>
 

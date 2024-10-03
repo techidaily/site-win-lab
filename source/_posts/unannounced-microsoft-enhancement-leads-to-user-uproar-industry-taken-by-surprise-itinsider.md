@@ -1,7 +1,7 @@
 ---
 title: Unannounced Microsoft Enhancement Leads to User Uproar, Industry Taken by Surprise | ITInsider
-date: 2024-09-23T02:31:06.802Z
-updated: 2024-09-28T02:46:33.017Z
+date: 2024-10-02T09:55:01.990Z
+updated: 2024-10-02T17:13:18.514Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +77,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +149,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,14 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hot-oculus-vr-games-that-everyones-playing/"><u>[New] Hot Oculus VR Games That Everyone's Playing</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-11-best-streaming-audio-recorders-for-2024/"><u>[Updated] Top 11 Best Streaming Audio Recorders for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/convertir-gifs-en-archivos-flv-sin-costo-con-moviescribe/"><u>Convertir GIFs en Archivos FLV Sin Costo Con MovieScribe</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-best-11-animation-series-like-the-greatest-available-both-for-free-and-subscription-based-viewing/"><u>Discover the Best: 11 Animation Series Like 'The Greatest' - Available Both for Free and Subscription-Based Viewing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/diy-image-gallery-maker-craft-stunning-slideshows-with-soundtrack/"><u>DIY Image Gallery Maker: Craft Stunning Slideshows With Soundtrack!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-do-large-language-models-function-a-detailed-look-into-llm-systems-and-their-mechanics/"><u>How Do Large Language Models Function? A Detailed Look Into LLM Systems and Their Mechanics</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-se-2022-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone SE (2022)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 13 Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-to-the-best-16-automatic-subtitle-creation-tools-for-video-editors/"><u>The Ultimate Guide to the Best 16 Automatic Subtitle Creation Tools for Video Editors</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/"><u>[New] 2024 Approved Ideal Chat & Meetup Tools for Large Groups</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-skyrocketing-fb-engagement-masterful-seo-techniques-explored/"><u>[New] 2024 Approved Skyrocketing FB Engagement Masterful SEO Techniques Explored</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-amplify-video-aesthetics-filters-for-every-screen-for-2024/"><u>[Updated] Amplify Video Aesthetics Filters for Every Screen for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-audio-memo-fundamentals-a-complete-guidebook/"><u>[Updated] Audio Memo Fundamentals A Complete Guidebook</u></a></li>
+<li><a href="https://win-lab.techidaily.com/boundhub-video-extractor-and-converter-seamlessly-transform-videos-to-mp4movavi/"><u>BoundHub Video Extractor & Converter: Seamlessly Transform Videos to MP4/MOV/AVI</u></a></li>
+<li><a href="https://win-lab.techidaily.com/capture-and-conserve-every-frame-expert-tips-for-rtsp-live-streams-downloading-success/"><u>Capture and Conserve Every Frame: Expert Tips for RTSP Live Streams Downloading Success!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/converting-mozilla-air-files-how-to-save-your-favorites-as-mp4-mov-or-avi-and-more/"><u>Converting Mozilla Air Files: How to Save Your Favorites as MP4, MOV or AVI and More!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-greatest-anime-platforms-online-plus-step-by-step-tutorial-on-securing-your-watchlist-for-offline-enjoyment/"><u>Discover the Greatest Anime Platforms Online + Step-by-Step Tutorial on Securing Your Watchlist for Offline Enjoyment</u></a></li>
+<li><a href="https://win-lab.techidaily.com/download-metacafe-on-pc-and-mac-ultimate-video-sharing-platform/"><u>Download Metacafe on PC & Mac: Ultimate Video Sharing Platform</u></a></li>
+<li><a href="https://win-lab.techidaily.com/download-your-favorite-aetv-content-in-hd-formats-mp4-mov-and-avi/"><u>Download Your Favorite AETV Content in HD Formats - MP4, MOV & AVI</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/eliminating-intrusive-advertisements-a-comprehensive-guide-to-halting-promotions-on-facebook-and-curbing-targeted-ads-in-messenger/"><u>Eliminating Intrusive Advertisements: A Comprehensive Guide to Halting Promotions on Facebook & Curbing Targeted Ads in Messenger</u></a></li>
+<li><a href="https://win-lab.techidaily.com/enjoy-premium-vumoo-entertainment-at-no-cost-discover-how-to-download-your-favorite-films-and-shows-effortlessly/"><u>Enjoy Premium Vumoo Entertainment at No Cost: Discover How to Download Your Favorite Films and Shows Effortlessly!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-stand-out-your-top-10-guide-to-youtubes-best-music-videos/"><u>In 2024, How to Stand Out Your Top 10 Guide to YouTube's Best Music Videos</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-13-pro-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Redmi Note 13 Pro 5G Phone Without Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-itel-a70-by-fonelab-android-recover-data/"><u>Recover lost data from Itel A70</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-best-guide-for-setting-tiktok-countdown-timer-for-2024/"><u>Updated Best Guide for Setting TikTok Countdown Timer for 2024</u></a></li>
 </ul></div>
 

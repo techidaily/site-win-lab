@@ -1,7 +1,7 @@
 ---
 title: "Flawed Software Updates: A Silent Threat to Essential Services and Critical Infrastructure - Insights From ZDNet"
-date: 2024-09-21T04:51:53.622Z
-updated: 2024-09-27T23:12:39.339Z
+date: 2024-10-01T21:43:49.433Z
+updated: 2024-10-03T01:53:35.140Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-yourwebcamunlocked-astep-by-steprecordingpath/"><u>[Updated] 2024 Approved YourWebcamUnlocked AStep-by-StepRecordingPath</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-craft-your-countdown-adding-time-management-to-obs-sessions/"><u>[Updated] Craft Your Countdown Adding Time Management to OBS Sessions</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-does-instant-subscription-strategy-improve-user-engagement/"><u>[Updated] Does Instant Subscription Strategy Improve User Engagement?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-harmonizing-hearts-and-hertz-music-on-the-vimeo-scene-for-2024/"><u>[Updated] Harmonizing Hearts and Hertz Music on the Vimeo Scene for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/elevating-imagery-detailed-analysis-of-mavic-pro-for-2024/"><u>Elevating Imagery - Detailed Analysis of Mavic Pro for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-the-new-m1-pro-transforms-the-macbook-pro-into-an-unbeatable-windows-11-machine-zdnet/"><u>How the New M1 Pro Transforms the MacBook Pro Into an Unbeatable Windows 11 Machine | ZDNet</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/iconic-instagram-aesthetics-compilation/"><u>Iconic Instagram Aesthetics Compilation</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-smart-spending-on-action-cams-find-your-bargains-under-100/"><u>In 2024, Smart Spending on ACTION Cams Find Your Bargains Under $100</u></a></li>
-<li><a href="https://win-lab.techidaily.com/insiders-perspective-on-the-downside-of-working-for-microsoft-as-revealed-to-zdnet/"><u>Insider's Perspective on the Downside of Working for Microsoft, as Revealed to ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/microsoft-encourages-innovation-in-excel-my-response-and-experience-detailed-on-zdnet/"><u>Microsoft Encourages Innovation in Excel: My Response and Experience Detailed on ZDNet</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/prime-locations-to-find-rich-text-enhancements-for-2024/"><u>Prime Locations to Find Rich Text Enhancements for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/prominent-ai-experts-encourage-localized-data-framework-usage-to-enhance-diverse-representation-zdnet/"><u>Prominent AI Experts Encourage Localized Data Framework Usage to Enhance Diverse Representation | ZDNET</u></a></li>
-<li><a href="https://win-lab.techidaily.com/revolutionizing-legal-workflow-microsoft-copilot-joins-forces-with-singapores-digital-law-platform-zdnet-insights/"><u>Revolutionizing Legal Workflow: Microsoft Copilot Joins Forces with Singapore's Digital Law Platform | ZDNet Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>[New] 2024 Approved Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-easy-steam-recordings-with-team-fortress-2s-latest-update-for-2024/"><u>[New] Easy Steam Recordings with Team Fortress 2'S Latest Update for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-automate-iphones-video-repetition-for-2024/"><u>[New] How to Automate iPhone's Video Repetition for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ethereal-editing-in-extended-frame-rate/"><u>[Updated] 2024 Approved Ethereal Editing in Extended Frame Rate</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-grandes-selecciones-de-musica-ideal-para-complementar-fotografias-en-video/"><u>1. Grandes Selecciones De Música Ideal Para Complementar Fotografías en Video</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-free-software-for-rotating-videos-in-windows-11-top-picks/"><u>Best Free Software for Rotating Videos in Windows 11: Top Picks</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/engaging-with-brit-banter-and-jargon/"><u>Engaging with Brit Banter and Jargon</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratis-online-convertor-verwijder-pgm-naar-bmp-met-movavi-vriendenlijk-begripbaar/"><u>Gratis Online-Convertor: Verwijder PGM Naar BMP Met Movavi - Vriendenlijk Begripbaar</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratuit-online-converteren-van-3gp-naar-m4a-movavi/"><u>Gratuit Online Converteren Van 3GP Naar M4A - Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-note-30-vip-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Note 30 VIP Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Phone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/online-kostenloser-asf-zu-wav-konverter-mit-movavi-fugen-sie-ihren-audiodateien-heute-eine-neue-qualitatsebene-hinzu/"><u>Online Kostenloser ASF Zu WAV Konverter Mit Movavi – Fügen Sie Ihren Audiodateien Heute Eine Neue Qualitätsebene Hinzu!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-experience-overcome-common-crashing-challenges-in-football-manager-2021-on-windows-computers/"><u>Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-6-dvd-naar-mp4-konverter-voor-2024-de-ultieme-losung-voor-hoeveelvoudige-inhalen/"><u>Top 6 DVD Naar MP4 Konverter Voor 2024: De Ultieme Lösung Voor Hoeveelvoudige Inhalen</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-ts-videos-into-high-quality-mp4-files-at-no-cost-using-movavis-web-tool/"><u>Transform Your .TS Videos Into High-Quality .MP4 Files at No Cost Using Movavi's Web Tool</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transforma-videos-mkv-a-mp4-gratuita-y-facil-la-guia-de-movavi/"><u>Transforma Vídeos MKV a MP4 Gratuita Y Fácil: La Guía De Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-3gpp-en-format-3gp-gratuitement-sur-internet-logiciel-de-conversion-rapide/"><u>Transformez Votre Fichier 3GPP en Format 3GP Gratuitement Sur Internet - Logiciel De Conversion Rapide</u></a></li>
+<li><a href="https://network-issues.techidaily.com/winning-the-latency-battle-in-windows-networks/"><u>Winning the Latency Battle in Windows Networks</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
