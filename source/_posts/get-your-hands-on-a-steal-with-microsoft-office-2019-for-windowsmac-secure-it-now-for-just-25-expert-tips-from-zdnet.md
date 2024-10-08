@@ -1,7 +1,7 @@
 ---
 title: Get Your Hands on a Steal with Microsoft Office 2019 for Windows/Mac - Secure It Now for Just $25 | Expert Tips From ZDNET
-date: 2024-09-26T02:19:06.296Z
-updated: 2024-10-03T04:34:27.538Z
+date: 2024-10-01T16:15:56.139Z
+updated: 2024-10-08T16:03:12.050Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,22 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-lab.techidaily.com/anticipate-microsofts-wave-2-release-of-copilot-in-the-coming-days-key-insights-covered-by-zdnet/"><u>Anticipate Microsoft's Wave 2 Release of Copilot in the Coming Days - Key Insights Covered by ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/business-launch-openai-unveils-enterprise-focused-chatgpt-solution-insights-from-zdnet/"><u>Business Launch: OpenAI Unveils Enterprise-Focused ChatGPT Solution - Insights From ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-bloodborne-overview-journeying-through-the-shadowy-universe/"><u>Comprehensive Bloodborne Overview: Journeying Through the Shadowy Universe</u></a></li>
-<li><a href="https://video-capture.techidaily.com/comprehensive-guide-on-mp4-vs-mpeg-understanding-formats-and-best-fit/"><u>Comprehensive Guide on MP4 vs MPEG - Understanding Formats & Best Fit</u></a></li>
-<li><a href="https://win-lab.techidaily.com/does-bing-truly-challenge-google-unraveling-the-dynamics-insights-from-zdnet/"><u>Does Bing Truly Challenge Google? Unraveling the Dynamics - Insights From ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/first-impressions-testing-the-limits-of-microsofts-surface-pro-and-laptop-could-they-replace-my-macbook-in-depth-review-techzoom/"><u>First Impressions: Testing the Limits of Microsoft's Surface Pro & Laptop - Could They Replace My MacBook? [In-Depth Review] | TechZoom</u></a></li>
-<li><a href="https://win-lab.techidaily.com/flawed-software-updates-a-silent-threat-to-essential-services-and-critical-infrastructure-insights-from-zdnet/"><u>Flawed Software Updates: A Silent Threat to Essential Services and Critical Infrastructure - Insights From ZDNet</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/grave-pantalla-experiencia-de-camara-web-mejorada-con-audio-integrado-e-ia-de-winxvideo/"><u>Grave Pantalla: Experiencia De Cámara Web Mejorada Con Audio Integrado E IA De WinxVideo</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-poco-f5-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Poco F5 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/incoming-changes-alert-windows-11-update-fees-set-by-microsoft-for-next-year-what-youll-need-to-pay-wired-innovation-news/"><u>Incoming Changes Alert: Windows 11 Update Fees Set by Microsoft for Next Year - What You'll Need to Pay | Wired Innovation News</u></a></li>
-<li><a href="https://win-lab.techidaily.com/personalized-help-with-mirallis-products-top-tier-user-support-services/"><u>Personalized Help with Mirallis Products – Top-Tier User Support Services</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/quick-guide-convert-multiple-flac-files-to-mp3-rapidly/"><u>Quick Guide: Convert Multiple FLAC Files to MP3 Rapidly</u></a></li>
-<li><a href="https://win-lab.techidaily.com/stay-on-track-with-mirillis-seamless-activation-and-key-management-solutions/"><u>Stay on Track with Mirillis: Seamless Activation & Key Management Solutions</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-supreme-selection-an-honour-roll-of-top-10-reddit-discussions/"><u>The Supreme Selection An Honour Roll of Top 10 Reddit Discussions</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-guide-top-5-methods-for-saving-and-moving-your-iphones-sms/"><u>Ultimate Guide: Top 5 Methods for Saving & Moving Your iPhone's SMS</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-squeeze-the-most-out-of-your-storage-5-best-free-video-compression-apps/"><u>Updated Squeeze the Most Out of Your Storage 5 Best Free Video Compression Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-mp3-in-3-ways-safe-for-2024/"><u>[New] How to Convert YouTube to MP3 in 3 Ways [Safe] for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-theta-s-reviewed-detailed-performance-insights/"><u>[Updated] 2024 Approved Theta S Reviewed Detailed Performance Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-film-download-highlights-no-8/"><u>[Updated] In 2024, Facebook Film Download Highlights - No. 8</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-ultimate-highlight-hits-ios-and-android-instagram-covers-apps-for-2024/"><u>[Updated] Ultimate Highlight Hits IOS & Android Instagram Covers Apps for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-boosting-your-voices-impact-free-user-friendly-changes-available/"><u>2024 Approved Boosting Your Voice's Impact – Free, User-Friendly Changes Available</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2024s-elite-list-of-windows-11-graphic-game-programs-ranking-the-top-14-choices/"><u>2024'S Elite List of Windows 11 Graphic Game Programs – Ranking the Top 14 Choices</u></a></li>
+<li><a href="https://win-lab.techidaily.com/crea-versioni-swf-da-file-video-flvmp4-converti-gratuitamente-con-movavi/"><u>Crea Versioni SWF Da File Video FLV/MP4: Converti Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ferramenta-on-line-sem-custo-transforme-seu-m2ts-em-mp4-usando-movavi-aulas-iniciais/"><u>Ferramenta On-Line Sem Custo: Transforme Seu M2TS Em MP4 Usando Movavi – Aulas Iniciais</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207103656-how-to-repair-a-malfunctioning-steam-client-launcher-expert-solutions-inside/"><u>How to Repair a Malfunctioning Steam Client Launcher - Expert Solutions Inside!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-epson-wf-3540-printer-software-on-your-pc-step-by-step-guide/"><u>Install Epson WF-3540 Printer Software on Your PC: Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-best.techidaily.com/live-demonstration-of-abbyys-cutting-edge-ai-tools-unveiled-at-mobile-world-congress-in-barcelona-201/"><u>Live Demonstration of ABBYY's Cutting-Edge AI Tools Unveiled at Mobile World Congress in Barcelona, 201</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mp4-to-mpeg-transformation-for-free-discover-the-power-of-movavis-online-tool/"><u>MP4 to MPEG Transformation for Free: Discover the Power of Movavi's Online Tool!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726228209297-mp4asf-movavi/"><u>MP4與ASF間無障礙交換的線上自由方法 - Movavi影片轉檔器</u></a></li>
+<li><a href="https://win-lab.techidaily.com/quick-and-simple-guide-adding-captions-to-your-reels-videos/"><u>Quick and Simple Guide: Adding Captions to Your Reels Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-realme-gt-5-pro-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Realme GT 5 Pro Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/swf-online-swf-movavi/"><u>SWF 파일을 원격으로 제공하는 무료 Online SWF 변환 도구 - Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
 </ul></div>
 

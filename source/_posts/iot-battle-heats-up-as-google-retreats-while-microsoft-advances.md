@@ -1,7 +1,7 @@
 ---
 title: IoT Battle Heats Up as Google Retreats While Microsoft Advances
-date: 2024-10-01T17:33:46.175Z
-updated: 2024-10-02T18:51:29.801Z
+date: 2024-10-04T16:10:02.007Z
+updated: 2024-10-08T16:18:11.580Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,29 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-comprehensive-analysis-mastering-video-production-with-xmedia-suite-for-2024/"><u>[New] Comprehensive Analysis Mastering Video Production with XMedia Suite for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-rapid-reader-of-windows-photos-and-images/"><u>[New] Rapid Reader of Windows Photos & Images</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-cool-climates-cozy-cinematics-selecting-winter-backgrounds/"><u>[Updated] Cool Climates, Cozy Cinematics Selecting Winter Backgrounds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-to-premium-audio-with-audacity/"><u>2024 Approved Step-by-Step to Premium Audio with Audacity</u></a></li>
-<li><a href="https://win-lab.techidaily.com/easy-steps-to-apply-watermarks-on-your-images-with-flipbuilder/"><u>Easy Steps to Apply Watermarks on Your Images with FlipBuilder</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effortlessly-share-your-flipbook-creations-via-email-include-cover-display-technique-learn-at-flipbuilder/"><u>Effortlessly Share Your FlipBook Creations via Email - Include Cover Display Technique | Learn at FlipBuilder</u></a></li>
-<li><a href="https://win-lab.techidaily.com/embedding-flv-videos-in-flipbook-pages-easy-integration-techniques-and-tips/"><u>Embedding Flv Videos in Flipbook Pages: Easy Integration Techniques and Tips</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/experience-superior-reception-with-clearstream-2v-all-in-one-hdtv-antenna-a-comprehensive-review/"><u>Experience Superior Reception with ClearStream 2V All-in-One HDTV Antenna - A Comprehensive Review</u></a></li>
-<li><a href="https://win-lab.techidaily.com/explore-exceptional-flipbook-creations-on-flipbuilder-your-gateway-to-specialized-media/"><u>Explore Exceptional Flipbook Creations on FlipBuilder - Your Gateway to Specialized Media</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-can-i-transform-compact-chm-files-into-engaging-ebook-formats-using-flipbuildercom/"><u>How Can I Transform Compact CHM Files Into Engaging eBook Formats Using FlipBuilder.com</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-can-you-customize-bookmark-font-in-flipbooks-with-flipbuilder/"><u>How Can You Customize Bookmark Font in Flipbooks with FlipBuilder?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-z-flip-5-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy Z Flip 5 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 14 Pro Max</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/in-depth-insights-and-guidance-on-general-queries-your-ultimate-hub-with-flipbuilder/"><u>In-Depth Insights & Guidance on General Queries - Your Ultimate Hub with FlipBuilder</u></a></li>
-<li><a href="https://win-lab.techidaily.com/is-it-possible-to-embed-hyperlinks-in-content-made-using-flipbuilders-editing-tools/"><u>Is It Possible to Embed Hyperlinks in Content Made Using FlipBuilder's Editing Tools?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/master-the-art-of-creating-engaging-digital-publications-from-ms-word-files-with-flipbooks-quick-conversion-solutions/"><u>Master the Art of Creating Engaging Digital Publications From MS Word Files with FlipBook's Quick Conversion Solutions!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ize-youtube-submission-swift-rendering-and-uploading-methods/"><u>Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/winning-against-wifi-fix-your-bluetooth-pairing-woes-on-windows-11-tips-and-tricks/"><u>Winning Against WiFi: Fix Your Bluetooth Pairing Woes on Windows 11 - Tips & Tricks</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-becoming-proficient-in-ez-grabber-technology/"><u>[New] In 2024, Becoming Proficient in EZ Grabber Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamline-your-content-upload-instagram-videos-from-desktop/"><u>[Updated] In 2024, Streamline Your Content Upload Instagram Videos From Desktop</u></a></li>
+<li><a href="https://win-lab.techidaily.com/11-essential-tips-for-mastering-the-windows-touchpad-boost-your-productivity-and-efficiency-on-any-surface-techadvisor/"><u>11 Essential Tips for Mastering the Windows Touchpad: Boost Your Productivity & Efficiency on Any Surface | TechAdvisor</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2023s-premier-selection-of-ergonomic-gaming-chairs-reviewed-by-pcmag/"><u>2023'S Premier Selection of Ergonomic Gaming Chairs Reviewed by PCMag</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y36-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y36 PC | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/a-deep-dive-into-the-delightful-world-of-macs-why-one-google-employee-swaps-for-joy-over-windows-woes/"><u>A Deep Dive Into the Delightful World of Macs: Why One Google Employee Swaps for Joy Over Windows Woes</u></a></li>
+<li><a href="https://win-lab.techidaily.com/bypassing-banners-a-guide-to-hiding-promotions-in-windows-11s-enhanced-taskbar-feature-zdnet-insights/"><u>Bypassing Banners: A Guide to Hiding Promotions in Windows 11'S Enhanced Taskbar Feature | ZDNet Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/dont-miss-out-secure-your-pc-with-latest-windows-update-say-goodbye-to-support-for-21h2-and-22h2-learn-more-on-zdnet/"><u>Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET</u></a></li>
+<li><a href="https://win-lab.techidaily.com/expert-review-navigating-the-future-with-comfort-leading-office-chairs-unveiled/"><u>Expert Review: Navigating the Future with Comfort - Leading Office Chairs Unveiled</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-note-30-vip-racing-edition-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-democracy-dive-deep-top-5-political-simulation-titles/"><u>In 2024, Democracy Dive Deep Top 5 Political Simulation Titles</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-playthrough-success-story-overcoming-memory-glitch-12707/"><u>Modern Warfare ‪3‬ Playthrough Success Story - Overcoming Memory Glitch 12707</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-techniques-for-solving-borderlands-3-initialization-problems-the-ultimate-fixes-list/"><u>Proven Techniques for Solving Borderlands 3 Initialization Problems: The Ultimate Fixes List</u></a></li>
+<li><a href="https://win-lab.techidaily.com/reconfiguring-your-keyboard-layout-with-microsoft-powertoys-a-step-by-step-guide-from-zdnet/"><u>Reconfiguring Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide From ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-start-initiating-your-hp-printer-for-windows-users/"><u>Smooth Start: Initiating Your HP Printer for Windows Users</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-guide-to-selecting-the-ideal-wobble-seats-and-adjustable-desk-chairs-2023-rankings-from-zdnet/"><u>Ultimate Guide to Selecting the Ideal Wobble Seats and Adjustable Desk Chairs - 2023 Rankings From ZDNET</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

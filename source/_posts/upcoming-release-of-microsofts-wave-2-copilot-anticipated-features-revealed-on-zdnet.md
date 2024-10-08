@@ -1,7 +1,7 @@
 ---
 title: Upcoming Release of Microsoft's Wave 2 Copilot - Anticipated Features Revealed on ZDNet
-date: 2024-10-01T02:59:26.465Z
-updated: 2024-10-02T16:39:41.447Z
+date: 2024-10-05T16:53:25.598Z
+updated: 2024-10-08T16:10:36.155Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +102,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,35 +142,21 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,24 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-metaverse-masterpieces-transforming-images-into-memetic-hits/"><u>[New] In 2024, Metaverse Masterpieces Transforming Images Into Memetic Hits</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-masters-tutorial-total-deep-dive-into-xmedia-suite-workshop/"><u>[New] Master's Tutorial Total Deep Dive Into XMedia Suite Workshop</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-list-mobile-camera-utilities-for-iphone/"><u>[Updated] A-List Mobile Camera Utilities for iPhone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-insta-photo-carousel-magic/"><u>[Updated] In 2024, Insta-Photo Carousel Magic</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-seamlessly-post-vimeo-to-instagram/"><u>[Updated] In 2024, Seamlessly Post Vimeo to Instagram</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-effortless-techniques-for-seamlessly-moving-images-from-ios-devices-to-a-windows-10-pc-without-using-itunes/"><u>1. Effortless Techniques for Seamlessly Moving Images From iOS Devices to a Windows 10 PC Without Using iTunes</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-quick-and-simple-guide-moving-your-icloud-contacts-over-to-android/"><u>1. Quick and Simple Guide: Moving Your iCloud Contacts Over to Android</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-elevate-your-videography-premiere-to-youtube-upload/"><u>2024 Approved Elevate Your Videography Premiere to YouTube Upload</u></a></li>
-<li><a href="https://win-lab.techidaily.com/best-4-display-sharing-applications-for-your-mi-device-a-comprehensive-guide/"><u>Best 4 Display Sharing Applications for Your Mi Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/choosing-the-right-tool-snapchats-my-ai-vs-chatgpt/"><u>Choosing the Right Tool: Snapchat's My AI Vs. ChatGPT</u></a></li>
-<li><a href="https://win-lab.techidaily.com/easy-ipad-pdf-form-filling-app-effortlessly-complete-pdfs-directly-from-your-apple-tablet/"><u>Easy iPad PDF Form Filling App: Effortlessly Complete PDFs Directly From Your Apple Tablet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effective-solutions-for-when-apowerunlock-struggles-with-identifying-your-ios-device/"><u>Effective Solutions for When Apowerunlock Struggles with Identifying Your iOS Device</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effortless-transformation-how-to-turn-videos-into-gif-format/"><u>Effortless Transformation: How to Turn Videos Into GIF Format</u></a></li>
-<li><a href="https://win-lab.techidaily.com/essential-insights-into-the-mpeg-4-video-file-standard/"><u>Essential Insights Into the MPEG-4 Video File Standard</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-kernel32dll-failures/"><u>Overcoming Kernel32.dll Failures</u></a></li>
-<li><a href="https://win-lab.techidaily.com/simple-guide-how-to-record-your-entire-mac-screen-as-a-video/"><u>Simple Guide: How to Record Your Entire Mac Screen as a Video</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-steps-to-repair-your-pc-when-it-powers-up-with-blank-screen/"><u>Solving the Dilemma: Steps to Repair Your PC When It Powers Up with Blank Screen</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/the-ultimate-guide-to-the-jackery-energy-station-evaluating-its-integrated-ac-receptacle-functionality/"><u>The Ultimate Guide to the Jackery Energy Station - Evaluating Its Integrated AC Receptacle Functionality</u></a></li>
-<li><a href="https://win-lab.techidaily.com/top-rated-jpeg-image-de-watermarking-tools/"><u>Top Rated JPEG Image De-Watermarking Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlocking-clear-communication-zooms-best-transcription-services/"><u>[New] In 2024, Unlocking Clear Communication Zoom's Best Transcription Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-googles-portal-for-efficient-podcast-submission/"><u>2024 Approved Google's Portal for Efficient Podcast Submission</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swf-mpeg/"><u>線上無限制 SWF 改編成 MPEG - 動視高效能格式化器</u></a></li>
+<li><a href="https://win-lab.techidaily.com/access-the-complete-infinite-skills-course-series-subtitled-videos-available-for-download-now/"><u>Access the Complete Infinite Skills Course Series - Subtitled Videos Available for Download Now!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/amos-the-process-of-downloading-and-saving-flickr-footage-in-various-video-codecs/"><u>Amo's the Process of Downloading and Saving Flickr Footage in Various Video Codecs</u></a></li>
+<li><a href="https://win-lab.techidaily.com/boundhub-video-extractor-and-converter-seamlessly-transform-videos-to-mp4movavi/"><u>BoundHub Video Extractor & Converter: Seamlessly Transform Videos to MP4/MOV/AVI</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/evaluating-photoshop-sway-effective-or-not-for-2024/"><u>Evaluating Photoshop Sway Effective or Not for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-maximum-input-for-chatgpt-and-techniques-to-extend-it/"><u>Exploring the Maximum Input for ChatGPT and Techniques to Extend It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-difficulty-strategies-to-address-unable-to-access-live-config-servers/"><u>Fixing the Difficulty: Strategies to Address 'Unable to Access Live Config Servers'</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-itel-a60s-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Itel A60s</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/understanding-flipbuilders-product-upgrade-strategy-a-comprehensive-guide/"><u>Understanding FlipBuilder's Product Upgrade Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
 </ul></div>
 

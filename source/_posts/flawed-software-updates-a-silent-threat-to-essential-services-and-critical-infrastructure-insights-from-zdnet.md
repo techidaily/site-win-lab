@@ -1,7 +1,7 @@
 ---
 title: "Flawed Software Updates: A Silent Threat to Essential Services and Critical Infrastructure - Insights From ZDNet"
-date: 2024-10-01T21:43:49.433Z
-updated: 2024-10-03T01:53:35.140Z
+date: 2024-10-03T16:27:28.791Z
+updated: 2024-10-08T16:22:38.198Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,25 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-master-the-art-of-superior-image-quality-enable-youtubes-av1/"><u>[New] 2024 Approved Master the Art of Superior Image Quality Enable YouTube's AV1</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-easy-steam-recordings-with-team-fortress-2s-latest-update-for-2024/"><u>[New] Easy Steam Recordings with Team Fortress 2'S Latest Update for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ow-to-automate-iphones-video-repetition-for-2024/"><u>[New] How to Automate iPhone's Video Repetition for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ethereal-editing-in-extended-frame-rate/"><u>[Updated] 2024 Approved Ethereal Editing in Extended Frame Rate</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-grandes-selecciones-de-musica-ideal-para-complementar-fotografias-en-video/"><u>1. Grandes Selecciones De Música Ideal Para Complementar Fotografías en Video</u></a></li>
-<li><a href="https://win-lab.techidaily.com/best-free-software-for-rotating-videos-in-windows-11-top-picks/"><u>Best Free Software for Rotating Videos in Windows 11: Top Picks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/engaging-with-brit-banter-and-jargon/"><u>Engaging with Brit Banter and Jargon</u></a></li>
-<li><a href="https://win-lab.techidaily.com/gratis-online-convertor-verwijder-pgm-naar-bmp-met-movavi-vriendenlijk-begripbaar/"><u>Gratis Online-Convertor: Verwijder PGM Naar BMP Met Movavi - Vriendenlijk Begripbaar</u></a></li>
-<li><a href="https://win-lab.techidaily.com/gratuit-online-converteren-van-3gp-naar-m4a-movavi/"><u>Gratuit Online Converteren Van 3GP Naar M4A - Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-note-30-vip-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Note 30 VIP Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-xiaomi-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Xiaomi Phone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo V29e? | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/online-kostenloser-asf-zu-wav-konverter-mit-movavi-fugen-sie-ihren-audiodateien-heute-eine-neue-qualitatsebene-hinzu/"><u>Online Kostenloser ASF Zu WAV Konverter Mit Movavi – Fügen Sie Ihren Audiodateien Heute Eine Neue Qualitätsebene Hinzu!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimize-your-experience-overcome-common-crashing-challenges-in-football-manager-2021-on-windows-computers/"><u>Optimize Your Experience - Overcome Common Crashing Challenges in Football Manager 2021 on Windows Computers</u></a></li>
-<li><a href="https://win-lab.techidaily.com/top-6-dvd-naar-mp4-konverter-voor-2024-de-ultieme-losung-voor-hoeveelvoudige-inhalen/"><u>Top 6 DVD Naar MP4 Konverter Voor 2024: De Ultieme Lösung Voor Hoeveelvoudige Inhalen</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transform-your-ts-videos-into-high-quality-mp4-files-at-no-cost-using-movavis-web-tool/"><u>Transform Your .TS Videos Into High-Quality .MP4 Files at No Cost Using Movavi's Web Tool</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transforma-videos-mkv-a-mp4-gratuita-y-facil-la-guia-de-movavi/"><u>Transforma Vídeos MKV a MP4 Gratuita Y Fácil: La Guía De Movavi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-3gpp-en-format-3gp-gratuitement-sur-internet-logiciel-de-conversion-rapide/"><u>Transformez Votre Fichier 3GPP en Format 3GP Gratuitement Sur Internet - Logiciel De Conversion Rapide</u></a></li>
-<li><a href="https://network-issues.techidaily.com/winning-the-latency-battle-in-windows-networks/"><u>Winning the Latency Battle in Windows Networks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-no-cost-windowsmac-video-players-top-16-lists-for-2024/"><u>[New] No-Cost Windows/Mac Video Players, Top 16 Lists for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-storytelling-on-screen-crafting-compelling-narratives-for-instareels-for-2024/"><u>[New] Storytelling on Screen Crafting Compelling Narratives for InstaReels for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/anticipate-microsofts-wave-2-release-of-copilot-in-the-coming-days-key-insights-covered-by-zdnet/"><u>Anticipate Microsoft's Wave 2 Release of Copilot in the Coming Days - Key Insights Covered by ZDNet</u></a></li>
+<li><a href="https://win-lab.techidaily.com/business-launch-openai-unveils-enterprise-focused-chatgpt-solution-insights-from-zdnet/"><u>Business Launch: OpenAI Unveils Enterprise-Focused ChatGPT Solution - Insights From ZDNet</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/discover-hidden-printer-devices-in-windows-710/"><u>Discover Hidden Printer Devices in WIndows 7/10</u></a></li>
+<li><a href="https://win-lab.techidaily.com/does-bing-truly-challenge-google-unraveling-the-dynamics-insights-from-zdnet/"><u>Does Bing Truly Challenge Google? Unraveling the Dynamics - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elite-faster-imagery-screen-reader/"><u>Elite Faster Imagery Screen Reader</u></a></li>
+<li><a href="https://win-lab.techidaily.com/first-impressions-testing-the-limits-of-microsofts-surface-pro-and-laptop-could-they-replace-my-macbook-in-depth-review-techzoom/"><u>First Impressions: Testing the Limits of Microsoft's Surface Pro & Laptop - Could They Replace My MacBook? [In-Depth Review] | TechZoom</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-3-ipad-voice-logging-strategies/"><u>In 2024, Top 3 iPad Voice Logging Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-city-skylines-2-pc-crash-issues-proven-fixes/"><u>Solving 'City Skylines 2' PC Crash Issues - Proven Fixes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/standing-and-mastering-video-content-on-yt-shorts-for-2024/"><u>Understanding and Mastering Video Content on YT Shorts for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unravel-the-mystery-of-mass-effects-ultimate-firepower-drops/"><u>Unravel the Mystery of Mass Effect's Ultimate Firepower Drops!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-no-budget-no-problem-top-free-flv-video-editors/"><u>Updated No Budget? No Problem! Top Free FLV Video Editors</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

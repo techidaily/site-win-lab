@@ -1,7 +1,7 @@
 ---
 title: "Unveiling AI Advancements: Sam Altman Talks Post-Build Plans with Microsoft | Latest News on ZDNET"
-date: 2024-09-26T04:13:26.641Z
-updated: 2024-10-02T19:52:24.439Z
+date: 2024-10-05T16:06:51.475Z
+updated: 2024-10-08T16:49:14.279Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-yt-creator-hub-the-ultimate-playbook/"><u>[Updated] 2024 Approved Mastering YT Creator Hub The Ultimate Playbook</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-a-compre-point-strategies-for-effortless-story-posting-for-2024/"><u>[Updated] A Compre Point Strategies For Effortless Story Posting for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-the-instagram-influencer-blueprint-from-few-to-a-thousand-fans/"><u>[Updated] In 2024, The Instagram Influencer Blueprint From Few to a Thousand Fans</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-latest-in-video-capturing-apeaksoft-2023-edition-analysis/"><u>2024 Approved The Latest in Video Capturing Apeaksoft 2023 Edition Analysis</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/choosing-the-right-format-a-comparison-of-flv-and-mp4-for-optimal-youtube-and-twitch-streaming/"><u>Choosing the Right Format: A Comparison of FLV and MP4 for Optimal YouTube and Twitch Streaming</u></a></li>
-<li><a href="https://fox-that.techidaily.com/experiencing-sound-direction-changes-on-airpods-disable-dynamic-head-tracking-for-a-stable-listening-experience/"><u>Experiencing Sound Direction Changes on AirPods? Disable Dynamic Head Tracking for a Stable Listening Experience</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/fastest-audible-audiobook-mp3-converter-up-to-10-times-speed-boost/"><u>Fastest Audible Audiobook MP3 Converter - Up to 10 Times Speed Boost!</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-11-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 11 Pro Space | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-download-and-transcode-aescripts-videos-into-mp4avi-for-windows-and-macos-systems/"><u>How to Download and Transcode Aescripts Videos Into MP4/AVI for Windows and macOS Systems</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-save-france2fr-streams-as-mp4-or-avi-files/"><u>How to Save France2.Fr Streams as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-transform-textbooks-into-audible-formats-mp3flac-a-cross-platform-tutorial-for-mac-and-pc/"><u>How To Transform Textbooks Into Audible Formats (MP3/FLAC): A Cross-Platform Tutorial for Mac & PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/imbalances-can-lead-to-soil-depletion-or-pest-outbreaks-a-balanced-ecosystem-promotes-healthy-crops-and-resilience-against-diseases/"><u>Imbalances Can Lead to Soil Depletion or Pest Outbreaks; a Balanced Ecosystem Promotes Healthy Crops and Resilience Against Diseases</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/one-piece-series-download-full-episodes-in-various-formats-like-mp4-avi-and-more/"><u>One Piece Series: Download Full Episodes in Various Formats Like MP4, AVI, and More</u></a></li>
-<li><a href="https://win-lab.techidaily.com/outstanding-video-converter-options-beyond-freemake-for-apple-users-and-window-enthusiasts/"><u>Outstanding Video Converter Options: Beyond FreeMake for Apple Users & Window Enthusiasts</u></a></li>
-<li><a href="https://win-lab.techidaily.com/pirates-of-the-caribbean-complete-collection-free-download-in-hd-video-formats-mp4-and-avi-for-pc-and-mac-users/"><u>Pirates of the Caribbean Complete Collection: Free Download in HD Video Formats (MP4 & AVI) for PC and Mac Users</u></a></li>
-<li><a href="https://win-lab.techidaily.com/seamlessly-save-your-skillshare-classes-as-mp4-or-mp3-with-our-exclusive-download-tool/"><u>Seamlessly Save Your Skillshare Classes as MP4 or MP3 with Our Exclusive Download Tool!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-converting-archived-wayback-machine-footage-into-various-video-formats/"><u>Step-by-Step Guide: Converting Archived Wayback Machine Footage Into Various Video Formats</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-downloading-content-from-videobash/"><u>Step-by-Step Guide: Downloading Content From VideoBash</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-the-network-speedy-id-snooping-tips/"><u>[New] 2024 Approved Navigating the Network Speedy ID Snooping Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>[Updated] Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-12-pro-how-to-unlock-a-disabled-iphone-12-pro-by-drfone-ios/"><u>Disabled iPhone 12 Pro How to Unlock a Disabled iPhone 12 Pro?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effective-techniques-for-creating-seamless-looping-videos/"><u>Effective Techniques for Creating Seamless Looping Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/improve-your-workflow-dealing-with-external-monitor-lag-in-windows/"><u>Improve Your Workflow: Dealing with External Monitor Lag in Windows</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nt-video-visionary-for-2024/"><u>Instant Video Visionary for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/setting-up-regular-tasks-configuring-software-for-predictable-launch-times/"><u>Setting Up Regular Tasks: Configuring Software for Predictable Launch Times</u></a></li>
+<li><a href="https://win-lab.techidaily.com/simple-guide-how-to-record-your-entire-mac-screen-as-a-video/"><u>Simple Guide: How to Record Your Entire Mac Screen as a Video</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-to-the-top-5-android-video-compressors/"><u>The Ultimate Guide to the Top 5 Android Video Compressors</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-rated-photo-editor-apps-ideal-for-novice-photographers/"><u>Top Rated Photo Editor Apps Ideal for Novice Photographers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-undertaking-decoding-digital-picture-resolutions-for-2024/"><u>Ultimate Undertaking Decoding Digital Picture Resolutions for 2024</u></a></li>
 </ul></div>
 

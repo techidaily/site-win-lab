@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Protect Your System by Updating! (ZDNet)"
-date: 2024-10-02T08:28:21.992Z
-updated: 2024-10-03T02:53:33.989Z
+date: 2024-10-06T16:19:11.430Z
+updated: 2024-10-08T16:16:31.862Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,16 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-professional-screen-recorders-for-the-web-for-2024/"><u>[New] Professional Screen Recorders for the Web for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-record-android-internal-sound-4-non-root-methods/"><u>[New] Record Android Internal Sound 4 Non-Root Methods</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-insights-for-optimal-iphone-x-animoji-use/"><u>[Updated] Comprehensive Insights for Optimal iPhone X Animoji Use</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-comprehensive-guide-retrieving-accidentally-deleted-images-on-your-iphone/"><u>1. Comprehensive Guide: Retrieving Accidentally Deleted Images on Your iPhone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/back-to-classroom-essentials-the-ultimate-checklist-for-students-necessities/"><u>Back to Classroom Essentials: The Ultimate Checklist for Students' Necessities</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-top-5-most-effective-non-adobe-pdf-editors-of-2020-a-complete-guide-for-optimal-file-management/"><u>Discover the Top 5 Most Effective Non-Adobe PDF Editors of 2020: A Complete Guide for Optimal File Management</u></a></li>
-<li><a href="https://win-lab.techidaily.com/easy-conversion-techniques-from-mp3-to-m4r-format/"><u>Easy Conversion Techniques From MP3 to M4R Format</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/french-hues-rapid-speak-tutorial/"><u>French Hues: Rapid Speak Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-realme-narzo-60-pro-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Realme Narzo 60 Pro 5G Fingerprint Lock</u></a></li>
-<li><a href="https://win-dash.techidaily.com/mastering-the-fix-simple-steps-to-address-bcm2045a0-driver-issues-successfully/"><u>Mastering the Fix: Simple Steps to Address Bcm2045a0 Driver Issues Successfully</u></a></li>
-<li><a href="https://win-lab.techidaily.com/the-ultimate-list-of-cost-free-mac-data-retrieval-applications-for-2n21/"><u>The Ultimate List of Cost-Free Mac Data Retrieval Applications for 2N21</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elitemac-pro-the-best-in-high-quality-video-and-audio-recording-for-2024/"><u>[Updated] EliteMac Pro The Best in High-Quality Video & Audio Recording for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-steps-to-screen-record-on-macbook-air/"><u>2024 Approved Easy Steps to Screen Record on Macbook Air</u></a></li>
+<li><a href="https://win-lab.techidaily.com/capture-and-conserve-every-frame-expert-tips-for-rtsp-live-streams-downloading-success/"><u>Capture and Conserve Every Frame: Expert Tips for RTSP Live Streams Downloading Success!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/converting-mozilla-air-files-how-to-save-your-favorites-as-mp4-mov-or-avi-and-more/"><u>Converting Mozilla Air Files: How to Save Your Favorites as MP4, MOV or AVI and More!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-greatest-anime-platforms-online-plus-step-by-step-tutorial-on-securing-your-watchlist-for-offline-enjoyment/"><u>Discover the Greatest Anime Platforms Online + Step-by-Step Tutorial on Securing Your Watchlist for Offline Enjoyment</u></a></li>
+<li><a href="https://win-lab.techidaily.com/download-metacafe-on-pc-and-mac-ultimate-video-sharing-platform/"><u>Download Metacafe on PC & Mac: Ultimate Video Sharing Platform</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-12r-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus 12R FRP?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-insights-from-experts-on-the-fitbit-charge-6-a-thorough-review/"><u>Top Insights From Experts on the Fitbit Charge 6: A Thorough Review</u></a></li>
 </ul></div>
 

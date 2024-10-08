@@ -1,7 +1,7 @@
 ---
 title: Microsoft Ends a Three-Decade Legacy by Phasing Out WordPad, as Revealed by ZDNet
-date: 2024-09-30T07:54:21.849Z
-updated: 2024-10-03T01:08:44.683Z
+date: 2024-10-07T16:08:00.769Z
+updated: 2024-10-08T16:07:47.760Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,20 +187,20 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-freedom-on-facebook-10-tricks-to-sidestep-blockage/"><u>[New] 2024 Approved Freedom on Facebook 10 Tricks to Sidestep Blockage</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discovering-underrated-gems-this-year-films-for-2024/"><u>[New] Discovering Underrated Gems This Year (Films) for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-twitch-livestream-hacks-to-boost-engagement-and-followers-for-2024/"><u>[New] Twitch Livestream Hacks to Boost Engagement and Followers for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-maximize-creativity-10-no-cost-tiktok-editors-for-macos/"><u>[Updated] 2024 Approved Maximize Creativity 10 No-Cost TikTok Editors for MacOS</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-demystifying-the-use-of-luts-in-professional-photoshop-workflows-for-2024/"><u>[Updated] Demystifying the Use of LUTs in Professional Photoshop Workflows for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-finding-your-video-complement-the-process-of-collaborative-pairing/"><u>2024 Approved Finding Your Video Complement The Process of Collaborative Pairing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/bypassing-banners-a-guide-to-hiding-promotions-in-windows-11s-enhanced-taskbar-feature-zdnet-insights/"><u>Bypassing Banners: A Guide to Hiding Promotions in Windows 11'S Enhanced Taskbar Feature | ZDNet Insights</u></a></li>
-<li><a href="https://win-lab.techidaily.com/dont-miss-out-secure-your-pc-with-latest-windows-update-say-goodbye-to-support-for-21h2-and-22h2-learn-more-on-zdnet/"><u>Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET</u></a></li>
-<li><a href="https://win-lab.techidaily.com/exclusive-update-windows-11-systems-to-feature-the-revolutionary-copilot-ai-assistant/"><u>Exclusive Update: Windows 11 Systems to Feature the Revolutionary Copilot AI Assistant</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-reveal-the-rare-5-effortless-ways-to-enhance-views/"><u>In 2024, Reveal the Rare 5 Effortless Ways to Enhance Views</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mastering-windows-11-installation-selecting-the-perfect-user-account-type-guide/"><u>Mastering Windows 11 Installation: Selecting the Perfect User Account Type Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/microsofts-potential-ban-on-windows-11-24h2-mod-apps-what-you-need-to-know-now/"><u>Microsoft's Potential Ban on Windows 11 24H2 Mod Apps – What You Need to Know Now</u></a></li>
-<li><a href="https://win-lab.techidaily.com/seamless-transfer-of-documents-between-windows-and-android-devices-via-googles-quick-share-feature/"><u>Seamless Transfer of Documents Between Windows & Android Devices via Google's Quick Share Feature</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-online-sources-for-high-quality-vector-illustrations-for-2024/"><u>Top Online Sources for High-Quality Vector Illustrations for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevate-your-social-media-presence-360-degree-image-integration-on-android-and-ios/"><u>[Updated] In 2024, Elevate Your Social Media Presence 360-Degree Image Integration on Android & iOS</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-youtube-partnerships-successfully/"><u>[Updated] Navigating YouTube Partnerships Successfully</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-change-default-backup-location-mac/"><u>2024 Approved Change Default Backup Location (Mac)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-contrast-synchronizer/"><u>2024 Approved Radiant Contrast Synchronizer</u></a></li>
+<li><a href="https://win-lab.techidaily.com/access-the-complete-infinite-skills-course-series-subtitled-videos-available-for-download-now/"><u>Access the Complete Infinite Skills Course Series - Subtitled Videos Available for Download Now!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v30-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V30 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-stabilizers-iphone-android-and-professional-choices-1-10/"><u>In 2024, Premium Stabilizers IPhone, Android, and Professional Choices #1-10</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-top-10-omegle-alternative-videochat-websites/"><u>New 2024 Approved Top 10 Omegle Alternative Videochat Websites</u></a></li>
+<li><a href="https://win-lab.techidaily.com/share-your-creations-easily-learn-to-send-email-attachments-with-interactive-html-links-for-flipbooks-on-flipbuildercom/"><u>Share Your Creations Easily! Learn to Send Email Attachments with Interactive HTML Links for Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-multiple-pdfs-into-interactive-flash-books-for-free/"><u>Transform Multiple PDFs Into Interactive Flash Books for Free!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-pdfs-into-engaging-flash-books-with-page-turn-sounds-on-flipbuildercom/"><u>Transform Your PDFs Into Engaging Flash Books with Page-Turn Sounds on FlipBuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/understanding-flipbuilders-product-upgrade-strategy-a-comprehensive-guide/"><u>Understanding FlipBuilder's Product Upgrade Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
+<li><a href="https://extra-information.techidaily.com/your-go-to-places-for-no-fee-gamers-music-online/"><u>Your Go-To Places for No-Fee Gamers' Music Online</u></a></li>
 </ul></div>
 
