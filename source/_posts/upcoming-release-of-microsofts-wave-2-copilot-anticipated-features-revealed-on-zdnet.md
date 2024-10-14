@@ -1,7 +1,7 @@
 ---
 title: Upcoming Release of Microsoft's Wave 2 Copilot - Anticipated Features Revealed on ZDNet
-date: 2024-10-05T16:53:25.598Z
-updated: 2024-10-08T16:10:36.155Z
+date: 2024-10-11T02:31:17.834Z
+updated: 2024-10-14T08:19:02.154Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,19 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -102,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unlocking-clear-communication-zooms-best-transcription-services/"><u>[New] In 2024, Unlocking Clear Communication Zoom's Best Transcription Services</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-googles-portal-for-efficient-podcast-submission/"><u>2024 Approved Google's Portal for Efficient Podcast Submission</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/swf-mpeg/"><u>線上無限制 SWF 改編成 MPEG - 動視高效能格式化器</u></a></li>
-<li><a href="https://win-lab.techidaily.com/access-the-complete-infinite-skills-course-series-subtitled-videos-available-for-download-now/"><u>Access the Complete Infinite Skills Course Series - Subtitled Videos Available for Download Now!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/amos-the-process-of-downloading-and-saving-flickr-footage-in-various-video-codecs/"><u>Amo's the Process of Downloading and Saving Flickr Footage in Various Video Codecs</u></a></li>
-<li><a href="https://win-lab.techidaily.com/boundhub-video-extractor-and-converter-seamlessly-transform-videos-to-mp4movavi/"><u>BoundHub Video Extractor & Converter: Seamlessly Transform Videos to MP4/MOV/AVI</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-photoshop-sway-effective-or-not-for-2024/"><u>Evaluating Photoshop Sway Effective or Not for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-maximum-input-for-chatgpt-and-techniques-to-extend-it/"><u>Exploring the Maximum Input for ChatGPT and Techniques to Extend It</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-difficulty-strategies-to-address-unable-to-access-live-config-servers/"><u>Fixing the Difficulty: Strategies to Address 'Unable to Access Live Config Servers'</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-itel-a60s-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Itel A60s</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/understanding-flipbuilders-product-upgrade-strategy-a-comprehensive-guide/"><u>Understanding FlipBuilder's Product Upgrade Strategy: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-free-video-fiddling-unleash-potential-with-vimeo-editing/"><u>[New] In 2024, Free Video Fiddling Unleash Potential with Vimeo Editing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-12-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 12 Pro</u></a></li>
+<li><a href="https://win-lab.techidaily.com/embedding-flv-videos-in-flipbook-pages-easy-integration-techniques-and-tips/"><u>Embedding Flv Videos in Flipbook Pages: Easy Integration Techniques and Tips</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/expert-tips-for-diagnosing-pc-issues-fixing-windows-1ns-bsod-due-to-machine-check-exceptions/"><u>Expert Tips for Diagnosing PC Issues - Fixing Windows 1N's BSOD Due to Machine Check Exceptions</u></a></li>
+<li><a href="https://win-lab.techidaily.com/explore-exceptional-flipbook-creations-on-flipbuilder-your-gateway-to-specialized-media/"><u>Explore Exceptional Flipbook Creations on FlipBuilder - Your Gateway to Specialized Media</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-can-i-transform-compact-chm-files-into-engaging-ebook-formats-using-flipbuildercom/"><u>How Can I Transform Compact CHM Files Into Engaging eBook Formats Using FlipBuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-can-you-customize-bookmark-font-in-flipbooks-with-flipbuilder/"><u>How Can You Customize Bookmark Font in Flipbooks with FlipBuilder?</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-make-windows-files-writable-stop-read-only/"><u>How to Make Windows Files Writable: Stop Read-Only</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-boosting-detail-with-videoleaps-in-camera-zooming/"><u>In 2024, Boosting Detail with VideoLeap's In-Camera Zooming</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-12-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme 12 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Motorola Edge 40 Neo? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-strategies-for-correcting-quietened-video-sounds-on-fb/"><u>In 2024, Strategies for Correcting Quietened Video Sounds on Fb</u></a></li>
+<li><a href="https://win-lab.techidaily.com/in-depth-insights-and-guidance-on-general-queries-your-ultimate-hub-with-flipbuilder/"><u>In-Depth Insights & Guidance on General Queries - Your Ultimate Hub with FlipBuilder</u></a></li>
+<li><a href="https://win-lab.techidaily.com/is-it-possible-to-embed-hyperlinks-in-content-made-using-flipbuilders-editing-tools/"><u>Is It Possible to Embed Hyperlinks in Content Made Using FlipBuilder's Editing Tools?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/master-the-art-of-creating-engaging-digital-publications-from-ms-word-files-with-flipbooks-quick-conversion-solutions/"><u>Master the Art of Creating Engaging Digital Publications From MS Word Files with FlipBook's Quick Conversion Solutions!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/personalize-flipbook-dimensions-and-hues-a-complete-guide-on-flipbuilder/"><u>Personalize FlipBook Dimensions and Hues - A Complete Guide on FlipBuilder</u></a></li>
+<li><a href="https://win-lab.techidaily.com/share-your-creations-easily-learn-to-send-email-attachments-with-interactive-html-links-for-flipbooks-on-flipbuildercom/"><u>Share Your Creations Easily! Learn to Send Email Attachments with Interactive HTML Links for Flipbooks on FlipBuilder.com</u></a></li>
 </ul></div>
 

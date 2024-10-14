@@ -1,7 +1,7 @@
 ---
 title: "Business Launch: OpenAI Unveils Enterprise-Focused ChatGPT Solution - Insights From ZDNet"
-date: 2024-10-07T16:40:41.274Z
-updated: 2024-10-08T16:14:34.747Z
+date: 2024-10-13T07:22:55.077Z
+updated: 2024-10-14T11:30:58.627Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-guide-to-forming-your-instagram-company-identity/"><u>[New] 2024 Approved The Ultimate Guide to Forming Your Instagram Company Identity</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-comprehensive-guide-to-free-xbox-screen-recorder-use/"><u>[New] In 2024, Comprehensive Guide to Free Xbox Screen Recorder Use</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-strategies-for-discerning-professional-film-making-talents-for-2024/"><u>[New] Strategies for Discerning Professional Film Making Talents for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-navigating-through-instagram-video-hiccups/"><u>[Updated] In 2024, Navigating Through Instagram Video Hiccups</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-uav-technology-unveiled-the-yuneec-4k-journey/"><u>[Updated] In 2024, UAV Technology Unveiled The Yuneec 4K Journey</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-10-must-watch-historical-channels-for-students/"><u>2024 Approved 10 Must-Watch Historical Channels for Students</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/comprehensive-driver-packages-for-cameras-on-windows-download-for-w11w10w8w7/"><u>Comprehensive Driver Packages for Cameras on Windows (Download for W11/W10/W8/W7)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-bin-file-recovery-tactics-unlocking-secrets-with-three-highly-effective-free-software-solutions/"><u>Effortless BIN File Recovery Tactics: Unlocking Secrets with Three Highly Effective Free Software Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-stepwise-approach-to-add-youtube-videos-into-slate/"><u>[New] 2024 Approved A Stepwise Approach to Add YouTube Videos Into Slate</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/uick-guide-eradicating-unwanted-youtube-downloads-on-pcmac/"><u>[New] Quick Guide Eradicating Unwanted YouTube Downloads on PC/Mac</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-first-steps-into-facebook-data-analysis-for-new-users/"><u>[Updated] In 2024, First Steps Into Facebook Data Analysis for New Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-superstar-creators-the-highest-paid-ones/"><u>[Updated] Superstar Creators The Highest Paid Ones</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-invisible-hand-mastering-windows-11s-media-imports-for-2024/"><u>[Updated] The Invisible Hand Mastering Windows 11'S Media Imports for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/get-free-access-save-mtvs-hits-in-mp3-and-mp4-formats-for-mac-users-and-windows-enthusiasts/"><u>Get Free Access: Save MTV's Hits in MP3 and MP4 Formats for Mac Users & Windows Enthusiasts</u></a></li>
+<li><a href="https://win-lab.techidaily.com/get-smart-downloading-mastering-vidzitv-videos-on-both-mac-os-and-windows-systems/"><u>Get Smart Downloading: Mastering Vidzi.tv Videos on Both MAC OS & Windows Systems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-dolby-audio-driver-updates-for-your-windows-pc-version-111081/"><u>Get the Latest Dolby Audio Driver Updates for Your Windows PC (Version 11/10/8.1)</u></a></li>
+<li><a href="https://win-lab.techidaily.com/get-your-favorite-media-easy-download-from-digital-trends-channel/"><u>Get Your Favorite Media - Easy Download From Digital Trends Channel</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722972045739-get-your-sades-headset-drivers-for-windows-trustworthy-and-risk-free-downloads/"><u>Get Your Sades Headset Drivers for Windows: Trustworthy and Risk-Free Downloads!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-download-and-transcode-aescripts-videos-into-mp4avi-for-windows-and-macos-systems/"><u>How to Download and Transcode Aescripts Videos Into MP4/AVI for Windows and macOS Systems</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-save-france2fr-streams-as-mp4-or-avi-files/"><u>How to Save France2.Fr Streams as MP4 or AVI Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-transform-textbooks-into-audible-formats-mp3flac-a-cross-platform-tutorial-for-mac-and-pc/"><u>How To Transform Textbooks Into Audible Formats (MP3/FLAC): A Cross-Platform Tutorial for Mac & PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/one-piece-series-download-full-episodes-in-various-formats-like-mp4-avi-and-more/"><u>One Piece Series: Download Full Episodes in Various Formats Like MP4, AVI, and More</u></a></li>
+<li><a href="https://win-lab.techidaily.com/outstanding-video-converter-options-beyond-freemake-for-apple-users-and-window-enthusiasts/"><u>Outstanding Video Converter Options: Beyond FreeMake for Apple Users & Window Enthusiasts</u></a></li>
 <li><a href="https://win-lab.techidaily.com/pirates-of-the-caribbean-complete-collection-free-download-in-hd-video-formats-mp4-and-avi-for-pc-and-mac-users/"><u>Pirates of the Caribbean Complete Collection: Free Download in HD Video Formats (MP4 & AVI) for PC and Mac Users</u></a></li>
-<li><a href="https://win-lab.techidaily.com/seamlessly-save-your-skillshare-classes-as-mp4-or-mp3-with-our-exclusive-download-tool/"><u>Seamlessly Save Your Skillshare Classes as MP4 or MP3 with Our Exclusive Download Tool!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-converting-archived-wayback-machine-footage-into-various-video-formats/"><u>Step-by-Step Guide: Converting Archived Wayback Machine Footage Into Various Video Formats</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-downloading-content-from-videobash/"><u>Step-by-Step Guide: Downloading Content From VideoBash</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-tutorial-for-downloading-music-from-kkbox-to-mp3-format-on-windowsmac-systems/"><u>Step-by-Step Tutorial for Downloading Music From KKBOX to MP3 Format on Windows/Mac Systems</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-tutorial-how-can-you-save-rdio-songs-on-your-device/"><u>Step-by-Step Tutorial: How Can You Save Rdio Songs on Your Device?</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719578757679-ukranian-in-a-flash-one-minute-a-day-65-chars-note-adjusted-for-brevity/"><u>Ukranian in a Flash, One Minute a Day (65 Chars) - Note: Adjusted for Brevity.</u></a></li>
 </ul></div>
 

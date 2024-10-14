@@ -1,7 +1,7 @@
 ---
 title: How the New M1 Pro Transforms the MacBook Pro Into an Unbeatable Windows 11 Machine | ZDNet
-date: 2024-10-07T16:28:28.666Z
-updated: 2024-10-08T16:37:28.989Z
+date: 2024-10-07T07:24:23.570Z
+updated: 2024-10-13T19:59:05.892Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -98,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -142,16 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,24 +202,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2023s-most-captivating-channel-the-ultimate-story-showcase/"><u>[New] 2023'S Most Captivating Channel The Ultimate Story Showcase</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-comedy-crusade-youtubes-hottest-laughter-leaders/"><u>[New] 2024 Approved Comedy Crusade YouTube's Hottest Laughter Leaders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-cut-to-impress-top-tier-online-photo-editing-skills/"><u>[Updated] 2024 Approved Cut to Impress Top-Tier Online Photo Editing Skills</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-sony-x1000d-vivid-full-action-cam-test/"><u>[Updated] Sony X1000D Vivid - Full Action Cam Test</u></a></li>
-<li><a href="https://win-lab.techidaily.com/convertir-gifs-en-archivos-flv-sin-costo-con-moviescribe/"><u>Convertir GIFs en Archivos FLV Sin Costo Con MovieScribe</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-best-11-animation-series-like-the-greatest-available-both-for-free-and-subscription-based-viewing/"><u>Discover the Best: 11 Animation Series Like 'The Greatest' - Available Both for Free and Subscription-Based Viewing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-finest-selection-the-best-10-slow-motion-video-editing-tools-online/"><u>Discover the Finest Selection: The Best 10 Slow-Motion Video Editing Tools Online</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effortless-online-f4v-flv-file-format-change-get-started-with-movavi-now/"><u>Effortless Online F4V-FLV File Format Change - Get Started with Movavi Now</u></a></li>
-<li><a href="https://win-lab.techidaily.com/gratuit-verbetering-m4a-in-wav-formaat-efficient-online-tool-movavi/"><u>Gratuit Verbetering M4A in WAV Formaat: Efficiënt Online-Tool Movavi</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-f15-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy F15 5G Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/learn-device-vram-statistics-quickly/"><u>Learn Device VRAM Statistics Quickly</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-revamp-your-videos-how-to-give-them-a-cartoon-makeover-for-2024/"><u>New Revamp Your Videos How to Give Them a Cartoon Makeover for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/stuck-at-android-system-recovery-of-itel-p55t-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Itel P55T ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transferer-facilement-un-gif-vers-une-video-mp4-sans-frais-tutorials-video-professionnels-avec-movavi/"><u>Transférer Facilement Un GIF Vers Une Vidéo MP4 Sans Frais - Tutorials Vidéo Professionnels Avec Movavi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/trasformare-i-file-mpeg-in-formato-m4v-gratuitamente-online-con-convertimpeg/"><u>Trasformare I File MPEG in Formato M4V Gratuitamente Online Con ConvertiMpeg</u></a></li>
-<li><a href="https://fox-links.techidaily.com/yuneec-typhoon-q500-a-glimpse-of-tomorrow-for-2024/"><u>Yuneec Typhoon Q500 - A Glimpse of Tomorrow for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/wma-m4r-movavi/"><u>오피니 공간에서 WMA펫스를 M4R 파일로 자유성적으로 전환: 무료 해상도 - MOVAVI</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1726227435766-flv-mp4/"><u>제공자가 아닌 FLV 파일을 MP4로 변환 - 오픈소스 앱</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-essential-10-boosters-for-multi-device-use/"><u>[New] 2024 Approved Essential 10 Boosters for Multi-Device Use</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-screenshot-expertise-checker/"><u>[New] ScreenShot Expertise Checker</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-top-10-pc-vr-headsets/"><u>[New] Top 10 PC VR Headsets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-dual-display-dynamics-video-recorder-rankings/"><u>2024 Approved Dual Display Dynamics Video Recorder Rankings</u></a></li>
+<li><a href="https://win-lab.techidaily.com/descargar-gratuito-de-convertir-video-m1v-a-formato-mp4-con-software-online/"><u>Descargar Gratuito De Convertir Video M1V a Formato MP4 Con Software Online</u></a></li>
+<li><a href="https://win-lab.techidaily.com/diy-image-gallery-maker-craft-stunning-slideshows-with-soundtrack/"><u>DIY Image Gallery Maker: Craft Stunning Slideshows With Soundtrack!</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-itel-p40-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Itel P40?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://win-lab.techidaily.com/movavis-web-based-tool-for-complimentary-mpeg-encoding-from-ram-files/"><u>Movavi's Web-Based Tool for Complimentary MPEG Encoding From RAM Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/radka-nefunguje-obrazovka-nahravani-movavi-v-prubehu-oprav/"><u>Rádka - Nefunguje Obrazovka Nahrávání [Movavi] v Průběhu Oprav</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-to-the-best-16-automatic-subtitle-creation-tools-for-video-editors/"><u>The Ultimate Guide to the Best 16 Automatic Subtitle Creation Tools for Video Editors</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trp-mp4-online-movavi/"><u>TRP MP4 영상을 쉽게 오늘 무료로 Online 전환: Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/turkce-odeme-yontemlere-ulasabilmenin-isbir-gecerli-capadaklarini-belirleyecegine-daha-basarili-turkumulermis/"><u>Türkçe: Ödeme Yöntemlere Ulaşabilmenin İşbir-Geçerli Çapadaklarını Belirleyeceğine Daha Başarılı Türkümülermiş</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workflow-enhancer-integrating-sticky-notes-into-your-windows-morning-ritual/"><u>Workflow Enhancer: Integrating Sticky Notes Into Your Windows Morning Ritual</u></a></li>
 </ul></div>
 

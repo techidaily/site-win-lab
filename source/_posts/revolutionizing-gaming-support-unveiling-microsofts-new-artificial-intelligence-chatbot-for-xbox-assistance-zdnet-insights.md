@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Gaming Support: Unveiling Microsoft’s New Artificial Intelligence Chatbot for Xbox Assistance | ZDNET Insights"
-date: 2024-10-06T16:08:39.086Z
-updated: 2024-10-08T16:33:28.468Z
+date: 2024-10-12T20:24:42.001Z
+updated: 2024-10-14T09:12:02.028Z
 tags:
   - microsoft
 categories:
@@ -63,6 +63,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **3\. Switch to ChromeOS**
 
 You can use a web browser, right? If you really can't see yourself learning Linux, try ChromeOS.
@@ -84,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-simple-strategies-for-capturing-games-on-consoles/"><u>[Updated] 2024 Approved Simple Strategies for Capturing Games on Consoles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-fastest-iphoneandroid-apps-for-enhanced-music/"><u>[Updated] Fastest iPhone/Android Apps for Enhanced Music</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unleash-the-power-of-your-youtube-channel-with-expert-editing-techniques/"><u>[Updated] In 2024, Unleash the Power of Your YouTube Channel with Expert Editing Techniques</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-maximize-visual-impact-with-free-digital-lut-resources/"><u>[Updated] Maximize Visual Impact with FREE Digital LUT Resources</u></a></li>
-<li><a href="https://win-lab.techidaily.com/2023s-premier-selection-of-ergonomic-gaming-chairs-reviewed-by-pcmag/"><u>2023'S Premier Selection of Ergonomic Gaming Chairs Reviewed by PCMag</u></a></li>
-<li><a href="https://win-lab.techidaily.com/a-deep-dive-into-the-delightful-world-of-macs-why-one-google-employee-swaps-for-joy-over-windows-woes/"><u>A Deep Dive Into the Delightful World of Macs: Why One Google Employee Swaps for Joy Over Windows Woes</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-driven-automation-enhance-your-sites-performance/"><u>Cookiebot-Driven Automation: Enhance Your Site's Performance</u></a></li>
-<li><a href="https://win-lab.techidaily.com/expert-review-navigating-the-future-with-comfort-leading-office-chairs-unveiled/"><u>Expert Review: Navigating the Future with Comfort - Leading Office Chairs Unveiled</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-from-zero-to-hero-how-to-generate-fb-trends/"><u>In 2024, From Zero to Hero How to Generate Fb Trends</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/iot-battle-heats-up-as-google-retreats-while-microsoft-advances/"><u>IoT Battle Heats Up as Google Retreats While Microsoft Advances</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-epson-v700-printer-drivers-supported-by-windows-operating-systems-from-7-to-10-and-81/"><u>Latest Epson V700 Printer Drivers: Supported by Windows Operating Systems From 7 to 10 and 8.1</u></a></li>
-<li><a href="https://win-lab.techidaily.com/reconfiguring-your-keyboard-layout-with-microsoft-powertoys-a-step-by-step-guide-from-zdnet/"><u>Reconfiguring Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide From ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-frame-drops-in-splitgate-strategies-for-smoother-gameplay-performance/"><u>Resolve Frame Drops in Splitgate: Strategies for Smoother Gameplay Performance</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ultimate-guide-to-selecting-the-ideal-wobble-seats-and-adjustable-desk-chairs-2023-rankings-from-zdnet/"><u>Ultimate Guide to Selecting the Ideal Wobble Seats and Adjustable Desk Chairs - 2023 Rankings From ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/baixar-conversor-de-qt-para-gif-online-gratuito-movavi/"><u>Baixar Conversor De Qt Para GIF Online Gratuito - Movavi</u></a></li>
+<li><a href="https://win-info.techidaily.com/free-francetv-info-downloads-how-to-access-and-save-video-content/"><u>Free Francetv Info Downloads: How to Access and Save Video Content</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-vivo-s17e-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Vivo S17e to Another | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/iphone-caught-in-data-recovery-cycle-mastering-fixes-to-restore-functionality/"><u>IPhone Caught in Data Recovery Cycle? Mastering Fixes to Restore Functionality</u></a></li>
+<li><a href="https://win-lab.techidaily.com/microsoft-encourages-innovation-in-excel-my-response-and-experience-detailed-on-zdnet/"><u>Microsoft Encourages Innovation in Excel: My Response and Experience Detailed on ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-toms-hardware-expertise/"><u>Navigating the World of Computing: Tom's Hardware Expertise</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-youtube-rights-an-experts-handbook/"><u>Navigating YouTube Rights An Expert's Handbook</u></a></li>
+<li><a href="https://win-lab.techidaily.com/prominent-ai-experts-encourage-localized-data-framework-usage-to-enhance-diverse-representation-zdnet/"><u>Prominent AI Experts Encourage Localized Data Framework Usage to Enhance Diverse Representation | ZDNET</u></a></li>
+<li><a href="https://win-lab.techidaily.com/revolutionizing-legal-workflow-microsoft-copilot-joins-forces-with-singapores-digital-law-platform-zdnet-insights/"><u>Revolutionizing Legal Workflow: Microsoft Copilot Joins Forces with Singapore's Digital Law Platform | ZDNet Insights</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-zte-nubia-flip-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On ZTE Nubia Flip 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-rated-2023-surface-computers-in-depth-analysis-and-comparison-by-tech-experts-zdnet/"><u>Top-Rated 2023 Surface Computers: In-Depth Analysis & Comparison by Tech Experts - ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ZDNet Investigates the Value of Older iPhones for Today's Tech-Savvy Users
-date: 2024-10-07T16:18:40.892Z
-updated: 2024-10-08T16:17:44.199Z
+date: 2024-10-11T20:43:46.793Z
+updated: 2024-10-13T22:18:50.275Z
 tags:
   - windows
 categories:
@@ -27,31 +27,24 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -63,10 +56,16 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -98,24 +97,37 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -156,24 +168,24 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-ultimate-guide-to-android-9-youtube-download-apps/"><u>[New] 2024 Approved The Ultimate Guide to Android 9 YouTube Download Apps</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-confirmation-procedures-for-youtube-users/"><u>[New] In 2024, Confirmation Procedures for YouTube Users</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-lens-of-loom-perfecting-your-video-weave/"><u>[New] Lens of Loom Perfecting Your Video Weave</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-ultimate-guide-choosing-the-best-video-grabber-for-windows-10/"><u>[Updated] Ultimate Guide Choosing the Best Video Grabber for Windows 10</u></a></li>
-<li><a href="https://win-lab.techidaily.com/anticipate-microsofts-wave-2-release-of-copilot-in-the-coming-days-key-insights-covered-by-zdnet/"><u>Anticipate Microsoft's Wave 2 Release of Copilot in the Coming Days - Key Insights Covered by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-frame-rate-tips-to-increase-fps-and-minimize-delays-in-fall-guys/"><u>Boosting Your Frame Rate: Tips to Increase FPS & Minimize Delays in Fall Guys</u></a></li>
-<li><a href="https://win-lab.techidaily.com/business-launch-openai-unveils-enterprise-focused-chatgpt-solution-insights-from-zdnet/"><u>Business Launch: OpenAI Unveils Enterprise-Focused ChatGPT Solution - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-the-hold-alert-during-iphone-charging-with-these-8-tricks/"><u>Bypassing the Hold Alert During iPhone Charging with These 8 Tricks</u></a></li>
-<li><a href="https://win-lab.techidaily.com/does-bing-truly-challenge-google-unraveling-the-dynamics-insights-from-zdnet/"><u>Does Bing Truly Challenge Google? Unraveling the Dynamics - Insights From ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-gaming-experience-by-eliminating-low-fps-problems-in-godfall/"><u>Elevate Your Gaming Experience by Eliminating Low FPS Problems in Godfall</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/expert-insights-the-best-screen-recording-software-reviewed-for-2024/"><u>Expert Insights The Best Screen Recording Software Reviewed for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/first-impressions-testing-the-limits-of-microsofts-surface-pro-and-laptop-could-they-replace-my-macbook-in-depth-review-techzoom/"><u>First Impressions: Testing the Limits of Microsoft's Surface Pro & Laptop - Could They Replace My MacBook? [In-Depth Review] | TechZoom</u></a></li>
-<li><a href="https://win-lab.techidaily.com/flawed-software-updates-a-silent-threat-to-essential-services-and-critical-infrastructure-insights-from-zdnet/"><u>Flawed Software Updates: A Silent Threat to Essential Services and Critical Infrastructure - Insights From ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-the-latest-windows-11-upgrade-may-automatically-integrate-with-onedrive-without-consent-zdnet-expose/"><u>How the Latest Windows 11 Upgrade May Automatically Integrate with OneDrive Without Consent | ZDNet Exposé</u></a></li>
-<li><a href="https://win-lab.techidaily.com/incoming-changes-alert-windows-11-update-fees-set-by-microsoft-for-next-year-what-youll-need-to-pay-wired-innovation-news/"><u>Incoming Changes Alert: Windows 11 Update Fees Set by Microsoft for Next Year - What You'll Need to Pay | Wired Innovation News</u></a></li>
-<li><a href="https://win-lab.techidaily.com/microsoft-explores-artificial-intelligence-with-new-xbox-support-bot-learn-its-functionality/"><u>Microsoft Explores Artificial Intelligence with New Xbox Support Bot - Learn Its Functionality</u></a></li>
-<li><a href="https://win-lab.techidaily.com/stay-on-track-with-mirillis-seamless-activation-and-key-management-solutions/"><u>Stay on Track with Mirillis: Seamless Activation & Key Management Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/blueprint-for-a-smooth-youtube-to-facebook-content-flow/"><u>Your Blueprint for a Smooth YouTube to Facebook Content Flow</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-10-history-youtube-channels-for-students-and-history-lovers/"><u>[New] 2024 Approved Top 10 History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gadgets-that-shine-in-travel-videography/"><u>[New] Gadgets That Shine in Travel Videography</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unlocking-the-power-of-skype-recordings-on-windows-and-mac/"><u>[Updated] 2024 Approved Unlocking the Power of Skype Recordings on Windows & Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-quick-ways-to-retain-live-chat-transcripts/"><u>[Updated] Quick Ways to Retain Live Chat Transcripts</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-mastering-the-art-of-email-signatures-a-step-by-step-guide-with-microsoft-outlook/"><u>1. Mastering the Art of Email Signatures: A Step-by-Step Guide with Microsoft Outlook</u></a></li>
+<li><a href="https://win-lab.techidaily.com/boost-your-surface-pros-storage-capacity-and-slash-costs-in-just-7-steps-learn-how-smarttechguru/"><u>Boost Your Surface Pro's Storage Capacity and Slash Costs in Just 7 Steps! Learn How | SmartTechGuru</u></a></li>
+<li><a href="https://win-lab.techidaily.com/business-focused-chatgpt-launched-by-openai-innovative-capabilities-detailed-on-zdnet/"><u>Business-Focused ChatGPT Launched by OpenAI; Innovative Capabilities Detailed on ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-motorola-moto-g34-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://win-lab.techidaily.com/dont-rush-into-windows-11-top-tips-for-optimizing-your-system-without-upgrading-zdnet/"><u>Don't Rush Into Windows 11: Top Tips for Optimizing Your System Without Upgrading | ZDNet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhance-system-speed-moving-from-windows-8-to-11/"><u>Enhance System Speed: Moving From Windows 8 To 11</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fixing-the-detection-issue-of-tp-link-wn722n-wifi-card-in-windows-environment/"><u>Fixing the Detection Issue of TP-Link WN722N WiFi Card in Windows Environment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-shifts-creating-timelapse-videos-on-samsung-devices/"><u>In 2024, Seamless Shifts Creating Timelapse Videos on Samsung Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-tools-for-post-production-of-dji-videos/"><u>Premier Tools for Post-Production of DJi Videos</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/realtek-audio-trouble-heres-how-to-resolve-the-hd-not-plugged-in-problem/"><u>Realtek Audio Trouble? Here’s How to Resolve the HD Not Plugged-In Problem</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-enduring-impact-of-microsofts-mobile-strategy-blunders-after-a-full-ten-years-tech-insights-by-zdnet/"><u>The Enduring Impact of Microsoft's Mobile Strategy Blunders After a Full Ten Years | Tech Insights by ZDNET</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unannounced-microsoft-enhancement-leads-to-user-uproar-industry-taken-by-surprise-itinsider/"><u>Unannounced Microsoft Enhancement Leads to User Uproar, Industry Taken by Surprise | ITInsider</u></a></li>
+<li><a href="https://win-lab.techidaily.com/understanding-the-recent-disruption-in-microsoft-365-usage-incident-report-and-resolution-insights/"><u>Understanding the Recent Disruption in Microsoft 365 Usage: Incident Report and Resolution Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-ai-advancements-sam-altman-talks-post-build-plans-with-microsoft-latest-news-on-zdnet/"><u>Unveiling AI Advancements: Sam Altman Talks Post-Build Plans with Microsoft | Latest News on ZDNET</u></a></li>
+<li><a href="https://win-lab.techidaily.com/why-and-how-should-i-upgrade-my-pc-to-windows-professional/"><u>Why and How Should I Upgrade My PC to Windows Professional?</u></a></li>
 </ul></div>
 

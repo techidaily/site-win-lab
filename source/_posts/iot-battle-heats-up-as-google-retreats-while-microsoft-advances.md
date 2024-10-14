@@ -1,7 +1,7 @@
 ---
 title: IoT Battle Heats Up as Google Retreats While Microsoft Advances
-date: 2024-10-04T16:10:02.007Z
-updated: 2024-10-08T16:18:11.580Z
+date: 2024-10-13T05:58:13.491Z
+updated: 2024-10-13T18:31:45.272Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,35 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-becoming-proficient-in-ez-grabber-technology/"><u>[New] In 2024, Becoming Proficient in EZ Grabber Technology</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamline-your-content-upload-instagram-videos-from-desktop/"><u>[Updated] In 2024, Streamline Your Content Upload Instagram Videos From Desktop</u></a></li>
-<li><a href="https://win-lab.techidaily.com/11-essential-tips-for-mastering-the-windows-touchpad-boost-your-productivity-and-efficiency-on-any-surface-techadvisor/"><u>11 Essential Tips for Mastering the Windows Touchpad: Boost Your Productivity & Efficiency on Any Surface | TechAdvisor</u></a></li>
-<li><a href="https://win-lab.techidaily.com/2023s-premier-selection-of-ergonomic-gaming-chairs-reviewed-by-pcmag/"><u>2023'S Premier Selection of Ergonomic Gaming Chairs Reviewed by PCMag</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-vivo-y36-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Vivo Y36 PC | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/a-deep-dive-into-the-delightful-world-of-macs-why-one-google-employee-swaps-for-joy-over-windows-woes/"><u>A Deep Dive Into the Delightful World of Macs: Why One Google Employee Swaps for Joy Over Windows Woes</u></a></li>
-<li><a href="https://win-lab.techidaily.com/bypassing-banners-a-guide-to-hiding-promotions-in-windows-11s-enhanced-taskbar-feature-zdnet-insights/"><u>Bypassing Banners: A Guide to Hiding Promotions in Windows 11'S Enhanced Taskbar Feature | ZDNet Insights</u></a></li>
-<li><a href="https://win-lab.techidaily.com/dont-miss-out-secure-your-pc-with-latest-windows-update-say-goodbye-to-support-for-21h2-and-22h2-learn-more-on-zdnet/"><u>Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET</u></a></li>
-<li><a href="https://win-lab.techidaily.com/expert-review-navigating-the-future-with-comfort-leading-office-chairs-unveiled/"><u>Expert Review: Navigating the Future with Comfort - Leading Office Chairs Unveiled</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-infinix-note-30-vip-racing-edition-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-democracy-dive-deep-top-5-political-simulation-titles/"><u>In 2024, Democracy Dive Deep Top 5 Political Simulation Titles</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-3-playthrough-success-story-overcoming-memory-glitch-12707/"><u>Modern Warfare ‪3‬ Playthrough Success Story - Overcoming Memory Glitch 12707</u></a></li>
-<li><a href="https://win-able.techidaily.com/proven-techniques-for-solving-borderlands-3-initialization-problems-the-ultimate-fixes-list/"><u>Proven Techniques for Solving Borderlands 3 Initialization Problems: The Ultimate Fixes List</u></a></li>
-<li><a href="https://win-lab.techidaily.com/reconfiguring-your-keyboard-layout-with-microsoft-powertoys-a-step-by-step-guide-from-zdnet/"><u>Reconfiguring Your Keyboard Layout with Microsoft PowerToys: A Step-by-Step Guide From ZDNet</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/smooth-start-initiating-your-hp-printer-for-windows-users/"><u>Smooth Start: Initiating Your HP Printer for Windows Users</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ultimate-guide-to-selecting-the-ideal-wobble-seats-and-adjustable-desk-chairs-2023-rankings-from-zdnet/"><u>Ultimate Guide to Selecting the Ideal Wobble Seats and Adjustable Desk Chairs - 2023 Rankings From ZDNET</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-virtual-vaulting-the-premier-five-of-future-storage-solutions-for-2024/"><u>[Updated] Virtual Vaulting The Premier Five of Future Storage Solutions for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-excellence-5-ways-gpt-aids-creatives/"><u>Crafting Excellence: 5 Ways GPT Aids Creatives</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725290188857-digiarty/"><u>Digiarty에게 물론 쿼리해보세요</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nubia Z50S Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-refurbished-apple-iphone-6s-plus-everything-you-need-to-know-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Refurbished Apple iPhone 6s Plus Everything You Need to Know | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-tecno-spark-10-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Tecno Spark 10 Pro Phone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-streets-like-a-dragon-yakuzas-ultimate-pc-adventure/"><u>Mastering the Streets Like a Dragon: Yakuza's Ultimate PC Adventure</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/nokia-31-smartphone-assessment-ideal-first-mobile-device-for-new-users/"><u>Nokia 3.1 Smartphone Assessment: Ideal First Mobile Device for New Users</u></a></li>
+<li><a href="https://win-lab.techidaily.com/simple-steps-for-quick-conversion-mp4-to-flv/"><u>Simple Steps for Quick Conversion: MP4 to FLV</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nsiders-blueprint-for-finding-hidden-youtube-files/"><u>The Insider's Blueprint for Finding Hidden YouTube Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trouble-with-your-virtual-private-network-after-latest-windows-patch-the-culprit-might-be-aprils-microsoft-update-techinsights/"><u>Trouble with Your Virtual Private Network After Latest Windows Patch? The Culprit Might Be April's Microsoft Update | TechInsights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-guide-and-mastering/"><u>Ultimate Guide and Mastering.</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-user-manual-mastering-your-apowertrans-experience/"><u>Ultimate User Manual: Mastering Your ApowerTrans Experience</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unleashing-your-pcs-potential-with-microsofts-free-powertoys-fancyzones-discover-how-and-benefits/"><u>Unleashing Your PC's Potential with Microsoft's Free PowerToys FancyZones - Discover How & Benefits!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-of-microsofts-windows-11-special-edition-computers-aimed-at-educational-institutions-insights-from-pc-manufacturers/"><u>Unveiling of Microsoft's Windows 11 Special Edition Computers Aimed at Educational Institutions - Insights From PC Manufacturers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/upcoming-change-alert-will-microsoft-charge-for-windows-11-updates-expected-prices-and-details-unveiled-zdnet-insights/"><u>Upcoming Change Alert: Will Microsoft Charge for Windows 11 Updates? Expected Prices & Details Unveiled | ZDNET Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/zdnet-investigates-the-value-of-older-iphones-for-todays-tech-savvy-users/"><u>ZDNet Investigates the Value of Older iPhones for Today's Tech-Savvy Users</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Microsoft Ends a Three-Decade Legacy by Phasing Out WordPad, as Revealed by ZDNet
-date: 2024-10-07T16:08:00.769Z
-updated: 2024-10-08T16:07:47.760Z
+date: 2024-10-06T19:01:23.157Z
+updated: 2024-10-13T18:25:22.262Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,16 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -112,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -187,20 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevate-your-social-media-presence-360-degree-image-integration-on-android-and-ios/"><u>[Updated] In 2024, Elevate Your Social Media Presence 360-Degree Image Integration on Android & iOS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-youtube-partnerships-successfully/"><u>[Updated] Navigating YouTube Partnerships Successfully</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-change-default-backup-location-mac/"><u>2024 Approved Change Default Backup Location (Mac)</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiant-contrast-synchronizer/"><u>2024 Approved Radiant Contrast Synchronizer</u></a></li>
-<li><a href="https://win-lab.techidaily.com/access-the-complete-infinite-skills-course-series-subtitled-videos-available-for-download-now/"><u>Access the Complete Infinite Skills Course Series - Subtitled Videos Available for Download Now!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v30-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V30 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-stabilizers-iphone-android-and-professional-choices-1-10/"><u>In 2024, Premium Stabilizers IPhone, Android, and Professional Choices #1-10</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-top-10-omegle-alternative-videochat-websites/"><u>New 2024 Approved Top 10 Omegle Alternative Videochat Websites</u></a></li>
-<li><a href="https://win-lab.techidaily.com/share-your-creations-easily-learn-to-send-email-attachments-with-interactive-html-links-for-flipbooks-on-flipbuildercom/"><u>Share Your Creations Easily! Learn to Send Email Attachments with Interactive HTML Links for Flipbooks on FlipBuilder.com</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transform-multiple-pdfs-into-interactive-flash-books-for-free/"><u>Transform Multiple PDFs Into Interactive Flash Books for Free!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transform-your-pdfs-into-engaging-flash-books-with-page-turn-sounds-on-flipbuildercom/"><u>Transform Your PDFs Into Engaging Flash Books with Page-Turn Sounds on FlipBuilder.com</u></a></li>
-<li><a href="https://win-lab.techidaily.com/understanding-flipbuilders-product-upgrade-strategy-a-comprehensive-guide/"><u>Understanding FlipBuilder's Product Upgrade Strategy: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
-<li><a href="https://extra-information.techidaily.com/your-go-to-places-for-no-fee-gamers-music-online/"><u>Your Go-To Places for No-Fee Gamers' Music Online</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/xploring-mobile-youtube-usage-on-different-oses-for-2024/"><u>[New] Exploring Mobile YouTube Usage on Different OSes for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-streamline-your-images-in-canva-without-clutter/"><u>[New] In 2024, Streamline Your Images in Canva Without Clutter</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-your-visual-impact-journey-begins-with-our-50-free-banners/"><u>2024 Approved Your Visual Impact Journey Begins with Our 50 FREE Banners!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-glitches-pro-tips-for-a-seamless-helldivers-2-gaming-experience-on-windowspc/"><u>Beat the Glitches: Pro Tips for a Seamless 'Helldivers 2' Gaming Experience on Windows/PC</u></a></li>
+<li><a href="https://win-lab.techidaily.com/download-metacafe-on-pc-and-mac-ultimate-video-sharing-platform/"><u>Download Metacafe on PC & Mac: Ultimate Video Sharing Platform</u></a></li>
+<li><a href="https://win-lab.techidaily.com/download-your-favorite-aetv-content-in-hd-formats-mp4-mov-and-avi/"><u>Download Your Favorite AETV Content in HD Formats - MP4, MOV & AVI</u></a></li>
+<li><a href="https://win-lab.techidaily.com/enjoy-premium-vumoo-entertainment-at-no-cost-discover-how-to-download-your-favorite-films-and-shows-effortlessly/"><u>Enjoy Premium Vumoo Entertainment at No Cost: Discover How to Download Your Favorite Films and Shows Effortlessly!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/free-3d-film-converter-and-downloader-transform-and-save-your-favorite-films-as-mp4-or-mov-files/"><u>Free 3D Film Converter & Downloader: Transform and Save Your Favorite Films as MP4 or MOV Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/free-showcase-downloader-easily-save-videos-from-showcaseca-on-macwindows/"><u>Free Showcase Downloader: Easily Save Videos From Showcase.ca on Mac/Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Itel A60? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/the-influencers-blueprint-rapidly-amass-a-million-fans-with-our-top-15-instagram-tips/"><u>The Influencer's Blueprint Rapidly Amass a Million Fans with Our Top 15 Instagram Tips</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-tutorial-how-to-formulate-an-alias-email-on-gmail-platform/"><u>The Ultimate Tutorial: How To Formulate An Alias Email on Gmail Platform</u></a></li>
+<li><a href="https://win-trending.techidaily.com/to-convert-pounds-to-kilograms-multiply-the-number-of-pounds-by-0453592-since-one-pound-is-approximately-equal-to-0453592-kilogangs-for-example-if-an-object207/"><u>To Convert Pounds to Kilograms, Multiply the Number of Pounds by 0.453592 (Since One Pound Is Approximately Equal to 0.453592 Kilogangs). For Example, if an Object Weighs 10 Pounds, Its Mass in Kilograms Would Be About 4.536 Kg.</u></a></li>
 </ul></div>
 

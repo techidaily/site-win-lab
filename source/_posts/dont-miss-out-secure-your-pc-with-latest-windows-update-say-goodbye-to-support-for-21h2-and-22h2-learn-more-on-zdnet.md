@@ -1,7 +1,7 @@
 ---
 title: "Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET"
-date: 2024-10-01T16:17:47.349Z
-updated: 2024-10-08T16:36:16.491Z
+date: 2024-10-08T08:13:26.331Z
+updated: 2024-10-14T01:22:34.969Z
 tags:
   - windows
 categories:
@@ -27,13 +27,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -46,6 +39,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -56,10 +56,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -75,10 +75,10 @@ Alternatively, you can search for a specific command or applet in the God Mode w
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
@@ -86,6 +86,13 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -97,13 +104,6 @@ At the window for New, choose the option for shortcut instead of folder. In the 
 When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 8\. Name the shortcut
 
@@ -156,14 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-integrating-secure-recording-in-your-workflow-for-2024/"><u>[New] Integrating Secure Recording in Your Workflow for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/5-secure-operating-system-tactics-when-bitlocker-is-offline/"><u>5 Secure Operating System Tactics When BitLocker Is Offline</u></a></li>
-<li><a href="https://win-lab.techidaily.com/can-you-find-a-customized-book-cover-in-your-flipbook-on-flipbuildercom/"><u>Can You Find a Customized Book Cover in Your Flipbook on FlipBuilder.com?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/conversion-gratuit-des-fichiers-mpe-vers-linternet-utilisez-les-services-de-movavi-pour-un-processus-facile-et-rapide/"><u>Conversion Gratuit Des Fichiers MPE Vers L'internet : Utilisez Les Services De Movavi Pour Un Processus Facile Et Rapide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/convertissez-votre-fichier-m4a-au-format-wmv-gratuitement-en-ligne-avec-movavi/"><u>Convertissez Votre Fichier M4A Au Format WMV Gratuitement en Ligne Avec Movavi</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-capture-perfection-optimal-use-of-zoom-feature-for-photos-and-videos/"><u>In 2024, Capture Perfection Optimal Use of Zoom Feature for Photos & Videos</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-audio-quality-solutions-for-repairing-stereo-output-problems/"><u>Mastering Audio Quality: Solutions for Repairing Stereo Output Problems</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-xperia-10-v-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xperia 10 V</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mp4-flv-online/"><u>무료 MP4, FLV 압쇄 전환 - Online 솔루션</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-a-blueprint-for-boosting-business-results-with-better-offices/"><u>[New] A Blueprint for Boosting Business Results with Better Offices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-navigating-facebook-analytics-simplified/"><u>[New] In 2024, Navigating Facebook Analytics Simplified</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-crafting-quality-podcasts-iphone-and-ipad-tips-for-intense-interviewing/"><u>[Updated] 2024 Approved Crafting Quality Podcasts IPhone & iPad Tips for Intense Interviewing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-sketching-success-a-guide-to-industrys-best-10-vector-apps/"><u>2024 Approved Sketching Success A Guide to Industry's Best 10 Vector Apps</u></a></li>
+<li><a href="https://win-lab.techidaily.com/customize-and-print-your-own-unique-buttons-with-flipbuilder-start-designing-now/"><u>Customize & Print Your Own Unique Buttons with FlipBuilder - Start Designing Now!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/easy-steps-to-apply-watermarks-on-your-images-with-flipbuilder/"><u>Easy Steps to Apply Watermarks on Your Images with FlipBuilder</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortlessly-share-your-flipbook-creations-via-email-include-cover-display-technique-learn-at-flipbuilder/"><u>Effortlessly Share Your FlipBook Creations via Email - Include Cover Display Technique | Learn at FlipBuilder</u></a></li>
+<li><a href="https://win-lab.techidaily.com/embedding-flv-videos-in-flipbook-pages-easy-integration-techniques-and-tips/"><u>Embedding Flv Videos in Flipbook Pages: Easy Integration Techniques and Tips</u></a></li>
+<li><a href="https://win-lab.techidaily.com/explore-exceptional-flipbook-creations-on-flipbuilder-your-gateway-to-specialized-media/"><u>Explore Exceptional Flipbook Creations on FlipBuilder - Your Gateway to Specialized Media</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-can-i-transform-compact-chm-files-into-engaging-ebook-formats-using-flipbuildercom/"><u>How Can I Transform Compact CHM Files Into Engaging eBook Formats Using FlipBuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-can-you-customize-bookmark-font-in-flipbooks-with-flipbuilder/"><u>How Can You Customize Bookmark Font in Flipbooks with FlipBuilder?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-11-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 11?</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-seamless-integration-facebook-livestream-and-roku-connected-tv/"><u>In 2024, Seamless Integration Facebook Livestream & Roku Connected TV</u></a></li>
+<li><a href="https://win-lab.techidaily.com/in-depth-insights-and-guidance-on-general-queries-your-ultimate-hub-with-flipbuilder/"><u>In-Depth Insights & Guidance on General Queries - Your Ultimate Hub with FlipBuilder</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/orm-power-play-which-one-dominates-vimeo-youtubeplusdailymotion/"><u>Platform Power Play Which One Dominates - Vimeo, YouTube+DailyMotion?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/professional-streaming-boost-unveiling-best-9-live-stream-filters-for-2024/"><u>Professional Streaming Boost Unveiling Best 9 Live-Stream Filters for 2024</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/sincronizando-eficientemente-con-carpetasync-tu-solucion-libre-para-backup-y-transferencia-de-archivo-en-windows-tenth-edition/"><u>Sincronizando Eficientemente Con CarpetaSync: Tu Solución Libre Para Backup Y Transferencia De Archivo en Windows Tenth Edition</u></a></li>
 </ul></div>
 

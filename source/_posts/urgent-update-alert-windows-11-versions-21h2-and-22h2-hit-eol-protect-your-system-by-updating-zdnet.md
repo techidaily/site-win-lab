@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update Alert: Windows 11 Versions 21H2 & 22H2 Hit EOL - Protect Your System by Updating! (ZDNet)"
-date: 2024-10-06T16:19:11.430Z
-updated: 2024-10-08T16:16:31.862Z
+date: 2024-10-06T16:11:29.825Z
+updated: 2024-10-14T02:32:39.555Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -196,14 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-elitemac-pro-the-best-in-high-quality-video-and-audio-recording-for-2024/"><u>[Updated] EliteMac Pro The Best in High-Quality Video & Audio Recording for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-steps-to-screen-record-on-macbook-air/"><u>2024 Approved Easy Steps to Screen Record on Macbook Air</u></a></li>
-<li><a href="https://win-lab.techidaily.com/capture-and-conserve-every-frame-expert-tips-for-rtsp-live-streams-downloading-success/"><u>Capture and Conserve Every Frame: Expert Tips for RTSP Live Streams Downloading Success!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/converting-mozilla-air-files-how-to-save-your-favorites-as-mp4-mov-or-avi-and-more/"><u>Converting Mozilla Air Files: How to Save Your Favorites as MP4, MOV or AVI and More!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/discover-the-greatest-anime-platforms-online-plus-step-by-step-tutorial-on-securing-your-watchlist-for-offline-enjoyment/"><u>Discover the Greatest Anime Platforms Online + Step-by-Step Tutorial on Securing Your Watchlist for Offline Enjoyment</u></a></li>
-<li><a href="https://win-lab.techidaily.com/download-metacafe-on-pc-and-mac-ultimate-video-sharing-platform/"><u>Download Metacafe on PC & Mac: Ultimate Video Sharing Platform</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-oneplus-12r-frp-by-drfone-android/"><u>In 2024, How Can We Bypass OnePlus 12R FRP?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-insights-from-experts-on-the-fitbit-charge-6-a-thorough-review/"><u>Top Insights From Experts on the Fitbit Charge 6: A Thorough Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/isky-business-buying-non-real-youtube-supporters/"><u>[New] Risky Business Buying Non-Real YouTube Supporters</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-20plus-ways-to-earn-from-your-facebook-community/"><u>[Updated] 20+ Ways to Earn From Your Facebook Community</u></a></li>
+<li><a href="https://win-lab.techidaily.com/access-the-complete-infinite-skills-course-series-subtitled-videos-available-for-download-now/"><u>Access the Complete Infinite Skills Course Series - Subtitled Videos Available for Download Now!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/amos-the-process-of-downloading-and-saving-flickr-footage-in-various-video-codecs/"><u>Amo's the Process of Downloading and Saving Flickr Footage in Various Video Codecs</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-successfully-shut-down-your-pc-running-windows-n-11-when-faced-with-problems/"><u>How To Successfully Shut Down Your PC Running Windows N 11 When Faced With Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a15-4g-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy A15 4G Phone without Google Account?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blueprint-for-a-personalized-high-definition-editing-haven/"><u>In 2024, Blueprint for a Personalized, High-Definition Editing Haven</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezing-how-to-fix-fifa-19-game-crashes-on-your-windows-computer/"><u>No More Freezing: How to Fix FIFA 19 Game Crashes on Your Windows Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/teslas-cyberquad-recall-searching-for-an-alternative-1900-all-terrain-vehicle-atv-after-the-setback/"><u>Tesla's Cyberquad Recall: Searching for an Alternative $1,900 All-Terrain Vehicle (ATV) After the Setback</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-ultimate-guide-to-grow-your-computers-storage-for-free/"><u>The Ultimate Guide to Grow Your Computer's Storage, For Free</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-multiple-pdfs-into-interactive-flash-books-for-free/"><u>Transform Multiple PDFs Into Interactive Flash Books for Free!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-pdfs-into-engaging-flash-books-with-page-turn-sounds-on-flipbuildercom/"><u>Transform Your PDFs Into Engaging Flash Books with Page-Turn Sounds on FlipBuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/understanding-flipbuilders-product-upgrade-strategy-a-comprehensive-guide/"><u>Understanding FlipBuilder's Product Upgrade Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/universal-method-for-screen-recording-across-systems-for-2024/"><u>Universal Method for Screen Recording Across Systems for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Business-Focused ChatGPT Launched by OpenAI; Innovative Capabilities Detailed on ZDNET
-date: 2024-10-03T16:54:30.179Z
-updated: 2024-10-08T16:17:10.322Z
+date: 2024-10-08T08:24:56.510Z
+updated: 2024-10-14T00:18:26.840Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,19 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -149,10 +143,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -202,14 +202,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-unlocking-insta-success-when-to-share-your-content/"><u>[New] In 2024, Unlocking Insta Success When to Share Your Content</u></a></li>
-<li><a href="https://win-lab.techidaily.com/best-4-display-sharing-applications-for-your-mi-device-a-comprehensive-guide/"><u>Best 4 Display Sharing Applications for Your Mi Device: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effective-solutions-for-when-apowerunlock-struggles-with-identifying-your-ios-device/"><u>Effective Solutions for When Apowerunlock Struggles with Identifying Your iOS Device</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effective-techniques-for-creating-seamless-looping-videos/"><u>Effective Techniques for Creating Seamless Looping Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Huawei Nova Y91? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/simple-guide-how-to-record-your-entire-mac-screen-as-a-video/"><u>Simple Guide: How to Record Your Entire Mac Screen as a Video</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/time-saving-tech-10-innovative-ai-pdf-extensions/"><u>Time-Saving Tech: 10 Innovative AI PDF Extensions</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-infinix-note-30-vip-racing-edition-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Note 30 VIP Racing Edition Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-free-uploads-more-views-youtubes-easily-overlooked-hacks/"><u>[New] In 2024, Free Uploads, More Views YouTube's Easily Overlooked Hacks</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-comprehensive-guide-retrieving-accidentally-deleted-images-on-your-iphone/"><u>1. Comprehensive Guide: Retrieving Accidentally Deleted Images on Your iPhone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-liberating-video-files-free-mp4-and-hd-from-facebook-posts/"><u>2024 Approved Liberating Video Files Free MP4 & HD From Facebook Posts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-rhythmic-reckonings-top-disruptors-for-mobile-devices/"><u>2024 Approved Rhythmic Reckonings Top Disruptors for Mobile Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-iphone-xs-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From iPhone XS How to Bypass?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/back-to-classroom-essentials-the-ultimate-checklist-for-students-necessities/"><u>Back to Classroom Essentials: The Ultimate Checklist for Students' Necessities</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-ultimate-guide-to-fixing-your-frame-rate-and-lag-problems/"><u>Battlefield 5: Ultimate Guide to Fixing Your Frame Rate and Lag Problems</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-10-techniques-and-applications-for-cutting-out-foregrounds-in-jpg-photos/"><u>Best 10 Techniques & Applications for Cutting Out Foregrounds in JPG Photos</u></a></li>
+<li><a href="https://win-lab.techidaily.com/convert-wlmp-video-clips-to-versatile-mp4-with-our-flawless-conversion-tool/"><u>Convert WLMP Video Clips to Versatile MP4 with Our Flawless Conversion Tool</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/crafting-illusions-spatial-and-temporal-shifts-for-2024/"><u>Crafting Illusions Spatial and Temporal Shifts for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/easy-conversion-techniques-from-mp3-to-m4r-format/"><u>Easy Conversion Techniques From MP3 to M4R Format</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-xiaomi-redmi-a2plus-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Xiaomi Redmi A2+ Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-g-stylus-2023-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://win-lab.techidaily.com/the-ultimate-list-of-cost-free-mac-data-retrieval-applications-for-2n21/"><u>The Ultimate List of Cost-Free Mac Data Retrieval Applications for 2N21</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-solving-total-war-rome-remastered-game-crashes/"><u>Ultimate Guide: Solving Total War: Rome Remastered Game Crashes</u></a></li>
 </ul></div>
 

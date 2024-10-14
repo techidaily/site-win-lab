@@ -1,7 +1,7 @@
 ---
 title: "Unveiling AI Advancements: Sam Altman Talks Post-Build Plans with Microsoft | Latest News on ZDNET"
-date: 2024-10-05T16:06:51.475Z
-updated: 2024-10-08T16:49:14.279Z
+date: 2024-10-11T09:47:02.113Z
+updated: 2024-10-14T01:04:33.942Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,16 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-navigating-the-network-speedy-id-snooping-tips/"><u>[New] 2024 Approved Navigating the Network Speedy ID Snooping Tips</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transform-tweets-into-files-iphoneandroid-instructional-guide/"><u>[Updated] Transform Tweets Into Files IPhone/Android Instructional Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-12-pro-how-to-unlock-a-disabled-iphone-12-pro-by-drfone-ios/"><u>Disabled iPhone 12 Pro How to Unlock a Disabled iPhone 12 Pro?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effective-techniques-for-creating-seamless-looping-videos/"><u>Effective Techniques for Creating Seamless Looping Videos</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/improve-your-workflow-dealing-with-external-monitor-lag-in-windows/"><u>Improve Your Workflow: Dealing with External Monitor Lag in Windows</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/nt-video-visionary-for-2024/"><u>Instant Video Visionary for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/setting-up-regular-tasks-configuring-software-for-predictable-launch-times/"><u>Setting Up Regular Tasks: Configuring Software for Predictable Launch Times</u></a></li>
-<li><a href="https://win-lab.techidaily.com/simple-guide-how-to-record-your-entire-mac-screen-as-a-video/"><u>Simple Guide: How to Record Your Entire Mac Screen as a Video</u></a></li>
-<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-to-the-top-5-android-video-compressors/"><u>The Ultimate Guide to the Top 5 Android Video Compressors</u></a></li>
-<li><a href="https://win-lab.techidaily.com/top-rated-photo-editor-apps-ideal-for-novice-photographers/"><u>Top Rated Photo Editor Apps Ideal for Novice Photographers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-undertaking-decoding-digital-picture-resolutions-for-2024/"><u>Ultimate Undertaking Decoding Digital Picture Resolutions for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-insta-film-conversion-blueprints-to-mp3-formats/"><u>[Updated] 2024 Approved Insta Film Conversion Blueprints to MP3 Formats</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-boosting-channel-traffic-with-youtube-backlink-tactics/"><u>[Updated] In 2024, Boosting Channel Traffic with YouTube Backlink Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-incorporating-multimedia-in-school-curricula-for-2024/"><u>[Updated] Incorporating Multimedia in School Curricula for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-strategies-for-seamless-green-screening-in-kinemaster/"><u>2024 Approved Expert Strategies for Seamless Green Screening in KineMaster</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/a-comprehensible-guide-to-screen-recording-on-the-mi-11-for-2024/"><u>A Comprehensible Guide to Screen Recording on the Mi 11 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-and-personal-information-assessing-the-safety-of-your-data/"><u>ChatGPT and Personal Information: Assessing the Safety of Your Data</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-iphone-15-plus-by-drfone-ios/"><u>How to Unlock Verizon iPhone 15 Plus</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mastering-mobile-media-an-in-depth-look-at-the-3gp-container-standard/"><u>Mastering Mobile Media: An In-Depth Look at the 3GP Container Standard</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-use-korean-to-english-video-translators-for-creators/"><u>New In 2024, How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://win-lab.techidaily.com/simple-steps-for-quick-conversion-mp4-to-flv/"><u>Simple Steps for Quick Conversion: MP4 to FLV</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-spark-20-pro-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Spark 20 Pro Phone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-guide-and-mastering/"><u>Ultimate Guide and Mastering.</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-user-manual-mastering-your-apowertrans-experience/"><u>Ultimate User Manual: Mastering Your ApowerTrans Experience</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-of-microsofts-windows-11-special-edition-computers-aimed-at-educational-institutions-insights-from-pc-manufacturers/"><u>Unveiling of Microsoft's Windows 11 Special Edition Computers Aimed at Educational Institutions - Insights From PC Manufacturers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/upcoming-change-alert-will-microsoft-charge-for-windows-11-updates-expected-prices-and-details-unveiled-zdnet-insights/"><u>Upcoming Change Alert: Will Microsoft Charge for Windows 11 Updates? Expected Prices & Details Unveiled | ZDNET Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/zdnet-investigates-the-value-of-older-iphones-for-todays-tech-savvy-users/"><u>ZDNet Investigates the Value of Older iPhones for Today's Tech-Savvy Users</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Encourages Innovation in Excel: My Response and Experience Detailed on ZDNet"
-date: 2024-10-02T16:03:41.061Z
-updated: 2024-10-08T16:55:55.692Z
+date: 2024-10-10T06:42:16.485Z
+updated: 2024-10-13T22:42:23.330Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-top-tricks-for-capturing-your-google-meeting-experience-flawlessly/"><u>[New] In 2024, Top Tricks for Capturing Your Google Meeting Experience Flawlessly</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-boosting-earnings-in-the-quick-flicks-of-youtube-shorts/"><u>[Updated] 2024 Approved Boosting Earnings in the Quick Flicks of YouTube Shorts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-survival-of-the-undead-cutthroat-top-8-zombie-titles/"><u>[Updated] Survival of the Undead Cutthroat Top 8 Zombie Titles</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-grandes-selecciones-de-musica-ideal-para-complementar-fotografias-en-video/"><u>1. Grandes Selecciones De Música Ideal Para Complementar Fotografías en Video</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/affordable-premium-choice-exploring-the-asrock-b7/"><u>Affordable Premium Choice: Exploring the ASRock B7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-pro-b760m-ct-csm-mainboard-evaluation-unleashing-the-power-of-csm/"><u>Asus Pro B760M-CT CSM Mainboard Evaluation - Unleashing the Power of CSM</u></a></li>
-<li><a href="https://win-lab.techidaily.com/best-free-software-for-rotating-videos-in-windows-11-top-picks/"><u>Best Free Software for Rotating Videos in Windows 11: Top Picks</u></a></li>
-<li><a href="https://win-lab.techidaily.com/gratis-online-convertor-verwijder-pgm-naar-bmp-met-movavi-vriendenlijk-begripbaar/"><u>Gratis Online-Convertor: Verwijder PGM Naar BMP Met Movavi - Vriendenlijk Begripbaar</u></a></li>
-<li><a href="https://win-lab.techidaily.com/gratuit-online-converteren-van-3gp-naar-m4a-movavi/"><u>Gratuit Online Converteren Van 3GP Naar M4A - Movavi</u></a></li>
-<li><a href="https://extra-information.techidaily.com/immerse-in-visual-creation-best-3d-model-and-rendering-tools-reviewed/"><u>Immerse in Visual Creation Best 3D Model & Rendering Tools Reviewed</u></a></li>
-<li><a href="https://win-lab.techidaily.com/online-kostenloser-asf-zu-wav-konverter-mit-movavi-fugen-sie-ihren-audiodateien-heute-eine-neue-qualitatsebene-hinzu/"><u>Online Kostenloser ASF Zu WAV Konverter Mit Movavi – Fügen Sie Ihren Audiodateien Heute Eine Neue Qualitätsebene Hinzu!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-pova-5-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Pova 5</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-online-audio-recordings-from-youtube-for-2024/"><u>The Ultimate Guide Online Audio Recordings From YouTube for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transforma-videos-mkv-a-mp4-gratuita-y-facil-la-guia-de-movavi/"><u>Transforma Vídeos MKV a MP4 Gratuita Y Fácil: La Guía De Movavi</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sky-high-storage-cutting-edge-cloud-picks/"><u>[New] Sky High Storage Cutting-Edge Cloud Picks</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-snapshot-stability-mastering-motion/"><u>[New] Snapshot Stability Mastering Motion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-live-life-in-hd-with-panasonic-hx-a1-cam-for-2024/"><u>[Updated] Live Life in HD with Panasonic HX-A1 Cam for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/avoid-feed-overload-how-to-stop-followers-for-2024/"><u>Avoid Feed Overload How to Stop Followers for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-finest-selection-the-best-10-slow-motion-video-editing-tools-online/"><u>Discover the Finest Selection: The Best 10 Slow-Motion Video Editing Tools Online</u></a></li>
+<li><a href="https://win-lab.techidaily.com/gratuit-verbetering-m4a-in-wav-formaat-efficient-online-tool-movavi/"><u>Gratuit Verbetering M4A in WAV Formaat: Efficiënt Online-Tool Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-htc-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of HTC ?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/securing-your-audio-library-the-top-5-steps-for-internet-radio-storage-for-2024/"><u>Securing Your Audio Library The Top 5 Steps for Internet Radio Storage for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trasformare-i-file-mpeg-in-formato-m4v-gratuitamente-online-con-convertimpeg/"><u>Trasformare I File MPEG in Formato M4V Gratuitamente Online Con ConvertiMpeg</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatgpt-tips-for-seamless-integration-with-your-smartphone/"><u>Unlock the Power of ChatGPT: Tips for Seamless Integration with Your Smartphone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/wma-m4r-movavi/"><u>오피니 공간에서 WMA펫스를 M4R 파일로 자유성적으로 전환: 무료 해상도 - MOVAVI</u></a></li>
 </ul></div>
 

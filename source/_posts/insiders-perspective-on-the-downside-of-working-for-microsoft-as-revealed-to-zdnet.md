@@ -1,7 +1,7 @@
 ---
 title: Insider's Perspective on the Downside of Working for Microsoft, as Revealed to ZDNet
-date: 2024-10-02T16:26:31.276Z
-updated: 2024-10-08T16:54:14.715Z
+date: 2024-10-08T18:26:03.728Z
+updated: 2024-10-13T17:16:37.391Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -135,28 +142,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,18 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-pixelpilot-video-snapshot/"><u>[Updated] 2024 Approved PixelPilot Video Snapshot</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-memories-above-ground-top-tier-cloud-options-reviewed/"><u>2024 Approved Unleashing Memories Above Ground Top-Tier Cloud Options Reviewed</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1726221967132-mp3-wma-movavi/"><u>簡便無限制的 MP3 和 WMA 間接流程- 利用 Movavi 解決方案</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-asus-rog-phone-7-ultimate-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Asus ROG Phone 7 Ultimate Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pova-6-pro-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Pova 6 Pro 5G Phone without Any Data Loss</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-x5-pro-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco X5 Pro</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-tecno-spark-20-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Tecno Spark 20 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/jpeg-naar-bmp-konverteren-vrije-en-beslist-movivi/"><u>JPEG Naar BMP Konverteren Vrije en Beslist - MoviVi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/top-6-dvd-naar-mp4-konverter-voor-2024-de-ultieme-losung-voor-hoeveelvoudige-inhalen/"><u>Top 6 DVD Naar MP4 Konverter Voor 2024: De Ultieme Lösung Voor Hoeveelvoudige Inhalen</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transform-your-ts-videos-into-high-quality-mp4-files-at-no-cost-using-movavis-web-tool/"><u>Transform Your .TS Videos Into High-Quality .MP4 Files at No Cost Using Movavi's Web Tool</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-3gpp-en-format-3gp-gratuitement-sur-internet-logiciel-de-conversion-rapide/"><u>Transformez Votre Fichier 3GPP en Format 3GP Gratuitement Sur Internet - Logiciel De Conversion Rapide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/transformez-votre-fichier-en-ogg-gratuitement-via-internet-avec-movavi-conversion-fluide-et-facile/"><u>Transformez Votre Fichier en Ogg Gratuitement via Internet Avec Movavi - Conversion Fluide Et Facile</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unleashing-the-potential-of-dells-convertible-xps-n-13-laptop-an-exceptional-performance-journey/"><u>Unleashing the Potential of Dell's Convertible XPS N 13 Laptop: An Exceptional Performance Journey</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-discover-novel-webcam-functions-today/"><u>[New] 2024 Approved Discover Novel Webcam Functions Today</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-streamlining-tiktok-production-zooms-role/"><u>[New] Streamlining TikTok Production Zoom's Role</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-waveform-overlaps-the-crossfade-method/"><u>[Updated] Mastering Waveform Overlaps The Crossfade Method</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-process-for-aesthetic-and-engaging-instagram-video-content-for-2024/"><u>[Updated] Step-by-Step Process for Aesthetic and Engaging Instagram Video Content for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-harmony-in-frames-selecting-music-for-social-media-videos/"><u>2024 Approved Harmony in Frames Selecting Music for Social Media Videos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/prehensive-overview-of-youtube-standards-for-content-creators-for-2024/"><u>A Comprehensive Overview of YouTube Standards for Content Creators for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/building-brand-buzz-the-power-of-instagram-story-quizzes-for-2024/"><u>Building Brand Buzz The Power of Instagram Story Quizzes for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/convertir-gifs-en-archivos-flv-sin-costo-con-moviescribe/"><u>Convertir GIFs en Archivos FLV Sin Costo Con MovieScribe</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-best-11-animation-series-like-the-greatest-available-both-for-free-and-subscription-based-viewing/"><u>Discover the Best: 11 Animation Series Like 'The Greatest' - Available Both for Free and Subscription-Based Viewing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effortless-online-f4v-flv-file-format-change-get-started-with-movavi-now/"><u>Effortless Online F4V-FLV File Format Change - Get Started with Movavi Now</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-personalizing-teams-windows-for-effective-calls/"><u>In 2024, Personalizing Teams Windows for Effective Calls</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/perfect-timing-adjust-video-speed-in-snapchat-easily/"><u>Perfect Timing Adjust Video Speed in Snapchat Easily</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transferer-facilement-un-gif-vers-une-video-mp4-sans-frais-tutorials-video-professionnels-avec-movavi/"><u>Transférer Facilement Un GIF Vers Une Vidéo MP4 Sans Frais - Tutorials Vidéo Professionnels Avec Movavi</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1726227435766-flv-mp4/"><u>제공자가 아닌 FLV 파일을 MP4로 변환 - 오픈소스 앱</u></a></li>
 </ul></div>
 

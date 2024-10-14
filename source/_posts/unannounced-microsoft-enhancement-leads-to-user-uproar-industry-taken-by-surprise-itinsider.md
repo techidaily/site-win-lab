@@ -1,7 +1,7 @@
 ---
 title: Unannounced Microsoft Enhancement Leads to User Uproar, Industry Taken by Surprise | ITInsider
-date: 2024-10-07T16:45:49.155Z
-updated: 2024-10-08T16:49:25.420Z
+date: 2024-10-12T16:17:48.870Z
+updated: 2024-10-13T20:01:01.946Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,22 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-from-end-to-start-on-instagram-vids-guide/"><u>[New] In 2024, From End to Start on Instagram Vids [Guide]</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-angle-away-discover-our-top-11-bridge-photography-tools/"><u>[Updated] In 2024, Angle Away! Discover Our Top 11 Bridge Photography Tools</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/free-official-downloads-ultimate-bundle-of-dvd-ripper-and-hd-video-converter-tools/"><u>Free Official Downloads: Ultimate Bundle of DVD Ripper and HD Video Converter Tools</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gigglegraphics-visual-humor-studio-for-2024/"><u>GiggleGraphics Visual Humor Studio for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-reno-10-pro-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo Reno 10 Pro 5G Phone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/microsoft-ends-a-three-decade-legacy-by-phasing-out-wordpad-as-revealed-by-zdnet/"><u>Microsoft Ends a Three-Decade Legacy by Phasing Out WordPad, as Revealed by ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/microsofts-potential-ban-on-windows-11-24h2-mod-apps-what-you-need-to-know-now/"><u>Microsoft's Potential Ban on Windows 11 24H2 Mod Apps – What You Need to Know Now</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/navigating-the-world-of-gopro-and-time-lapse-shooting/"><u>Navigating the World of GoPro and Time-Lapse Shooting</u></a></li>
-<li><a href="https://windows11.techidaily.com/revitalizing-vintage-directx-apps-using-modernized-dxvk-features/"><u>Revitalizing Vintage DirectX Apps Using Modernized DXVK Features</u></a></li>
-<li><a href="https://win-lab.techidaily.com/seamless-transfer-of-documents-between-windows-and-android-devices-via-googles-quick-share-feature/"><u>Seamless Transfer of Documents Between Windows & Android Devices via Google's Quick Share Feature</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/take-flight-with-social-media-dji-drone-streaming-basics/"><u>Take Flight with Social Media DJI Drone Streaming Basics</u></a></li>
-<li><a href="https://win-lab.techidaily.com/trouble-with-your-virtual-private-network-after-latest-windows-patch-the-culprit-might-be-aprils-microsoft-update-techinsights/"><u>Trouble with Your Virtual Private Network After Latest Windows Patch? The Culprit Might Be April's Microsoft Update | TechInsights</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unleashing-your-pcs-potential-with-microsofts-free-powertoys-fancyzones-discover-how-and-benefits/"><u>Unleashing Your PC's Potential with Microsoft's Free PowerToys FancyZones - Discover How & Benefits!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unveiling-of-microsofts-windows-11-special-edition-computers-aimed-at-educational-institutions-insights-from-pc-manufacturers/"><u>Unveiling of Microsoft's Windows 11 Special Edition Computers Aimed at Educational Institutions - Insights From PC Manufacturers</u></a></li>
-<li><a href="https://win-lab.techidaily.com/upcoming-change-alert-will-microsoft-charge-for-windows-11-updates-expected-prices-and-details-unveiled-zdnet-insights/"><u>Upcoming Change Alert: Will Microsoft Charge for Windows 11 Updates? Expected Prices & Details Unveiled | ZDNET Insights</u></a></li>
-<li><a href="https://fox-that.techidaily.com/what-steps-should-you-take-when-iphone-events-vanish-from-your-calendar/"><u>What Steps Should You Take When iPhone Events Vanish From Your Calendar?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/zdnet-investigates-the-value-of-older-iphones-for-todays-tech-savvy-users/"><u>ZDNet Investigates the Value of Older iPhones for Today's Tech-Savvy Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-simplified-guide-to-recording-pc-screens-for-hp-users/"><u>[New] In 2024, Simplified Guide to Recording PC Screens for HP Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-voice-makeover-masters-the-7-leading-recording-changer-apps-for-2024/"><u>[New] Voice Makeover Masters The 7 Leading Recording Changer Apps for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/hats-the-best-youtube-thumbnail-size/"><u>[New] What's the Best YouTube Thumbnail Size?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-fastest-video-recorder-clear-latency-free-action/"><u>[Updated] 2024 Approved Fastest Video Recorder Clear, Latency-Free Action</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-speed-in-seizing-picture-plus-pitch-for-2024/"><u>[Updated] Speed in Seizing Picture + Pitch for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/11-essential-tips-for-mastering-the-windows-touchpad-boost-your-productivity-and-efficiency-on-any-surface-techadvisor/"><u>11 Essential Tips for Mastering the Windows Touchpad: Boost Your Productivity & Efficiency on Any Surface | TechAdvisor</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2023s-premier-selection-of-ergonomic-gaming-chairs-reviewed-by-pcmag/"><u>2023'S Premier Selection of Ergonomic Gaming Chairs Reviewed by PCMag</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audio-layers-for-professional-videography-premiere-pro-edition/"><u>2024 Approved Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
+<li><a href="https://win-lab.techidaily.com/a-deep-dive-into-the-delightful-world-of-macs-why-one-google-employee-swaps-for-joy-over-windows-woes/"><u>A Deep Dive Into the Delightful World of Macs: Why One Google Employee Swaps for Joy Over Windows Woes</u></a></li>
+<li><a href="https://win-lab.techidaily.com/expert-review-navigating-the-future-with-comfort-leading-office-chairs-unveiled/"><u>Expert Review: Navigating the Future with Comfort - Leading Office Chairs Unveiled</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-dark-mode-in-win11-update-fall/"><u>Overcoming Dark Mode in Win11 Update Fall</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/streaming-made-easy-getting-apple-tv-services-on-your-amazon-firestick/"><u>Streaming Made Easy: Getting Apple TV Services on Your Amazon Firestick</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-guide-to-selecting-the-ideal-wobble-seats-and-adjustable-desk-chairs-2023-rankings-from-zdnet/"><u>Ultimate Guide to Selecting the Ideal Wobble Seats and Adjustable Desk Chairs - 2023 Rankings From ZDNET</u></a></li>
 </ul></div>
 

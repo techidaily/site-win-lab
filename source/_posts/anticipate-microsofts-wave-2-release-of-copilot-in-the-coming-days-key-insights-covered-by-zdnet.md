@@ -1,7 +1,7 @@
 ---
 title: Anticipate Microsoft's Wave 2 Release of Copilot in the Coming Days - Key Insights Covered by ZDNet
-date: 2024-10-01T16:16:55.505Z
-updated: 2024-10-08T16:13:10.217Z
+date: 2024-10-08T22:09:19.429Z
+updated: 2024-10-14T01:56:42.410Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037350/7443" target="_top" id="2037350">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037350" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037350/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,15 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-navigating-the-market-of-dronescopic-stabilizers/"><u>[New] Navigating the Market of Dronescopic Stabilizers</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-viewing-experience-with-the-ideal-image-settings-on-samsung-4k-models/"><u>Enhance Viewing Experience with the Ideal Image Settings on Samsung 4K Models</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/flying-vs-capturing-dji-action-gopro-max-instax360-for-2024/"><u>Flying Vs. Capturing DJi Action, GoPro Max, InstaX360 for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-save-france2fr-streams-as-mp4-or-avi-files/"><u>How to Save France2.Fr Streams as MP4 or AVI Files</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-transform-textbooks-into-audible-formats-mp3flac-a-cross-platform-tutorial-for-mac-and-pc/"><u>How To Transform Textbooks Into Audible Formats (MP3/FLAC): A Cross-Platform Tutorial for Mac & PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-pro-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 Pro Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/one-piece-series-download-full-episodes-in-various-formats-like-mp4-avi-and-more/"><u>One Piece Series: Download Full Episodes in Various Formats Like MP4, AVI, and More</u></a></li>
-<li><a href="https://win-lab.techidaily.com/outstanding-video-converter-options-beyond-freemake-for-apple-users-and-window-enthusiasts/"><u>Outstanding Video Converter Options: Beyond FreeMake for Apple Users & Window Enthusiasts</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-xiaomi-14-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi 14 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-unconventional-perspectives-in-photos/"><u>[New] Exploring Unconventional Perspectives in Photos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-minecraft-video-editing-process/"><u>2024 Approved Step-by-Step Minecraft Video Editing Process</u></a></li>
+<li><a href="https://win-lab.techidaily.com/download-metacafe-on-pc-and-mac-ultimate-video-sharing-platform/"><u>Download Metacafe on PC & Mac: Ultimate Video Sharing Platform</u></a></li>
+<li><a href="https://win-lab.techidaily.com/download-your-favorite-aetv-content-in-hd-formats-mp4-mov-and-avi/"><u>Download Your Favorite AETV Content in HD Formats - MP4, MOV & AVI</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1725286316163-dvddvd/"><u>DVDコピー保護解除レシピ：合法的にDVD抄き込みテクニック</u></a></li>
+<li><a href="https://win-lab.techidaily.com/enjoy-premium-vumoo-entertainment-at-no-cost-discover-how-to-download-your-favorite-films-and-shows-effortlessly/"><u>Enjoy Premium Vumoo Entertainment at No Cost: Discover How to Download Your Favorite Films and Shows Effortlessly!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/free-3d-film-converter-and-downloader-transform-and-save-your-favorite-films-as-mp4-or-mov-files/"><u>Free 3D Film Converter & Downloader: Transform and Save Your Favorite Films as MP4 or MOV Files</u></a></li>
+<li><a href="https://win-lab.techidaily.com/free-showcase-downloader-easily-save-videos-from-showcaseca-on-macwindows/"><u>Free Showcase Downloader: Easily Save Videos From Showcase.ca on Mac/Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-subscription-the-art-of-positive-engagement/"><u>In 2024, Mastering Subscription The Art of Positive Engagement</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-fcpxs-guide-to-vertical-video-editing-for-2024/"><u>Mastering Instagram FCPX's Guide to Vertical Video Editing for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/professional-radial-effects-step-by-step-guide-for-photoshop-experts-for-2024/"><u>Professional Radial Effects Step-by-Step Guide for Photoshop Experts for 2024</u></a></li>
 </ul></div>
 

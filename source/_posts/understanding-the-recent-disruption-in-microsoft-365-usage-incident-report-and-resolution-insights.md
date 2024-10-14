@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Recent Disruption in Microsoft 365 Usage: Incident Report and Resolution Insights"
-date: 2024-10-07T16:56:12.621Z
-updated: 2024-10-08T16:20:05.455Z
+date: 2024-10-08T08:00:27.826Z
+updated: 2024-10-13T21:56:42.589Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,28 +129,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,18 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-27-significant-metaverse-demonstrations-unveiled-for-2024/"><u>[Updated] 27 Significant Metaverse Demonstrations Unveiled for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-apple-music-add-on-for-smooth-video-playback/"><u>[Updated] Apple Music Add-On for Smooth Video Playback</u></a></li>
-<li><a href="https://win-lab.techidaily.com/creating-a-pure-black-canvas-step-by-step-guide-to-darkening-image-backgrounds/"><u>Creating a Pure Black Canvas: Step-by-Step Guide to Darkening Image Backgrounds</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-solutions-to-overcome-laptop-touchpad-not-responding-glitches/"><u>Expert Solutions to Overcome 'Laptop Touchpad Not Responding' Glitches</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y71-phone-without-pin-by-drfone-android/"><u>How to Unlock Huawei Nova Y71 Phone without PIN</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-11x-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme 11X 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-magic-6-lite-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor Magic 6 Lite Is Unlocked</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-poco-m6-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Poco M6 5G</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mastering-mobile-media-an-in-depth-look-at-the-3gp-container-standard/"><u>Mastering Mobile Media: An In-Depth Look at the 3GP Container Standard</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/resolve-dpc-watchguard-compliance-issue-instantly-with-our-expert-tips/"><u>Resolve DPC Watchguard Compliance Issue Instantly with Our Expert Tips</u></a></li>
-<li><a href="https://win-lab.techidaily.com/simple-steps-for-quick-conversion-mp4-to-flv/"><u>Simple Steps for Quick Conversion: MP4 to FLV</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ultimate-guide-and-mastering/"><u>Ultimate Guide and Mastering.</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ultimate-user-manual-mastering-your-apowertrans-experience/"><u>Ultimate User Manual: Mastering Your ApowerTrans Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-frolicsome-media-repository/"><u>[New] In 2024, Frolicsome Media Repository</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-decoding-the-meaning-and-usage-facebooks-icon-in-chat-for-2024/"><u>[Updated] Decoding the Meaning and Usage Facebook's Icon in Chat for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-vision-quest-identifying-top-tier-slow-motion-cameras/"><u>[Updated] Vision Quest Identifying Top-Tier Slow Motion Cameras</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-cost-free-webm-viewing-a-list-of-industry-standouts/"><u>2024 Approved Cost-Free WebM Viewing A List of Industry Standouts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-joyous-film-grabber-assessment/"><u>2024 Approved Joyous Film Grabber Assessment</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-top-5-tools-to-transform-your-instant-feeds-into-videos/"><u>2024 Approved Top 5 Tools to Transform Your Instant Feeds Into Videos</u></a></li>
+<li><a href="https://win-lab.techidaily.com/bypassing-banners-a-guide-to-hiding-promotions-in-windows-11s-enhanced-taskbar-feature-zdnet-insights/"><u>Bypassing Banners: A Guide to Hiding Promotions in Windows 11'S Enhanced Taskbar Feature | ZDNet Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/dont-miss-out-secure-your-pc-with-latest-windows-update-say-goodbye-to-support-for-21h2-and-22h2-learn-more-on-zdnet/"><u>Don't Miss Out! Secure Your PC with Latest Windows Update: Say Goodbye to Support for 21H2 and 22H2 – Learn More on ZDNET</u></a></li>
+<li><a href="https://fox-that.techidaily.com/essential-tips-to-repair-keyboard-issues-on-iphones-and-ipads-a-step-by-hemisphere-approach/"><u>Essential Tips to Repair Keyboard Issues on iPhones & iPads: A Step-by-Hemisphere Approach</u></a></li>
+<li><a href="https://win-lab.techidaily.com/exclusive-update-windows-11-systems-to-feature-the-revolutionary-copilot-ai-assistant/"><u>Exclusive Update: Windows 11 Systems to Feature the Revolutionary Copilot AI Assistant</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-oneplus-nord-n30-5g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from OnePlus Nord N30 5G to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mastering-windows-11-installation-selecting-the-perfect-user-account-type-guide/"><u>Mastering Windows 11 Installation: Selecting the Perfect User Account Type Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/microsoft-ends-a-three-decade-legacy-by-phasing-out-wordpad-as-revealed-by-zdnet/"><u>Microsoft Ends a Three-Decade Legacy by Phasing Out WordPad, as Revealed by ZDNet</u></a></li>
+<li><a href="https://win-lab.techidaily.com/microsofts-potential-ban-on-windows-11-24h2-mod-apps-what-you-need-to-know-now/"><u>Microsoft's Potential Ban on Windows 11 24H2 Mod Apps – What You Need to Know Now</u></a></li>
+<li><a href="https://win-lab.techidaily.com/seamless-transfer-of-documents-between-windows-and-android-devices-via-googles-quick-share-feature/"><u>Seamless Transfer of Documents Between Windows & Android Devices via Google's Quick Share Feature</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-methods-to-resolve-color-inaccuracy-and-visual-distortions-in-your-pc-or-laptop-monitor/"><u>Step-by-Step Methods to Resolve Color Inaccuracy and Visual Distortions in Your PC or Laptop Monitor</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/streamlined-dell-monitor-driver-update-fresh-installation-tips-and-tricks/"><u>Streamlined Dell Monitor Driver Update - Fresh Installation Tips & Tricks</u></a></li>
+<li><a href="https://win-lab.techidaily.com/trouble-with-your-virtual-private-network-after-latest-windows-patch-the-culprit-might-be-aprils-microsoft-update-techinsights/"><u>Trouble with Your Virtual Private Network After Latest Windows Patch? The Culprit Might Be April's Microsoft Update | TechInsights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unleashing-your-pcs-potential-with-microsofts-free-powertoys-fancyzones-discover-how-and-benefits/"><u>Unleashing Your PC's Potential with Microsoft's Free PowerToys FancyZones - Discover How & Benefits!</u></a></li>
 </ul></div>
 
