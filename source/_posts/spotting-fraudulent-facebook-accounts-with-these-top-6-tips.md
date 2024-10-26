@@ -1,7 +1,7 @@
 ---
 title: Spotting Fraudulent Facebook Accounts with These Top 6 Tips
-date: 2024-10-14T00:52:52.081Z
-updated: 2024-10-20T01:21:07.097Z
+date: 2024-10-23T16:27:49.442Z
+updated: 2024-10-26T00:27:47.099Z
 tags:
   - product
   - antivirus
@@ -85,10 +85,10 @@ Now open [Google Image search](https://images.google.com/) and click on the **Ca
 ![Search on Google Image 1](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image-1.jpg "Search on Google Image 1")
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on **Upload an image** and then click on **Choose file**, select the profile picture and upload it.
@@ -117,7 +117,21 @@ Many fake Facebook accounts have different names in the URL and the profile. It 
 
 ![Different Name in URL and Profile](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Different-Name-in-URL-and-Profile.jpg "Different Name in URL and Profile")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For example, someone creates an account to promote things for the American people, and then they decided to use the same account to push content to Saudi Arabs, so he or she changed the name. However, a different name in the URL and profile is not a clear indication that the account is fake, but if we relate it with other factors, it could be a clear sign.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Read the Timeline
 
@@ -133,27 +147,20 @@ Now check the profile carefully, click on the pictures and check the likes and c
 
 ![Lack of Interaction 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Lack-of-Interaction-2.jpg "Lack of Interaction 2")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Another sign is when you see lots of friends in the friend list, and very few of them like and comment on the posts then it also rings a bell. Click on the More button to see more activity like Check-ins, Music, Films, TV-Programme, etc.
 
 ![Lack of Interaction](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Lack-of-Interaction.jpg "Lack of Interaction")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you see no such activity, then the profile is not genuine.
 
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline.jpg "Read the Timeline")
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -168,13 +175,6 @@ This is serious as fake fb pages are used to breach false DV .Can put innocent i
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/caf62a92018556227984fb24f4803b8c?s=50&d=mm&r=g)  
    KolbyTotten  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    [March 5, 2022 at 2:52 am](https://tools.techidaily.com/malwarefox/products/)  
    hi  
@@ -231,13 +231,6 @@ I found all this credible up till the conclusion. The grammar flubs in that sect
    * ![](https://secure.gravatar.com/avatar/22c4825b1e12d79b9259832a80171c5a?s=50&d=mm&r=g)  
    Lizzie Zucker Saltz  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    [March 29, 2021 at 9:02 pm](https://tools.techidaily.com/malwarefox/products/)  
    Agree  
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -259,13 +252,6 @@ Wow
 9. ![](https://secure.gravatar.com/avatar/8eedcf8385a6b1bf53274b15233600cc?s=50&d=mm&r=g)  
 Xoliiey swaa  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [March 4, 2021 at 4:26 am](https://tools.techidaily.com/malwarefox/products/)  
 Love yourself before you love others  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
@@ -276,18 +262,19 @@ I notice almost all fake fb accounts are people from W. Africa. They always use 
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/fa427f27a62cdc6625506bc38139fad3?s=50&d=mm&r=g)  
    Roger k  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [May 1, 2024 at 2:20 am](https://tools.techidaily.com/malwarefox/products/)  
    Yes, the poor spelling and the grammar was totally off do not understand certain phrases. They Don’t ask the right questions giving you bad answers That’s how you can tell and the responses sometimes too illiterate to fit the picture of a pretty American white woman.. Then the magic question “money”  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 11. ![](https://secure.gravatar.com/avatar/76185882738ffa3fc3d5f2d1dc6c3d14?s=50&d=mm&r=g)  
 Ansie de Beer  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [January 30, 2022 at 8:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 If the profile photo and inbox messages disappear, can it also be a false profile? Only my own comments are still there. In another case the name and profile picture has changed, but the comments for the previous profile are still there. It seems I was scammed to pay a lot of money. The latest was I got a screenshot of a facebook message from somebody on whatsapp. When I checked the profile, the post was there, but it has also disappeared.  
@@ -299,24 +286,19 @@ Wow, my FB profile must look so fake… I hate pictures of myself and I have no 
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/743589a3f0f101301a8fb59ad0d022e9?s=50&d=mm&r=g)  
    Tammy Lynn  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [March 16, 2022 at 4:45 am](https://tools.techidaily.com/malwarefox/products/)  
    Aaaw NOOO plz don’t ever treat or think of yourself in that way!!!  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 13. ![](https://secure.gravatar.com/avatar/00106f10d172325f90652aa470195815?s=50&d=mm&r=g)  
 Janet  
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [February 28, 2022 at 12:50 am](https://tools.techidaily.com/malwarefox/products/)  
 My friend has lots of Cambodian beauties on his facebook friends. He only has one short message to one of them ‘Hi, my name is …..nice to meet you’ there is nor reply. He has soem of his family as friends (he’s single) with a couple of messages to one of them.and a short reply to him. No others.  
@@ -329,6 +311,14 @@ Gracias x la ayuda. me es de gran utilidad…
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 15. ![](https://secure.gravatar.com/avatar/743589a3f0f101301a8fb59ad0d022e9?s=50&d=mm&r=g)  
 Tammy Lynn  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [March 16, 2022 at 5:10 am](https://tools.techidaily.com/malwarefox/products/)  
 I was recently scammed by someone i found out had faked a FB profile so I totally appreciate this information & found it very helpful. Commenting that the writer’s profile of this article also looks suspicious seems ignorant to me since there’s really nothing for them to gain- completely unlike many of the ones purposely created on social media such as Facebook, etc.  
 Thank u  
@@ -343,6 +333,13 @@ Cheryl
 [August 17, 2022 at 10:56 am](https://tools.techidaily.com/malwarefox/products/)  
 Another clue is when you get friend requests from people who are already your friend. You need to report those to Facebook. Also bad spelling and grammar when you expect it to be better.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -369,18 +366,17 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-from-hashtags-to-challenges-insta-meets-tiktok-for-2024/"><u>[New] From Hashtags to Challenges Insta Meets TikTok for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-speedy-way-effortlessly-add-a-vimeo-video-to-your-slides/"><u>[Updated] 2024 Approved The Speedy Way Effortlessly Add a Vimeo Video to Your Slides</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-blandness-in-your-vids-top-recommended-youtube-thumbnail-heights-for-2024/"><u>Avoid Blandness in Your Vids Top Recommended YouTube Thumbnail Heights for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/choosing-between-disk-drill-and-wondershare-recoverit-expert-analysis-for-optimal-file-restoration/"><u>Choosing Between Disk Drill and Wondershare Recoverit: Expert Analysis for Optimal File Restoration</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-recover-lost-data-from-an-exfat-drive-with-these-5-quick-tips/"><u>How to Recover Lost Data From an ExFAT Drive with These 5 Quick Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-pro-without-apple-password-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 14 Pro Without Apple Password? | Stellar</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-behind-the-camera-studio-insights-extended-xvideoguide/"><u>In 2024, Behind-the-Camera Studio Insights Extended XVideoGuide</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Vivo X100 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-samsung-galaxy-a15-4g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Samsung Galaxy A15 4G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/seagate-discwizard-error-resolved-comprehensive-guide-on-troubleshooting-and-solutions/"><u>Seagate Discwizard Error Resolved: Comprehensive Guide on Troubleshooting & Solutions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/cs-to-triple-your-youtube-subscription-numbers-for-2024/"><u>Tactics to Triple Your YouTube Subscription Numbers for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/understanding-csrssexe-as-malicious-software-distinguishing-between-trojan-and-virus-complete-eradication-steps/"><u>Understanding CSRSS.exe as Malicious Software: Distinguishing Between Trojan and Virus, Complete Eradication Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-understanding-auto-hdr-techniques-in-modern-cameras/"><u>[New] Understanding Auto HDR Techniques in Modern Cameras</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-culminating-sound-merging-music-with-vimeo-media-assets/"><u>[Updated] 2024 Approved Culminating Sound Merging Music with Vimeo Media Assets</u></a></li>
+<li><a href="https://win-lab.techidaily.com/2-is-it-possible-to-retrieve-contacts-from-an-iphone-via-itunes-backup/"><u>2. Is It Possible to Retrieve Contacts From an iPhone via iTunes Backup?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/advanced-windows-customization-via-cli-registry-edition/"><u>Advanced Windows Customization via CLI: Registry Edition</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/fix-pixel-gap-phenomena-computer-screens/"><u>Fix Pixel Gap Phenomena (Computer Screens)</u></a></li>
+<li><a href="https://win-lab.techidaily.com/guida-passo-passo-per-laggiornamento-di-windows-11-su-un-nuovo-pc-con-hardware-uguale-o-diverso/"><u>Guida Passo-Passo per L'aggiornamento Di Windows 11 Su Un Nuovo PC Con Hardware Uguale O Diverso</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-modify-your-vocal-expression-on-camera-for-professional-results/"><u>How to Modify Your Vocal Expression on Camera for Professional Results</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-14-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi 14 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/stressfreie-protokolle-fur-das-klonen-von-gpt-systemen-mit-mbr-professionelle-anleitung/"><u>Stressfreie Protokolle Für Das Klonen Von GPT-Systemen Mit MBR - Professionelle Anleitung</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-free-photorecovery-programs-for-windows-users-download-options/"><u>Top Free Photorecovery Programs for Windows Users: Download Options</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-guide-to-protecting-windows-11-files-how-to-reliably-mirror-your-pc-onto-a-synology-nas-device-with-two-effective-techniques/"><u>Ultimate Guide to Protecting Windows 11 Files: How to Reliably Mirror Your PC Onto a Synology NAS Device with Two Effective Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-zte-axon-40-lite-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On ZTE Axon 40 Lite? Fixed | Dr.fone</u></a></li>
 </ul></div>
 
