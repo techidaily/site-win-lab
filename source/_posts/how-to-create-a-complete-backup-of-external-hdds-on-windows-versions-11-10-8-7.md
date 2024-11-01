@@ -1,7 +1,7 @@
 ---
 title: How to Create a Complete Backup of External HDDs on Windows Versions (11, 10, 8, 7)
-date: 2024-10-13T02:49:15.774Z
-updated: 2024-10-20T00:13:08.150Z
+date: 2024-10-25T21:07:39.952Z
+updated: 2024-10-31T16:12:15.061Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/dd00c272af0df6444eb7e9772f2833b20e1c6be4a600a2f96d45b985a1cdb021.jpg
@@ -50,17 +50,17 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -79,15 +79,22 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -126,6 +133,13 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -144,13 +158,6 @@ Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
 Passo 1\. Apri Impostazioni:
@@ -164,6 +171,13 @@ Clicca su "Aggiornamento di Windows" e seleziona "Verifica aggiornamenti."
 Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
 
@@ -190,13 +204,6 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -231,13 +238,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -294,17 +294,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-whats-youtube-creative-commons-and-how-to-use-it-to-make-video/"><u>[New] 2024 Approved What's YouTube Creative Commons and How to Use It to Make Video</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-corporate-cloud-storage-platforms-for-2024/"><u>[New] Top Corporate Cloud Storage Platforms for 2024</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-configuring-who-can-see-your-youtube-clips/"><u>[Updated] Configuring Who Can See Your YouTube Clips</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-boost-your-channel-game-essential-video-editing-advice/"><u>[Updated] In 2024, Boost Your Channel Game Essential Video Editing Advice</u></a></li>
-<li><a href="https://win-lab.techidaily.com/windows-11-u/"><u>必要なステップで、Windows 11 の起動 U盤を手転げに作成する | 専門家レベル</u></a></li>
-<li><a href="https://win-lab.techidaily.com/automatisation-de-la-gestion-de-lespace-disque-de-sauvegarde-sur-windows-11/"><u>Automatisation De La Gestion De L'espace Disque De Sauvegarde Sur Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capture-save-analyze-the-top-8-sound-techniques/"><u>Capture, Save, Analyze The Top 8 Sound Techniques</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-transfer-your-files-safely-using-clonezilla-from-an-ssd-to-an-nvme-drive/"><u>How to Transfer Your Files Safely Using Clonezilla From an SSD to an NVMe Drive</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mcafee-antivirus-a-trusted-protector-or-a-hidden-threat/"><u>McAfee Antivirus: A Trusted Protector or a Hidden Threat?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-xs-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XS Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ssd-purificazione-inoppugnabile-vs-eliminazione-sicura-guida-comparativa-e-passaggi-dettagliati/"><u>SSD Purificazione Inoppugnabile Vs. Eliminazione Sicura: Guida Comparativa E Passaggi Dettagliati</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-to-computer-hardware-toms-expert-analysis/"><u>Ultimate Guide to Computer Hardware: Tom's Expert Analysis</u></a></li>
+<li><a href="https://win-lab.techidaily.com/windows-1187usb/"><u>[最新突破] 對Windows 11/8/7適用的頂級免費USB檔案恢復解決方案 - 無限選擇</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-from-boring-to-breathtaking-insta-video-tips/"><u>[New] 2024 Approved From Boring to Breathtaking Insta Video Tips</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-spotlight-on-top-8-sites-where-3d-meets-lustrous-text/"><u>[New] 2024 Approved Spotlight on Top 8 Sites Where 3D Meets Lustrous Text</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-startup-problems-in-hogwarts-legacy-8-effective-fixes-to-try-now/"><u>Beat Startup Problems in Hogwarts Legacy - 8 Effective Fixes to Try Now!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-setting-the-scene-a-complete-guide-to-adding-custom-sounds-and-ringtones-on-android/"><u>In 2024, Setting the Scene A Complete Guide to Adding Custom Sounds and Ringtones on Android</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-poetry-through-chatgpt-explorations/"><u>Mastering Poetry Through ChatGPT Explorations</u></a></li>
+<li><a href="https://win-lab.techidaily.com/story-3-the-alcohol-abuse-assumption/"><u>Story 3: The Alcohol Abuse Assumption</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-rated-ios-device-data-retrieval-apps-complete-privacy-protection-guaranteed/"><u>Top Rated iOS Device Data Retrieval Apps [Complete Privacy Protection Guaranteed]</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ungkapan-tiga-jenis-mengatasi-kesalahan-drivers-hapus-pada-windows-11/"><u>Ungkapan Tiga Jenis: Mengatasi Kesalahan Drivers Hapus Pada Windows 11</u></a></li>
 </ul></div>
 
