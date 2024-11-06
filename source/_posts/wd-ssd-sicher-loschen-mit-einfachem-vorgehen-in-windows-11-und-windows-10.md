@@ -1,7 +1,7 @@
 ---
 title: WD SSD Sicher Löschen Mit Einfachem Vorgehen in Windows 11 Und Windows 10
-date: 2024-10-30T20:01:32.356Z
-updated: 2024-10-31T19:48:10.058Z
+date: 2024-10-30T17:04:09.736Z
+updated: 2024-11-06T19:40:44.129Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/800871781dded7ace3211c5534653c24a5267e768de909ec1df6dcfa19126cf1.jpg
@@ -71,15 +71,22 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -94,17 +101,10 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
@@ -130,13 +130,6 @@ Sicherer Download
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
@@ -165,29 +158,29 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -226,10 +219,10 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
@@ -256,13 +249,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 
 [Ja](https://tools.techidaily.com/ubackup/products/)[Nein](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## MyRecover Jetzt Kostenlos Erhalten
 
 Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in Windows.
@@ -271,7 +257,21 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -288,18 +288,19 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ll-you-need-to-know-understanding-video-aspect-ratios-on-youtube-for-2024/"><u>[New] All You Need to Know Understanding Video ASPECT RATIOS on YOUTUBE for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-clan-combat-chronicles-top-10-games-inspired-by-ghost-of-tsushima/"><u>[New] Clan Combat Chronicles Top 10 Games Inspired by Ghost of Tsushima</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-stepwise-instructions-snapchat-for-mac-users/"><u>[New] In 2024, Stepwise Instructions Snapchat for Mac Users</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-showcasing-brilliance-iconic-anime-intros-for-2024/"><u>[Updated] Showcasing Brilliance Iconic Anime Intros for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-champion-complimentary-timer-tech/"><u>2024 Approved Champion Complimentary Timer Tech</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-free-and-purchased-color-tools-for-the-discerning-canon-user/"><u>2024 Approved Free & Purchased Color Tools for the Discerning Canon User</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-reno-8t-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Reno 8T 5G FRP</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1728509554871-windows-pc/"><u>簡便儘速解決：Windows PC上免費文件恢復工具兩款選項</u></a></li>
-<li><a href="https://win-lab.techidaily.com/comment-faciliter-le-recuperation-des-donnees-dun-espace-de-stockage-cloud-une-methode-rapide-et-facile/"><u>Comment Faciliter Le Récupération Des Données D’un Espace De Stockage Cloud : Une Méthode Rapide Et Facile</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mastering-windows-11s-task-scheduler-essential-tips-for-automated-backups-and-system-power-management/"><u>Mastering Windows 11'S Task Scheduler: Essential Tips for Automated Backups and System Power Management</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-dissecting-sound-forge-an-experts-guide-to-audio-mastery/"><u>New In 2024, Dissecting Sound Forge An Experts Guide to Audio Mastery</u></a></li>
-<li><a href="https://win-lab.techidaily.com/the-ultimate-guide-to-the-most-secure-personal-messaging-platforms-ranking-the-top-five/"><u>The Ultimate Guide to the Most Secure Personal Messaging Platforms: Ranking the Top Five</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001572340-troubleshoot-and-master-genshin-impact-launch-problems-in-minutes/"><u>Troubleshoot & Master Genshin Impact Launch Problems in Minutes</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-giving-a-fresh-twist-to-pre-filtered-memories-using-instagram-tools/"><u>[New] 2024 Approved Giving a Fresh Twist to Pre-Filtered Memories Using Instagram Tools</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unlock-windows-xp-professional-for-media-development/"><u>[Updated] 2024 Approved Unlock Windows XP Professional for Media Development</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-reposting-photosvideos-a-users-manual-for-2024/"><u>[Updated] Reposting Photos/Videos A User's Manual for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-best-photo-text-editor-to-add-text-on-picture/"><u>2024 Approved Best Photo Text Editor to Add Text on Picture</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-breaking-down-instagrams-video-conversation-protocol/"><u>2024 Approved Breaking Down Instagram's Video Conversation Protocol</u></a></li>
+<li><a href="https://win-lab.techidaily.com/5-efficient-methods-for-transferring-iphone-pictures-to-your-computer-icloud-or-itunes/"><u>5 Efficient Methods for Transferring iPhone Pictures to Your Computer, iCloud or iTunes</u></a></li>
+<li><a href="https://win-lab.techidaily.com/dell-server-backup-solutions-efficient-auto-backup-features/"><u>Dell Server Backup Solutions: Efficient Auto-Backup Features</u></a></li>
+<li><a href="https://win-lab.techidaily.com/easy-guide-setting-up-automated-sql-server-201/"><u>Easy Guide: Setting Up Automated SQL Server 201</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-samsungs-lpcamm-maximizing-laptop-performance-with-up-to-amoled-128gb-ddr5-storage-and-space-reduction-by-60/"><u>Introducing Samsung's LPCAMM: Maximizing Laptop Performance with Up to Amoled 128GB DDR5 Storage and Space Reduction by 60%</u></a></li>
+<li><a href="https://win-lab.techidaily.com/melhor-ferramenta-de-transferencia-gratuitas-para-ssd-a-ssd-metodos-atualizados-2024/"><u>Melhor Ferramenta De Transferência Gratuitas Para SSD a SSD - Métodos Atualizados 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/msi-unveils-the-new-aiplus-gaming-laptops-delivering-top-tier-performance-from-100-to-542-tops/"><u>MSI Unveils the New AI+ Gaming Laptops: Delivering Top-Tier Performance From 100 to 542 TOPS</u></a></li>
+<li><a href="https://win-lab.techidaily.com/optimale-methode-zum-kopieren-von-windows-11-auf-eine-kleinere-ssd/"><u>Optimale Methode Zum Kopieren Von Windows 11 Auf Eine Kleinere SSD</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/transferencia-sencilla-del-sistema-operativo-windows-a-un-disco-duro-ssd-en-equipos-lenovo/"><u>Transferencia Sencilla Del Sistema Operativo Windows a Un Disco Duro SSD en Equipos Lenovo</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728499889258-3/"><u>ゴミ箱対象外による安価なファイル回復手順 - 3つのコツ</u></a></li>
 </ul></div>
 

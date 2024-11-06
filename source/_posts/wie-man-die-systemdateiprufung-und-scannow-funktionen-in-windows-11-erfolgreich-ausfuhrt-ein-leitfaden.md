@@ -1,7 +1,7 @@
 ---
 title: Wie Man Die Systemdateiprüfung Und ScanNow-Funktionen in Windows 11 Erfolgreich Ausführt - Ein Leitfaden
-date: 2024-10-26T19:32:46.788Z
-updated: 2024-10-31T19:35:39.618Z
+date: 2024-11-05T16:21:24.963Z
+updated: 2024-11-06T17:36:10.464Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0747a09da8301ee779ce2acf.jpg
@@ -69,13 +69,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -93,6 +86,13 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -113,10 +113,16 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -152,10 +158,10 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -184,6 +190,13 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -203,6 +216,13 @@ Scegli una destinazione per il backup e personalizza le impostazioni se necessar
 Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
@@ -238,13 +258,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -255,13 +268,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -271,10 +277,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -294,20 +300,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-co-exclusive-brands-and-youtube-experiences/"><u>[New] 2024 Approved Crafting Co-Exclusive Brands and YouTube Experiences</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-advanced-screen-recorder-options-for-mac-not-including-bandicamp-for-2024/"><u>[New] Advanced Screen Recorder Options for Mac, Not Including Bandicamp for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-audiences-delighted-best-editors-to-transform-youtube-shorts/"><u>[Updated] 2024 Approved Audiences Delighted Best Editors to Transform Youtube Shorts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-discovering-calmer-video-consumption-three-ways-to-pause-time-56-chars-slightly-over-but-a-minor-exception-due-to-title-length/"><u>[Updated] In 2024, Discovering Calmer Video Consumption Three Ways to Pause Time (56 Chars, Slightly over but a Minor Exception Due to Title Length)</u></a></li>
-<li><a href="https://win-lab.techidaily.com/5aac5l2v6yca6lplush5asw572u56gs55uy6yen5bu65peg5osp5lit5lii5asx55qe5lplush5ogv/"><u>如何通过外置硬盘重建无意中丢失的信息</u></a></li>
-<li><a href="https://win-lab.techidaily.com/comment-installer-et-gerer-facilement-limage-de-dossier-disk-imager-win32-sur-windows-10-pro-64-bit/"><u>Comment Installer Et Gérer Facilement L'Image De Dossier Disk Imager Win32 Sur Windows 10 Pro (64-Bit)</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-can-you-recover-deleted-pages-in-microsoft-onenote-with-myrecovery-tool/"><u>How Can You Recover Deleted Pages in Microsoft OneNote with MyRecovery Tool?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-xiaomi-14-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Xiaomi 14 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/making-every-sound-count-mac-audio-mastery-in-audacity/"><u>Making Every Sound Count Mac Audio Mastery in Audacity</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/precision-medicine-is-an-emerging-field-that-uses-genetic-information-to-tailor-treatments-for-cad-offering-more-effective-management-for-those-with-a-high-1/"><u>Precision Medicine Is an Emerging Field that Uses Genetic Information to Tailor Treatments for CAD, Offering More Effective Management for Those with a High Genetic Risk</u></a></li>
-<li><a href="https://win-lab.techidaily.com/sauvegarde-sans-risque-de-clonez-os-sur-votre-ssd-samsung-850-evo-avec-windows-7-8-ou-10/"><u>Sauvegarde Sans Risque De Clonez OS Sur Votre SSD Samsung 850 EVO Avec Windows 7, 8 Ou 10</u></a></li>
-<li><a href="https://win-lab.techidaily.com/schritt-fur-schritt-anleitung-zum-ubertragen-ihres-windows-ebenso-wie-von-hdd-auf-solid-state-drive-ssd/"><u>Schritt-Für-Schritt Anleitung Zum Übertragen Ihres Windows Ebenso Wie Von HDD Auf Solid State Drive (SSD)</u></a></li>
-<li><a href="https://win-lab.techidaily.com/section-2a-relevant-concept-explanation-articles-of-incorporation/"><u>Section 2A: Relevant Concept Explanation - Articles of Incorporation</u></a></li>
-<li><a href="https://win-lab.techidaily.com/top-3-tools-per-la-sincronizzazione-autonoma-dei-file-su-windows/"><u>Top 3 Tools per La Sincronizzazione Autonoma Dei File Su Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlock-the-benefits-of-iphone-mirroring-skip-installing-apps-on-your-mac/"><u>Unlock the Benefits of iPhone Mirroring: Skip Installing Apps on Your Mac!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-critical-review-of-lg-bp350-display-user-reviews-collate/"><u>[New] Critical Review of LG BP350 Display - User Reviews Collate</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-champion-steadicams-for-uav-filmmaking-excellence/"><u>[Updated] Champion Steadicams for UAV Filmmaking Excellence</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-effortless-video-downloads-at-fingertips-select-from-these-top-chrome-plugins/"><u>[Updated] Effortless Video Downloads at Fingertips Select From These Top Chrome Plugins</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728462009813-onedrive/"><u>重生之路：防止OneDrive刪除電腦文件的中文指南和解決方案</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/amazon-fire-hd-8-an-affordable-entry-level-tablet-review/"><u>Amazon Fire HD 8 : An Affordable Entry-Level Tablet Review</u></a></li>
+<li><a href="https://win-lab.techidaily.com/choosing-between-disk-drill-and-wondershare-recoverit-expert-analysis-for-optimal-file-restoration/"><u>Choosing Between Disk Drill and Wondershare Recoverit: Expert Analysis for Optimal File Restoration</u></a></li>
+<li><a href="https://win-lab.techidaily.com/come-collegare-e-sincronizzare-file-tra-diverse-macchine-usando-windows-guida-per-windows-111087/"><u>Come Collegare E Sincronizzare File Tra Diverse Macchine Usando Windows: Guida per Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-lab.techidaily.com/complete-guide-to-defeating-trojans-the-5-most-powerful-removal-solutions-of-2er-years/"><u>Complete Guide to Defeating Trojans: The 5 Most Powerful Removal Solutions of 2Er Years</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-best-5-alternatives-to-malwarebytes-that-will-boost-your-pcs-safety-in-windows/"><u>Discover the Best 5 Alternatives to Malwarebytes That Will Boost Your PC's Safety in Windows 지대</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/efficient-teruggaf-fotos-van-uw-sony-camera/"><u>Efficiënt Teruggaf Fotos Van Uw Sony Camera</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-stutter-issues-in-fallout-4-a-complete-guide/"><u>Fixing Stutter Issues in Fallout 4 - A Complete Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/flexible-guide-seamlessly-integrating-onedrive-with-your-windows-11-or-10-system/"><u>Flexible Guide: Seamlessly Integrating OneDrive with Your Windows 11 or 10 System</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-lenovo-thinkpad-driver-updates-protected-and-reliable-download/"><u>Get the Latest Lenovo ThinkPad Driver Updates – Protected & Reliable Download</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-recover-lost-data-from-an-exfat-drive-with-these-5-quick-tips/"><u>How to Recover Lost Data From an ExFAT Drive with These 5 Quick Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/seagate-discwizard-error-resolved-comprehensive-guide-on-troubleshooting-and-solutions/"><u>Seagate Discwizard Error Resolved: Comprehensive Guide on Troubleshooting & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-future-is-bright-a-closer-look-at-sonys-announcements-and-prospects/"><u>The Future Is Bright: A Closer Look at Sony's Announcements & Prospects</u></a></li>
+<li><a href="https://win-lab.techidaily.com/understanding-csrssexe-as-malicious-software-distinguishing-between-trojan-and-virus-complete-eradication-steps/"><u>Understanding CSRSS.exe as Malicious Software: Distinguishing Between Trojan and Virus, Complete Eradication Steps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlocking-an-icloud-locked-ipad-and-apple-iphone-12-by-drfone-ios/"><u>Unlocking an iCloud Locked iPad and Apple iPhone 12</u></a></li>
 </ul></div>
 
