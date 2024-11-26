@@ -1,7 +1,7 @@
 ---
 title: Spotting Fraudulent Facebook Accounts with These Top 6 Tips
-date: 2024-11-13T00:15:17.581Z
-updated: 2024-11-16T23:55:44.825Z
+date: 2024-11-21T19:25:46.697Z
+updated: 2024-11-25T18:33:20.987Z
 tags:
   - product
   - antivirus
@@ -56,6 +56,10 @@ An active user on Facebook regularly changes his/her profile picture. If you see
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Profile Pictures of Celebrities**
 
 Its okay if someone is a fan of a celebrity, but he will not put all profile pictures of that celebrity on his Facebook profile.
@@ -80,13 +84,6 @@ To do that Right click on the profile picture and click **Save image as** and th
 
 ![How to Spot a Fake Facebook Profile](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image.jpg "Search on Google Image")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now open [Google Image search](https://images.google.com/) and click on the **Camera icon**
 
 ![Search on Google Image 1](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image-1.jpg "Search on Google Image 1")
@@ -103,13 +100,6 @@ Another way to spot a fake Facebook profile is to look in the about section. Gen
 
 Also, when you see lots of patterns like Works in California, Went to the University of California, Lives in California, then it is a sign of a fake account. Fake account creators don’t go into details they fill in common and famous things to look credible. It could be the renowned name of famous places like New York, California, Los Angles, Texas, Or it could be the name of famous universities like Harvard University, New York University, or Stanford University.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Check Friend List
 
 Now it’s time to check the friend list; a genuine person would like to connect with more local persons. When you see so many foreign friends, and no or fewer local friends, then it could be a fake profile. If a person is from New York then why would he connect with so many Saudi Arab Emirates persons?
@@ -124,13 +114,6 @@ Many fake Facebook accounts have different names in the URL and the profile. It 
 
 ![Different Name in URL and Profile](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Different-Name-in-URL-and-Profile.jpg "Different Name in URL and Profile")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For example, someone creates an account to promote things for the American people, and then they decided to use the same account to push content to Saudi Arabs, so he or she changed the name. However, a different name in the URL and profile is not a clear indication that the account is fake, but if we relate it with other factors, it could be a clear sign.
 
 ## Read the Timeline
@@ -140,10 +123,7 @@ Now it comes to reading the Timeline. If a user is posting too many links of one
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline2.jpg "Read the Timeline")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Users on Facebook shares different things like jokes, music, video, or pictures. They also share their activity like traveling, reading, and listening. If you don’t see such different types of posts, then it could also be a sign of a fake account. Just scroll the timeline to grasp what users are sharing and compare it with what they were sharing earlier. Shifting of content on the timeline indicates the same.
@@ -171,6 +151,10 @@ There are lots of ways to identify a fake Facebook account; however, none of the
 1. ![](https://secure.gravatar.com/avatar/aa8bb61ce2ecac56906832036875e04f?s=50&d=mm&r=g)  
 Max  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [October 9, 2019 at 11:06 am](https://tools.techidaily.com/malwarefox/products/)  
 This is serious as fake fb pages are used to breach false DV .Can put innocent in jail.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -182,6 +166,11 @@ This is serious as fake fb pages are used to breach false DV .Can put innocent i
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 2. ![](https://secure.gravatar.com/avatar/afbc265199aa8a4a4276a5e918e8751f?s=50&d=mm&r=g)  
 Harvey Myers  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [April 7, 2020 at 6:30 pm](https://tools.techidaily.com/malwarefox/products/)  
 First, my compliments on the website, nice and easy to navigate.  
 Going into the nitty gritty of #5 and #6, I check for those kinds of things. I have nearly 5000 friends and every now and then I get a request that ‘seems’ to pass all that, but I find a few patterns suspicious. One is when they post a wide variety of subjects, as if fishing for one that you’re interested in, within minutes of each other, or some 3 in the same minute sometimes. Often they have some scattered comments, but from the same small set of users and then I try to see i the comments are relevant or just kind of generic.  
@@ -216,11 +205,21 @@ I run a Facebook group and I have noticed people applying with an Anglo-American
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 5. ![](https://secure.gravatar.com/avatar/d39c6364e08d0d3791b6bcab44904680?s=50&d=mm&r=g)  
 Austin  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [August 23, 2020 at 5:45 am](https://tools.techidaily.com/malwarefox/products/)  
 Hi my name is Austin I’ve checked fb market place and this guy is selling a truck I checked his profile no post , nothing but a pic of a fire pole and says fire department he has 6 friends all girls they haven’t updated or posted since a few years ago , he has no places of work , lived , nothing else leaves me to question  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 6. ![](https://secure.gravatar.com/avatar/af89d9ed3278f273bd01ce479725f488?s=50&d=mm&r=g)  
 Elisa  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [September 2, 2020 at 3:39 pm](https://tools.techidaily.com/malwarefox/products/)  
 I found all this credible up till the conclusion. The grammar flubs in that section suddenly made me doubt the truth in this piece.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -238,6 +237,10 @@ I found all this credible up till the conclusion. The grammar flubs in that sect
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/035a8658bd8b3789b8fa0de59bb1669f?s=50&d=mm&r=g)  
    Lyn Allan  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
    [September 22, 2022 at 3:06 pm](https://tools.techidaily.com/malwarefox/products/)  
    I noticed it too. I wonder why. I need advice but now not sure!  
@@ -262,13 +265,6 @@ Love yourself before you love others
 10. ![](https://secure.gravatar.com/avatar/c77b69ca0d1424b4e59e9401b1f52aea?s=50&d=mm&r=g)  
 Robert Teague  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [September 24, 2021 at 9:18 am](https://tools.techidaily.com/malwarefox/products/)  
 I notice almost all fake fb accounts are people from W. Africa. They always use a beautiful white woman as their profile photo. If you scroll down you will usually come across a pic or two of the actual account creator. It’s so obvious, and they hardly ever have any mutual friends. And there is no need to report them to FB, they use AI to determine if it is real, and they won’t take it down. So annoying.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -281,31 +277,11 @@ I notice almost all fake fb accounts are people from W. Africa. They always use 
 11. ![](https://secure.gravatar.com/avatar/76185882738ffa3fc3d5f2d1dc6c3d14?s=50&d=mm&r=g)  
 Ansie de Beer  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [January 30, 2022 at 8:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 If the profile photo and inbox messages disappear, can it also be a false profile? Only my own comments are still there. In another case the name and profile picture has changed, but the comments for the previous profile are still there. It seems I was scammed to pay a lot of money. The latest was I got a screenshot of a facebook message from somebody on whatsapp. When I checked the profile, the post was there, but it has also disappeared.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 12. ![](https://secure.gravatar.com/avatar/4309ff686f116f0d65081fa918bbf5b0?s=50&d=mm&r=g)  
 Kim  
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [February 6, 2022 at 3:07 am](https://tools.techidaily.com/malwarefox/products/)  
 Wow, my FB profile must look so fake… I hate pictures of myself and I have no friends. Or family. The only people I ever interact with are random strangers that were kind enough to accept my desperate friendrequest, people that I have never met and never will meet. I am just lonely and pathetic.  
@@ -320,10 +296,7 @@ Wow, my FB profile must look so fake… I hate pictures of myself and I have no 
 Janet  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [February 28, 2022 at 12:50 am](https://tools.techidaily.com/malwarefox/products/)  
@@ -333,11 +306,19 @@ The page is about 2/3 yrs old with no recent activity. He says It was set up wit
 14. ![](https://secure.gravatar.com/avatar/361ba1bcc1d2c5a8885dd093dbb96bb6?s=50&d=mm&r=g)  
 facebook profile page  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [February 28, 2022 at 1:52 pm](https://tools.techidaily.com/malwarefox/products/)  
 Gracias x la ayuda. me es de gran utilidad…  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 15. ![](https://secure.gravatar.com/avatar/743589a3f0f101301a8fb59ad0d022e9?s=50&d=mm&r=g)  
 Tammy Lynn  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [March 16, 2022 at 5:10 am](https://tools.techidaily.com/malwarefox/products/)  
 I was recently scammed by someone i found out had faked a FB profile so I totally appreciate this information & found it very helpful. Commenting that the writer’s profile of this article also looks suspicious seems ignorant to me since there’s really nothing for them to gain- completely unlike many of the ones purposely created on social media such as Facebook, etc.  
@@ -380,16 +361,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-quick-start-inserting-images-into-your-instagram-feed-for-2024/"><u>[New] Quick Start Inserting Images Into Your Instagram Feed for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-optimizing-your-video-conferencing-process-with-slack-and-filmora-tools/"><u>[Updated] 2024 Approved Optimizing Your Video Conferencing Process with Slack and Filmora Tools</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-akthr-3-khtoat-bsyta-hol-iaadad-mzamna-almlfat-altlkaya-fy-windows-11/"><u>1. أكثر 3 خطوات بسيطة حول إعداد مزامنة الملفات التلقائية في Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-lava-storm-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Lava Storm 5G Wont Charge | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfecting-tiktok-media-with-zoom-techniques/"><u>2024 Approved Perfecting TikTok Media with Zoom Techniques</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/a-comprehensible-guide-for-mastering-instagram-live-engagements/"><u>A Comprehensible Guide for Mastering Instagram Live Engagements</u></a></li>
-<li><a href="https://win-lab.techidaily.com/asushddssd/"><u>ASUS筆電體驗改造：高效率更換HDD為SSD指南</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-iphone-savvy-crafting-elegant-time-stretched-videos/"><u>In 2024, IPhone Savvy Crafting Elegant Time-Stretched Videos</u></a></li>
-<li><a href="https://win-lab.techidaily.com/rdbms-vs-dbms-selecting-the-ideal-database-solution-tailored-to-your-requirements/"><u>RDBMS vs DBMS: Selecting the Ideal Database Solution Tailored to Your Requirements</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/revolutionize-your-livestreams-with-manycam-top-tier-virtual-camera-solutions-for-seamless-broadcasting/"><u>Revolutionize Your Livestreams with ManyCam - Top-Tier Virtual Camera Solutions for Seamless Broadcasting</u></a></li>
-<li><a href="https://win-lab.techidaily.com/troubleshooting-winodws-1110-error-0xc0000005-expert-tips-and-effective-solutions-for-developers/"><u>Troubleshooting Winodws 11/10 Error 0Xc0000005 - Expert Tips & Effective Solutions for Developers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-navigate-through-itunes-recording-like-a-pro/"><u>[New] Navigate Through iTunes Recording Like a Pro</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-enhance-engagement-learn-to-dim-youtube-video-backgrounds/"><u>[Updated] Enhance Engagement Learn to Dim YouTube Video Backgrounds</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-aomei-total-system-care-comprehensive-data-protection-software/"><u>1. AOMEI Total System Care: Comprehensive Data Protection Software</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-securely-transfer-data-from-ssd-to-seagate-sshd-using-free-software/"><u>1. Securely Transfer Data From SSD to Seagate SSHD Using Free Software</u></a></li>
+<li><a href="https://win-webster.techidaily.com/comment-connecter-rapidement-un-lecteur-usb-au-sgbdr-sous-windows-10-solution-sans-complications/"><u>Comment Connecter Rapidement Un Lecteur USB Au SGBDR Sous Windows 10 - Solution Sans Complications</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ideal-vlogging-studio-package-by-movavi-elite-equipment-for-aspiring-video-bloggers/"><u>Ideal Vlogging Studio Package by Movavi: Elite Equipment for Aspiring Video Bloggers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ifinds-complete-walkthrough-for-retrieving-inaccessible-data-from-undetectable-disks-using-ifind-software-expert-techniques-and-tips/"><u>IFinD's Complete Walkthrough for Retrieving Inaccessible Data From Undetectable Disks Using IFind Software: Expert Techniques and Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-screensnapper-pro-2023-apowersofts-latest-for-pcs/"><u>In 2024, ScreenSnapper Pro 2023 Apowersoft's Latest for PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-technology-with-toms-hardware-guide/"><u>Inside the World of Technology with Tom's Hardware Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/losung-fur-schwarze-displays-auf-msi-laptops-anleitung-zur-fehlerbehebung/"><u>Lösung Für Schwarze Displays Auf MSI-Laptops - Anleitung Zur Fehlerbehebung</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/peeking-beyond-ustream-live-stream-options-for-2024/"><u>Peeking Beyond Ustream Live Stream Options for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/swift-strategies-for-tackling-windows-camera-errors/"><u>Swift Strategies for Tackling Windows Camera Errors</u></a></li>
+<li><a href="https://win-lab.techidaily.com/top-samsung-ssd-klonierungssoftware-seamless-os-und-datei-migration/"><u>Top-Samsung SSD Klonierungssoftware: Seamless OS Und Datei Migration</u></a></li>
 </ul></div>
 
