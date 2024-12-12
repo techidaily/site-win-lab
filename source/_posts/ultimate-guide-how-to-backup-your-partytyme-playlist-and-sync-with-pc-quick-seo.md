@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How to Backup Your PartyTyme Playlist & Sync with PC - Quick SEO"
-date: 2024-12-02T23:11:22.245Z
-updated: 2024-12-06T02:06:45.892Z
+date: 2024-12-05T01:33:10.103Z
+updated: 2024-12-12T05:53:27.672Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 [VIEW LARGER IMAGE ![Login At Party Tyme Player Website](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/login-button-pt-1.jpg?fit=300%2C300&ssl=1 "Login At Party Tyme Player Website")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/login-button-pt-1.jpg?fit=532%2C532&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1) After you have created an account in PCDJ DEX 3 or LYRX, visit [www.partytymeplayer.com](http://www.partytymeplayer.com) and click **LOGIN**, located on the far right on the websites navigation menu.
@@ -37,12 +37,16 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 [VIEW LARGER IMAGE ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=300%2C300&ssl=1 "Login using your subscription credentials")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=756%2C756&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Login with the credentials created when you created the account in DEX 3 or LYRX. Your email address is used for the user name and punch in your custom password and click **LOGIN**.
 
 [VIEW LARGER IMAGE ![Locate the gear icon and click it](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=300%2C300&ssl=1 "Locate the gear icon and click it")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=552%2C552&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Once you’re logged in, locate the ‘**GEAR**‘ looking icon in top right corner of the website and click on it. This will bring up initial settings for the PT karaoke songbook.
 
@@ -52,26 +56,22 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 
 [VIEW LARGER IMAGE ![Select your songbook options and click OK](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=300%2C300&ssl=1 "Select your songbook options and click OK")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=652%2C652&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) The ‘**Export To PDF**‘ menu allows you to select the ‘**Song List Type**‘ — Domestic, Foreign, or All — the ‘**Domestic Language**‘ — English or Spanish — and the ‘**Order By**‘ — Order by Artist or By Title. After dialing in your options, click the **OK** button. After clicking on **OK** the songbook creation process will begin.
 
 [VIEW LARGER IMAGE ![Click the download here](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=300%2C300&ssl=1 "Click the download here")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=706%2C706&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Once your songbook is prepared and ready for download, you will see ‘**Download Here**‘ in green-colored text at the bottom of the menu box. Click the link/text to launch your customized PDF Party Tyme Karaoke songbook.
 
 [VIEW LARGER IMAGE ![Your party tyme songbook is ready for print](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=300%2C300&ssl=1 "Your party tyme songbook is ready for print")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=920%2C920&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7) Your custom **Party Tyme Karaoke songbook** is ready for download and/or print (or upload to your own website for your singers to view there!).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -93,21 +93,21 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/partytymekaraokesongbook-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-streaming-masterminds-choice-go-with-pmix-or-castpro/"><u>[New] In 2024, Streaming Masterminds' Choice Go with PMix or CastPro?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-pixelated-palace-beginner-friendly-home-design-guide-for-2024/"><u>[New] Pixelated Palace Beginner-Friendly Home Design Guide for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-breaking-down-lg-27ud88-uhd-tv-with-usb-type-c/"><u>[Updated] Breaking Down LG 27UD88-UHD TV with USB Type-C</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/amd-ati-radeon-hd-3450-easy-driver-download-and-seamless-update-processes/"><u>AMD ATI Radeon HD 3450: Easy Driver Download and Seamless Update Processes</u></a></li>
-<li><a href="https://win-lab.techidaily.com/browser-hygiene-best-practices-how-regularly-should-you-purge-history-and-cookies-advice-by-yl-computing-experts/"><u>Browser Hygiene Best Practices: How Regularly Should You Purge History and Cookies? Advice by YL Computing Experts</u></a></li>
-<li><a href="https://win-lab.techidaily.com/buying-digital-assets-a-comprehensive-guide-by-yl-computing-your-partner-in-navigating-crypto-investments/"><u>Buying Digital Assets: A Comprehensive Guide by YL Computing - Your Partner in Navigating Crypto Investments</u></a></li>
-<li><a href="https://win-web3.techidaily.com/comment-resoudre-les-problemes-de-widgets-windows-11-non-fonctionnels-un-guide-dassistance-simple/"><u>Comment Résoudre Les Problèmes De Widgets Windows 11 Non-Fonctionnels : Un Guide D'Assistance Simple</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effortless-email-retrieval-from-imap-servers-a-step-by-step-tutorial-by-yl-software-experts/"><u>Effortless Email Retrieval From IMAP Servers: A Step-by-Step Tutorial by YL Software Experts</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effortlessly-manage-and-delete-temporary-bak-files-from-your-pc-using-yl-computing-tools/"><u>Effortlessly Manage & Delete Temporary .BAK Files From Your PC Using YL Computing Tools</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas/"><u>In 2024, The Pathway to Aural Brilliance Incorporating & Fine-Tuning Sounds in Canvas</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/lian-lis-innovative-hydroshift-lcd-360s-case-a-game-changer-in-gaming-tech/"><u>Lian Li's Innovative Hydroshift LCD 360S Case: A Game Changer in Gaming Tech</u></a></li>
-<li><a href="https://win-lab.techidaily.com/maximizing-computer-speed-and-power-expert-tips-from-yl-softwares-analysis/"><u>Maximizing Computer Speed and Power: Expert Tips From YL Software's Analysis</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/seamless-and-permanent-tiktok-bio-linking-methods-for-2024/"><u>Seamless & Permanent TikTok Bio Linking Methods for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-transferring-files-from-one-folder-to-another-in-windows-tips-by-yl-computing/"><u>Step-by-Step Guide: Transferring Files From One Folder to Another in Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/unveiling-the-creators-of-the-chinese-great-wall-with-expertise-from-yl-computing-and-yl-software/"><u>Unveiling the Creators of the Chinese Great Wall with Expertise From YL Computing and YL Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uide-to-modify-comment-accessibility-on-youtube/"><u>[New] Guide to Modify Comment Accessibility on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-elite-narratives-from-cinemas-broad-spectrum/"><u>[New] In 2024, Elite Narratives From Cinema's Broad Spectrum</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-list-of-high-quality-streaming-services-for-cricket-fans/"><u>[Updated] The Ultimate List of High-Quality Streaming Services for Cricket Fans</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-crafting-professional-slug-line-notations/"><u>2024 Approved Expert Tips for Crafting Professional Slug Line Notations</u></a></li>
+<li><a href="https://win11.techidaily.com/adjusting-mouse-dynamics-for-a-more-natural-response-in-win-1011/"><u>Adjusting Mouse Dynamics for a More Natural Response in Win 10/11</u></a></li>
+<li><a href="https://win-lab.techidaily.com/analyzing-the-impact-of-opium-conflicts-on-chinese-sovereign-authority-with-expertise-by-yl-computing-yl-software/"><u>Analyzing The Impact of Opium Conflicts on Chinese Sovereign Authority with Expertise by YL Computing, YL Software</u></a></li>
+<li><a href="https://win-lab.techidaily.com/boost-your-pcs-gaming-power-advanced-tips-on-video-configuration-using-yl-technology-from-yl-computing/"><u>Boost Your PC's Gaming Power: Advanced Tips on Video Configuration Using YL Technology From YL Computing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/enhance-pc-efficiency-with-proven-strategies-by-yl-software-experts/"><u>Enhance PC Efficiency with Proven Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-rdr2-memory-crash-error-by-boosting-your-pcs-page-file-capacity/"><u>Fix RDR2 Memory Crash Error by Boosting Your PC's Page File Capacity</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-resolve-inaccessibility-issues-with-your-scanners-advanced-options-insights-from-yl-computing/"><u>How to Resolve Inaccessibility Issues with Your Scanner's Advanced Options - Insights From YL Computing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/integrating-windows-defender-and-additional-antivirus-solutions-compatibility-guide-insights-by-yl-computing/"><u>Integrating Windows Defender and Additional Antivirus Solutions: Compatibility Guide - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/r-screen-time-find-your-must-have-7-android-blockers/"><u>Master Screen Time Find Your Must-Have 7 Android Blockers</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-easy-video-editing-for-beginners-2024s-best-free-and-paid-software/"><u>New Easy Video Editing for Beginners 2024S Best Free and Paid Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-lava-yuva-3-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Lava Yuva 3 Phone Pattern Lock</u></a></li>
+<li><a href="https://win-lab.techidaily.com/troubleshooting-unresponsive-speakers-or-headphones-solutions-from-yl-computings-expert-guides/"><u>Troubleshooting Unresponsive Speakers or Headphones: Solutions From YL Computing's Expert Guides</u></a></li>
+<li><a href="https://win-lab.techidaily.com/yl-software-reveals-surprising-findings-on-blockchain-transaction-delays-and-security-threats-no-deterrent-effect-for-malicious-users/"><u>YL Software Reveals Surprising Findings on Blockchain Transaction Delays and Security Threats – No Deterrent Effect for Malicious Users!</u></a></li>
 </ul></div>
 
