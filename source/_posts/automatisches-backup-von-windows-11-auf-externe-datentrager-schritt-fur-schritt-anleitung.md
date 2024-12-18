@@ -1,7 +1,7 @@
 ---
 title: Automatisches Backup Von Windows 11 Auf Externe Datenträger - Schritt-Für-Schritt-Anleitung
-date: 2024-12-11T06:16:47.425Z
-updated: 2024-12-11T23:40:45.562Z
+date: 2024-12-15T22:54:01.338Z
+updated: 2024-12-18T06:47:41.310Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
 Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella barra di ricerca su Windows 10". Impara su AOMEI Backupper e misure preventive per evitare futuri inconvenienti con la barra di ricerca. Migliora subito la tua esperienza su Windows 10!
@@ -33,7 +29,7 @@ Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 3
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Sommario** 
@@ -57,10 +53,6 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -77,13 +69,13 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -121,6 +113,10 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -138,6 +134,10 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -179,6 +179,10 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -213,10 +217,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -237,10 +237,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -259,10 +255,14 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -280,24 +280,18 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-quick-correction-quest-how-to-skillfully-edit-images-on-win10-for-2024/"><u>[New] Quick Correction Quest How to Skillfully Edit Images on WIN10 for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-begin-the-stream-an-introduction-to-instagram-lives-for-2024/"><u>[Updated] Begin the Stream An Introduction to Instagram Lives for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-for-board-usage-during-your-zoom-meetings-desktopiosandroid/"><u>[Updated] In 2024, The Ultimate Guide for Board Usage During Your Zoom Meetings (Desktop/iOS/Android)</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-exploring-all-about-youtube-premium-access/"><u>2024 Approved Exploring All About YouTube Premium Access</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-and-simple-18-vlogging-projects/"><u>2024 Approved Innovative & Simple 18 Vlogging Projects</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/a-thorough-examination-of-high-res-action-footage-via-yi/"><u>A Thorough Examination of High-Res Action Footage via Yi</u></a></li>
-<li><a href="https://win-lab.techidaily.com/blue-screen-woes-no-more-a-comprehensive-guide-to-diagnosing-and-fixing-windows-issues-by-experts-at-yl-software/"><u>Blue Screen Woes No More: A Comprehensive Guide to Diagnosing and Fixing Windows Issues by Experts at YL Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-iphone-11-pro-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On iPhone 11 Pro - 4 Easy Ways</u></a></li>
-<li><a href="https://win-lab.techidaily.com/decoding-bsod-blue-screen-of-death-top-reasons-for-system-crashes-explained-by-yl-software-professionals/"><u>Decoding BSoD (Blue Screen of Death): Top Reasons for System Crashes Explained by YL Software Professionals</u></a></li>
-<li><a href="https://win-lab.techidaily.com/explore-captivating-niki-shiina-backgrounds-and-wallpapers-with-yl-computings-collection-your-ultimate-digital-art-gallery/"><u>Explore Captivating Niki Shiina Backgrounds & Wallpapers with YL Computing's Collection - Your Ultimate Digital Art Gallery</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-safer-online-spaces/"><u>Exploring Safer Online Spaces</u></a></li>
-<li><a href="https://win-lab.techidaily.com/exploring-the-key-purpose-of-mao-zedongs-1958-initiative-the-great-leap-forward-analysis-from-yl-software/"><u>Exploring the Key Purpose of Mao Zedong's 1958 Initiative, The Great Leap Forward - Analysis From YL Software</u></a></li>
-<li><a href="https://win-lab.techidaily.com/measuring-cpu-speed-effectively-with-tips-from-yl-software/"><u>Measuring CPU Speed Effectively with Tips From YL Software</u></a></li>
-<li><a href="https://win-lab.techidaily.com/safe-system-tweaks-a-step-by-step-guide-to-backup-windows-registry-prior-to-editing-yl-software-solutions/"><u>Safe System Tweaks: A Step-by-Step Guide to Backup Windows Registry Prior to Editing - YL Software Solutions</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-to-manipulating-registry-data-in-windows-os-with-tools-from-yl-software-solutions/"><u>Step-by-Step Guide to Manipulating Registry Data in Windows OS with Tools From YL Software Solutions</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-infinix-zero-5g-2023-turbo-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Infinix Zero 5G 2023 Turbo FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/troubleshooting-a-non-functional-cpu-fan-expert-tips-from-yl-computing/"><u>Troubleshooting a Non-Functional CPU Fan: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/uncover-the-reasons-behind-your-sluggish-internet-speed-expert-insights-by-yl-computing/"><u>Uncover the Reasons Behind Your Sluggish Internet Speed: Expert Insights by YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-determine-ideal-frame-rates-in-slow-mo-filmmaking/"><u>[Updated] How to Determine Ideal Frame Rates in Slow-Mo Filmmaking</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-breakthrough-technology-for-screens-showmores-revolutionary-recorder/"><u>[Updated] In 2024, Breakthrough Technology for Screens ShowMore's Revolutionary Recorder</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-effortless-pathways-to-scour-for-mass-video-downloads-on-tiktok/"><u>[Updated] In 2024, Effortless Pathways to Scour for Mass Video Downloads on TikTok</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-laugh-out-loud-labyrinths-exploring-hysterical-tiktok-gaming-quests/"><u>[Updated] In 2024, Laugh-Out-Loud Labyrinths Exploring Hysterical TikTok Gaming Quests</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-insights-into-youtubes-visionary-studio-platform-for-2024/"><u>[Updated] Insights Into YouTube's Visionary Studio Platform for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-unlocking-the-secrets-to-outro-mastery-free-tutorials-1-6/"><u>2024 Approved Unlocking the Secrets to Outro Mastery (FREE Tutorials 1-6)</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-how-to-navigate-to-accessibility-options-on-your-device-with-yl-computing/"><u>Discover How to Navigate to Accessibility Options on Your Device with YL Computing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/effective-strategies-for-safeguarding-against-graphics-processor-failures-with-tips-from-yl-software-experts/"><u>Effective Strategies for Safeguarding Against Graphics Processor Failures with Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-troubleshoot-your-monitor-when-theres-no-image-displays-expert-solutions-from-yl-computing/"><u>How to Troubleshoot Your Monitor When There's No Image Displays: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-chuckle-chest-selecting-15-hilarious-video-treasures-for-your-viewing-pleasure/"><u>In 2024, Chuckle Chest Selecting 15 Hilarious Video Treasures for Your Viewing Pleasure</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-s23-fe-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy S23 FE to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-share-it-all-video-watchlist/"><u>In 2024, Share-It-All Video Watchlist</u></a></li>
+<li><a href="https://win-lab.techidaily.com/seamless-connectivity-guide-checking-if-your-computer-recognizes-the-printer-expert-advice-by-yl-software/"><u>Seamless Connectivity Guide: Checking if Your Computer Recognizes the Printer – Expert Advice by YL Software</u></a></li>
 </ul></div>
 
