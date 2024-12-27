@@ -1,7 +1,7 @@
 ---
 title: Exploring Safe Options After the M3 Raw Disk Hack - A Guide
-date: 2024-12-17T07:59:02.981Z
-updated: 2024-12-17T21:30:04.501Z
+date: 2024-12-24T04:51:35.677Z
+updated: 2024-12-27T02:51:31.367Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/267319de45b47bfed89a5beeea4e8662c6ef68d4fb035ab41968a0873cebbd66.jpg
@@ -35,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -47,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -74,7 +62,7 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
@@ -89,6 +77,10 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -97,12 +89,16 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
@@ -114,7 +110,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
@@ -130,7 +126,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -183,6 +179,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,24 +198,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-photosculptor-kit/"><u>[New] PhotoSculptor Kit</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-rgbs-role-in-modern-color-standards-compared-to-srgb/"><u>[New] Rgb's Role in Modern Color Standards Compared to Srgb</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-comprerante-guide-to-sierras-cloud-file-accessibility/"><u>[Updated] In 2024, Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-ice-skates-and-epochs-a-look-at-beijings-olympic-saga-2022/"><u>[Updated] In 2024, Ice Skates & Epochs A Look at Beijing's Olympic Saga, 2022</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/boost-your-computer-speed-top-hardware-modifications-suggested-by-yl-software-experts/"><u>Boost Your Computer Speed: Top Hardware Modifications Suggested by YL Software Experts</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-can-i-effectively-test-my-graphics-card-insights-from-yl-computing/"><u>How Can I Effectively Test My Graphics Card? Insights From YL Computing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-motorola-g24-power-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Motorola G24 Power Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mastering-linguistic-trials-top-exam-preparation-tips/"><u>Mastering Linguistic Trials: Top Exam Preparation Tips</u></a></li>
-<li><a href="https://win-lab.techidaily.com/professional-death-skull-graphics-and-hd-backgrounds-for-pcs-and-laptops-quality-imagery-from-yl-software/"><u>Professional Death Skull Graphics & HD Backgrounds for PCs and Laptops – Quality Imagery From YL Software</u></a></li>
-<li><a href="https://win-answers.techidaily.com/scaling-your-pc-how-windows-memory-reclaim-boosts-storage-needs/"><u>Scaling Your PC: How Windows Memory Reclaim Boosts Storage Needs</u></a></li>
-<li><a href="https://win-lab.techidaily.com/sing-your-heart-out-discover-fresh-karaoke-tracks-with-our-exclusive-monthly-subscription-plan/"><u>Sing Your Heart Out: Discover Fresh Karaoke Tracks with Our Exclusive Monthly Subscription Plan!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/solving-common-issues-expert-guide-to-fixing-non-responsive-scanners-tips-by-yl-computing/"><u>Solving Common Issues: Expert Guide to Fixing Non-Responsive Scanners - Tips by YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-stuck-dilemma-easy-fixes-for-madden-nfl-22-loading-issues/"><u>Solving the 'Stuck' Dilemma: Easy Fixes for Madden NFL 22 Loading Issues</u></a></li>
-<li><a href="https://win-lab.techidaily.com/solving-your-printers-low-quality-print-issues-tips-and-strategies-from-yl-computing/"><u>Solving Your Printer's Low-Quality Print Issues - Tips & Strategies From YL Computing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/spotting-bad-ram-units-essential-tips-from-yl-software-experts/"><u>Spotting Bad RAM Units: Essential Tips From YL Software Experts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/top-eight-sources-of-graffiti-fonts-online-for-2024/"><u>Top Eight Sources of Graffiti Fonts Online for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/troubleshooting-guide-discover-why-your-laptops-cooling-system-is-overcompensating-with-unusual-noises/"><u>Troubleshooting Guide: Discover Why Your Laptop's Cooling System Is Overcompensating with Unusual Noises</u></a></li>
-<li><a href="https://win-lab.techidaily.com/troubleshooting-windows-detecting-and-resolving-audio-hardware-glitches/"><u>Troubleshooting Windows: Detecting & Resolving Audio Hardware Glitches</u></a></li>
-<li><a href="https://win-lab.techidaily.com/understanding-prevalent-hardware-problems-on-windows-platforms-a-comprehensive-guide-by-yl-tech-solutions/"><u>Understanding Prevalent Hardware Problems on Windows Platforms: A Comprehensive Guide by YL Tech Solutions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-picks-comprehensive-list-of-no-cost-webm-streaming-tools/"><u>[New] 2024 Approved Top Picks Comprehensive List of No-Cost WebM Streaming Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-filmmakers-toolkit-essential-color-grading-of-7-techniques-for-2024/"><u>[New] The Filmmaker's Toolkit Essential Color Grading of 7 Techniques for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-comprehensible-list-best-games-music-found-online-for-2024/"><u>[Updated] Comprehensible List Best Games’ Music Found Online for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-steps-to-skyrocket-your-youtube-subscribers-count/"><u>[Updated] Steps to Skyrocket Your YouTube Subscribers Count</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-proven-subtitle-editors-the-comprehensive-top-10-list-online/"><u>2024 Approved Proven Subtitle Editors – The Comprehensive Top 10 List (Online)</u></a></li>
+<li><a href="https://win-lab.techidaily.com/boost-your-pcs-gaming-power-advanced-tips-on-video-configuration-using-yl-technology-from-yl-computing/"><u>Boost Your PC's Gaming Power: Advanced Tips on Video Configuration Using YL Technology From YL Computing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boost-zoom-call-clarity-solving-sound-problems/"><u>Boost Zoom Call Clarity Solving Sound Problems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dynamic-pricing-models/"><u>Dynamic Pricing Models</u></a></li>
+<li><a href="https://win-lab.techidaily.com/enhancing-your-computers-speed-is-a-registry-cleaner-the-key-insights-by-yl-software-experts/"><u>Enhancing Your Computer's Speed: Is a Registry Cleaner the Key? Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/free-installation-programs-for-asus-realtek-audio-drivers/"><u>Free Installation Programs for ASUS Realtek AUDIO Drivers</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-resolve-inaccessibility-issues-with-your-scanners-advanced-options-insights-from-yl-computing/"><u>How to Resolve Inaccessibility Issues with Your Scanner's Advanced Options - Insights From YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/secure-your-hands-on-deal-preorder-apples-latest-series-10-smartwatch-with-money-saving-tips-insights/"><u>Secure Your Hands-On Deal - Preorder Apple's Latest Series 10 Smartwatch with Money-Saving Tips Insights</u></a></li>
+<li><a href="https://win-lab.techidaily.com/troubleshooting-unresponsive-speakers-or-headphones-solutions-from-yl-computings-expert-guides/"><u>Troubleshooting Unresponsive Speakers or Headphones: Solutions From YL Computing's Expert Guides</u></a></li>
+<li><a href="https://win-lab.techidaily.com/yl-softwares-collection-of-premium-ferrari-488-spider-desktop-wallpapers-and-icons/"><u>YL Software's Collection of Premium Ferrari 488 Spider Desktop Wallpapers and Icons</u></a></li>
 </ul></div>
 
