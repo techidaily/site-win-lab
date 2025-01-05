@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How to Backup Your PartyTyme Playlist & Sync with PC - Quick SEO"
-date: 2024-12-23T18:56:22.070Z
-updated: 2024-12-27T01:22:50.012Z
+date: 2025-01-01T16:12:25.863Z
+updated: 2025-01-05T16:01:47.604Z
 tags:
   - product
 categories:
@@ -24,16 +24,12 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The Steps To Create And Export A Karaoke Songbook From Party Tyme Karaoke
 
 [VIEW LARGER IMAGE ![Login At Party Tyme Player Website](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/login-button-pt-1.jpg?fit=300%2C300&ssl=1 "Login At Party Tyme Player Website")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/login-button-pt-1.jpg?fit=532%2C532&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1) After you have created an account in PCDJ DEX 3 or LYRX, visit [www.partytymeplayer.com](http://www.partytymeplayer.com) and click **LOGIN**, located on the far right on the websites navigation menu.
@@ -44,35 +40,39 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 
 [VIEW LARGER IMAGE ![Locate the gear icon and click it](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=300%2C300&ssl=1 "Locate the gear icon and click it")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=552%2C552&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Once you’re logged in, locate the ‘**GEAR**‘ looking icon in top right corner of the website and click on it. This will bring up initial settings for the PT karaoke songbook.
 
 [VIEW LARGER IMAGE ![Click open under other options](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-open-pt.jpg?fit=300%2C300&ssl=1 "Click open under other options")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-open-pt.jpg?fit=780%2C780&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) On the settings screen, under ‘**Other Options**‘, click the **OPEN** button. This will launch the ‘**Export To PDF**‘ settings and creation menu.
 
 [VIEW LARGER IMAGE ![Select your songbook options and click OK](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=300%2C300&ssl=1 "Select your songbook options and click OK")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=652%2C652&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) The ‘**Export To PDF**‘ menu allows you to select the ‘**Song List Type**‘ — Domestic, Foreign, or All — the ‘**Domestic Language**‘ — English or Spanish — and the ‘**Order By**‘ — Order by Artist or By Title. After dialing in your options, click the **OK** button. After clicking on **OK** the songbook creation process will begin.
 
 [VIEW LARGER IMAGE ![Click the download here](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=300%2C300&ssl=1 "Click the download here")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=706%2C706&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Once your songbook is prepared and ready for download, you will see ‘**Download Here**‘ in green-colored text at the bottom of the menu box. Click the link/text to launch your customized PDF Party Tyme Karaoke songbook.
 
 [VIEW LARGER IMAGE ![Your party tyme songbook is ready for print](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=300%2C300&ssl=1 "Your party tyme songbook is ready for print")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/song-book-pt.jpg?fit=920%2C920&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7) Your custom **Party Tyme Karaoke songbook** is ready for download and/or print (or upload to your own website for your singers to view there!).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -93,24 +93,22 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/partytymekaraokesongbook-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-elite-10-sound-recording-essentials-on-spotify-platform-for-2024/"><u>[New] Elite 10 Sound Recording Essentials on Spotify Platform for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-avoid-being-disconnected-key-steps-for-fb-freedom/"><u>[Updated] In 2024, Avoid Being Disconnected Key Steps for FB Freedom</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ideal-matches-free-and-paid-ultra-hd-playback-tools-for-windows-macos/"><u>[Updated] In 2024, Ideal Matches Free & Paid Ultra HD Playback Tools for Windows, macOS</u></a></li>
-<li><a href="https://win-lab.techidaily.com/a-comprehensive-guide-how-to-enable-booting-from-hpdelllenovo-hardware-recovery-partition/"><u>A Comprehensive Guide: How to Enable Booting From HP/Dell/Lenovo Hardware Recovery Partition</u></a></li>
-<li><a href="https://win-lab.techidaily.com/a-guide-to-discovering-the-ip-address-of-a-vm-via-powershell-command-line-and-online-utilities/"><u>A Guide to Discovering the IP Address of a VM via PowerShell Command Line and Online Utilities</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-samsung-galaxy-s23-fe-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Samsung Galaxy S23 FE via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/cli-command-to-find-out-your-public-ip-in-windows-1011/"><u>CLI Command to Find Out Your Public IP in Windows 10/11</u></a></li>
-<li><a href="https://win-lab.techidaily.com/comprehensive-analysis-of-gillwares-data-restoration-services-vs-top-notch-competitors/"><u>Comprehensive Analysis of Gillware's Data Restoration Services Vs. Top-Notch Competitors</u></a></li>
-<li><a href="https://win-lab.techidaily.com/download-and-enjoy-your-favorite-songs-a-guide-to-accessing-apple-music-without-an-internet-connection/"><u>Download and Enjoy Your Favorite Songs: A Guide to Accessing Apple Music Without an Internet Connection</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1728477508039-gptclonezilla/"><u>GPT硬盘克隆技巧：用Clonezilla完成指令</u></a></li>
-<li><a href="https://win-lab.techidaily.com/guia-completa-las-opciones-mas-efectivas-para-el-copiado-de-datos-a-un-ssd-samsung-con-software-de-migracion/"><u>Guía Completa: Las Opciones Más Efectivas Para El Copiado De Datos a Un SSD Samsung Con Software De Migración</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ifind-pro-essential-techniques-and-tips-for-successful-ssd-data-recovery/"><u>IFind Pro: Essential Techniques and Tips for Successful SSD Data Recovery</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oppo-reno-8t-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Oppo Reno 8T 5G Phones with/without a PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-seamless-sound-selecting-4-websites-for-ringtones/"><u>In 2024, Seamless Sound Selecting 4 Websites for Ringtones</u></a></li>
-<li><a href="https://facebook.techidaily.com/revolutionizing-chats-facebook-introduces-messenger-and-insta-tweaks/"><u>Revolutionizing Chats: Facebook Introduces Messenger & Insta Tweaks</u></a></li>
-<li><a href="https://win-lab.techidaily.com/titre-seo-resoudre-vite-le-probleme-de-boot-failure-apres-la-mis-a-jour-de-windows/"><u>Titre SEO: Résoudre Vite Le Problème De Boot Failure Après La Mis À Jour De Windows</u></a></li>
-<li><a href="https://win-lab.techidaily.com/warum-erscheint-ihr-word-dokument-beim-offnen-leer/"><u>Warum Erscheint Ihr Word-Dokument Beim Öffnen Leer?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/win-a-free-wonderfox-upgrade-premium-video-editing-software/"><u>Win a Free WonderFox Upgrade: Premium Video Editing Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95628727-9780008217747-your-personal-horoscope-2018/"><u>Your Personal Horoscope 2018 | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-gigglegallery-craft-and-share-your-own-funny-faces-for-2024/"><u>[New] GiggleGallery Craft and Share Your Own Funny Faces for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-charting-your-path-podcast-income-expectations/"><u>[Updated] Charting Your Path Podcast Income Expectations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-launch-your-own-fb-stream-on-pc-mac-and-laptop-using-obs/"><u>[Updated] Launch Your Own FB Stream on PC, Mac & Laptop Using OBS</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-ultimate-guide-to-vivacut-a-detailed-2024-review/"><u>[Updated] The Ultimate Guide to VivaCut A Detailed 2024 Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unlock-full-hd-tweeting-on-your-screen/"><u>[Updated] Unlock Full HD Tweeting on Your Screen</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-ultimate-guide-the-definitive-steps-to-completely-delete-apps-on-your-iphone/"><u>1. Ultimate Guide: The Definitive Steps to Completely Delete Apps on Your iPhone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/sabrentos/"><u>安全驱动仿真-Sabrent:专业设计保障数据和OS平稳过渡</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728496468176-youtube/"><u>失去YouTube视频？尽快恢复的四种方式</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-the-hunt-for-lucrative-side-projects-how-legitimate-are-they-really/"><u>ChatGPT and the Hunt for Lucrative Side Projects: How Legitimate Are They Really?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/comparing-the-titans-samsung-t7-ssd-vs-sandisk-extreme-determining-top-performance/"><u>Comparing the Titans: Samsung T7 SSD vs SanDisk Extreme - Determining Top Performance</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/discover-the-best-5-alternatives-to-malwarebytes-that-will-boost-your-pcs-safety-in-windows/"><u>Discover the Best 5 Alternatives to Malwarebytes That Will Boost Your PC's Safety in Windows 지대</u></a></li>
+<li><a href="https://media-tips.techidaily.com/exclusive-deal-purchase-your-forever-ticket-to-plex-with-a-massive-25-discount/"><u>Exclusive Deal: Purchase Your Forever Ticket to Plex with a Massive 25% Discount!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/flexible-guide-seamlessly-integrating-onedrive-with-your-windows-11-or-10-system/"><u>Flexible Guide: Seamlessly Integrating OneDrive with Your Windows 11 or 10 System</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-windows-stifling-spontaneous-scrolls/"><u>Mastery Over Windows: Stifling Spontaneous Scrolls</u></a></li>
+<li><a href="https://win-lab.techidaily.com/resolved-how-to-fix-the-problem-of-data-migration-failure-for-samsung-devices-due-to-external-factors/"><u>Resolved: How to Fix the Problem of 'Data Migration Failure for Samsung Devices Due to External Factors'</u></a></li>
+<li><a href="https://win-lab.techidaily.com/wiederherstellung-ihr-icloud-backups-auf-iphone-modelljahr-14-13-12-oder-11-in-deutschland/"><u>Wiederherstellung Ihr iCloud Backups Auf iPhone Modelljahr 14, 13, 12 Oder 11 in Deutschland</u></a></li>
 </ul></div>
 

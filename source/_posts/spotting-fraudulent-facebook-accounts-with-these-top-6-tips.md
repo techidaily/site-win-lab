@@ -1,7 +1,7 @@
 ---
 title: Spotting Fraudulent Facebook Accounts with These Top 6 Tips
-date: 2024-12-21T03:30:03.328Z
-updated: 2024-12-27T02:53:54.723Z
+date: 2025-01-03T16:10:56.949Z
+updated: 2025-01-05T16:09:02.957Z
 tags:
   - product
   - antivirus
@@ -45,7 +45,7 @@ Protect your identity and remove Spyware from your Device
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Check The Profile Picture
@@ -59,6 +59,10 @@ The first thing you see in a profile on Facebook is their profile picture. You c
 An active user on Facebook regularly changes his/her profile picture. If you see only one profile picture and the profile is new or 2-3 years old, it should raise a concern.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Profile Pictures of Celebrities**
 
@@ -88,16 +92,12 @@ Now open [Google Image search](https://images.google.com/) and click on the **Ca
 
 ![Search on Google Image 1](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image-1.jpg "Search on Google Image 1")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on **Upload an image** and then click on **Choose file**, select the profile picture and upload it.
 
 ![Search on Google Image 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image-2.jpg "Search on Google Image 2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Read the About Section
@@ -115,7 +115,7 @@ Now it’s time to check the friend list; a genuine person would like to connect
 ![Check the Friend List - Spot Fake Facebook Account](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-the-Friendlist.jpg "Check the Friend List")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it is a girl profile and you see 3-4K friends on the list, then it should raise a red flag. Usually, genuine girls on Facebook don’t like unknown people, and they have limited friends. When you see so many friends, and most of them are fake, then don’t accept the friend request and block the person.
@@ -142,10 +142,6 @@ Now check the profile carefully, click on the pictures and check the likes and c
 
 ![Lack of Interaction 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Lack-of-Interaction-2.jpg "Lack of Interaction 2")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Another sign is when you see lots of friends in the friend list, and very few of them like and comment on the posts then it also rings a bell. Click on the More button to see more activity like Check-ins, Music, Films, TV-Programme, etc.
 
 ![Lack of Interaction](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Lack-of-Interaction.jpg "Lack of Interaction")
@@ -155,12 +151,16 @@ If you see no such activity, then the profile is not genuine.
 ![Read the Timeline](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Read-the-Timeline.jpg "Read the Timeline")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
 
 There are lots of ways to identify a fake Facebook account; however, none of them are proof that the account is fake. Maybe someone doesn’t willingly display their original picture or listed his or her actual about section for privacy concerns. It usually happens with old-age people they don’t like to share everything on Facebook. However, this doesn’t happen with younger persons. They wish to advertise everything they do. If you see such hidden things on a profile of a younger person, then it is suspicious. Also in the final step to confirm you can send a personal message to the person to see if they reply. Most fake account holder doesn’t like to respond.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 26 thoughts on “How to Spot Fake Facebook Profile”
 
@@ -211,15 +211,15 @@ Thank you
 4. ![](https://secure.gravatar.com/avatar/53cbf55062050979b4bb389f193511bc?s=50&d=mm&r=g)  
 Larry Greenstein  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [April 28, 2020 at 1:44 am](https://tools.techidaily.com/malwarefox/products/)  
 I run a Facebook group and I have noticed people applying with an Anglo-American name, but all of their friends are Vietnamese, or Philipino. To me, that is a red herring as well. Their profiles are often empty or with purposely erroneous answers/facts such as “Graduated from “Blackjack University” or works at “Whyme Products”  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 5. ![](https://secure.gravatar.com/avatar/d39c6364e08d0d3791b6bcab44904680?s=50&d=mm&r=g)  
 Austin  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [August 23, 2020 at 5:45 am](https://tools.techidaily.com/malwarefox/products/)  
 Hi my name is Austin I’ve checked fb market place and this guy is selling a truck I checked his profile no post , nothing but a pic of a fire pole and says fire department he has 6 friends all girls they haven’t updated or posted since a few years ago , he has no places of work , lived , nothing else leaves me to question  
@@ -245,11 +245,19 @@ I found all this credible up till the conclusion. The grammar flubs in that sect
    * ![](https://secure.gravatar.com/avatar/035a8658bd8b3789b8fa0de59bb1669f?s=50&d=mm&r=g)  
    Lyn Allan  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    [September 22, 2022 at 3:06 pm](https://tools.techidaily.com/malwarefox/products/)  
    I noticed it too. I wonder why. I need advice but now not sure!  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 7. ![](https://secure.gravatar.com/avatar/1792081751be84c99f1cd031ffffc387?s=50&d=mm&r=g)  
 Abel Wubetu  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [January 10, 2021 at 3:38 am](https://tools.techidaily.com/malwarefox/products/)  
 wow it was amazing I got what want it is helpful!!!  
@@ -267,10 +275,6 @@ Love yourself before you love others
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 10. ![](https://secure.gravatar.com/avatar/c77b69ca0d1424b4e59e9401b1f52aea?s=50&d=mm&r=g)  
 Robert Teague  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [September 24, 2021 at 9:18 am](https://tools.techidaily.com/malwarefox/products/)  
 I notice almost all fake fb accounts are people from W. Africa. They always use a beautiful white woman as their profile photo. If you scroll down you will usually come across a pic or two of the actual account creator. It’s so obvious, and they hardly ever have any mutual friends. And there is no need to report them to FB, they use AI to determine if it is real, and they won’t take it down. So annoying.  
@@ -301,10 +305,6 @@ Wow, my FB profile must look so fake… I hate pictures of myself and I have no 
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 13. ![](https://secure.gravatar.com/avatar/00106f10d172325f90652aa470195815?s=50&d=mm&r=g)  
 Janet  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [February 28, 2022 at 12:50 am](https://tools.techidaily.com/malwarefox/products/)  
 My friend has lots of Cambodian beauties on his facebook friends. He only has one short message to one of them ‘Hi, my name is …..nice to meet you’ there is nor reply. He has soem of his family as friends (he’s single) with a couple of messages to one of them.and a short reply to him. No others.  
@@ -337,7 +337,7 @@ Another clue is when you get friend requests from people who are already your fr
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -365,16 +365,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unidentified-user-strategies-for-accessing-instagram-stories-on-desktopmobile/"><u>[New] 2024 Approved Unidentified User Strategies for Accessing Instagram Stories on Desktop/Mobile</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-boost-virtual-engagement-select-top-10-recorder-software/"><u>[New] Boost Virtual Engagement Select Top 10 Recorder Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-expert-picks-8-superior-linux-snapshot-tools/"><u>[Updated] Expert Picks 8 Superior Linux Snapshot Tools</u></a></li>
-<li><a href="https://win-lab.techidaily.com/anleitung-umwandlung-von-windows-11-in-ein-brennbild-und-ubertragung-auf-einen-usb-stick-fur-den-startvorgang/"><u>Anleitung: Umwandlung Von Windows 11 in Ein Brennbild Und Übertragung Auf Einen USB-Stick Für Den Startvorgang</u></a></li>
-<li><a href="https://win-lab.techidaily.com/decoding-windows-11-error-messages-a-complete-reference-and-fixes-for-common-problems/"><u>Decoding Windows 11 Error Messages: A Complete Reference & Fixes for Common Problems</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-poco-x5-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://win-lab.techidaily.com/solving-the-mbr2gpt-failure-issue-updating-reagentxml-successfully/"><u>Solving the MBR2GPT Failure Issue: Updating 'Reagent.xml' Successfully</u></a></li>
-<li><a href="https://win-lab.techidaily.com/swiftly-overcome-dell-transfer-problems-discover-the-simpler-method-here/"><u>Swiftly Overcome Dell Transfer Problems - Discover the Simpler Method Here</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-ultimate-review-on-linksys-ea8300-enhancing-your-smart-home-experience-with-advanced-networking/"><u>The Ultimate Review on Linksys EA8300: Enhancing Your Smart Home Experience with Advanced Networking</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1722869374529-the-ultimate-tutorial-switch-up-that-discord-picture/"><u>The Ultimate Tutorial: Switch Up That Discord Picture!</u></a></li>
-<li><a href="https://win-lab.techidaily.com/three-effective-techniques-for-resolving-mounted-backup-volume-access-issues/"><u>Three Effective Techniques for Resolving 'Mounted Backup Volume' Access Issues</u></a></li>
+<li><a href="https://win-lab.techidaily.com/windows-1187usb/"><u>[最新突破] 對Windows 11/8/7適用的頂級免費USB檔案恢復解決方案 - 無限選擇</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/xcellent-video-and-picture-capture-for-iphones-and-androids-here/"><u>[New] Excellent Video & Picture Capture for iPhones & Androids Here</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-charting-success-with-these-top-15-youtube-introduction-techniques/"><u>[Updated] Charting Success with These Top 15 YouTube Introduction Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-securing-your-youtube-profitability-monetization-auditing-guide-for-2024/"><u>[Updated] Securing Your YouTube Profitability Monetization Auditing Guide for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-exploring-ways-to-share-youtube-videos-on-social-media-platforms-fb/"><u>2024 Approved Exploring Ways to Share YouTube Videos on Social Media Platforms (FB)</u></a></li>
+<li><a href="https://win-lab.techidaily.com/windows-server-anglais-2008-r2/"><u>新しい物理マシンへWindows Server Anglais 2008 R2を移行する詳細ガイド</u></a></li>
+<li><a href="https://win-lab.techidaily.com/cd-rwwindows-10/"><u>CD-RWメディアの情報をWindows 10環境から安全に削除するコツ</u></a></li>
+<li><a href="https://win-lab.techidaily.com/comment-synchronisez-vous-des-fichiers-en-temps-reel-sur-windows-11-8-ou-7/"><u>Comment Synchronisez-Vous Des Fichiers en Temps Réel Sur Windows 11, 8 Ou 7 ?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/erase-your-online-presence-completely-a-step-by-step-guide-to-vanishing-from-the-web/"><u>Erase Your Online Presence Completely: A Step-by-Step Guide to Vanishing From the Web</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-setup-essential-steps-for-your-validity-fingerprint-sensor-drivers-free-download/"><u>Fast Setup: Essential Steps for Your Validity Fingerprint Sensor Drivers - Free Download!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/full-insight-gecata-game-logging-system-reviewed-for-2024/"><u>Full Insight Gecata Game Logging System Reviewed for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/page-unavailable-error-message-code-404-detected/"><u>Page Unavailable – Error Message Code 404 Detected</u></a></li>
+<li><a href="https://win-lab.techidaily.com/recuperacao-de-arquivos-apagados-no-windows-1011-passos-facilissimos/"><u>Recuperação De Arquivos Apagados No Windows 10/11 - Passos Facilíssimos</u></a></li>
+<li><a href="https://win-lab.techidaily.com/story-3-the-alcohol-abuse-assumption/"><u>Story 3: The Alcohol Abuse Assumption</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-latent-heat-of-fusion-for-ice-is-334-kjkg/"><u>The Latent Heat of Fusion for Ice Is 334 kJ/Kg</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-selection-of-the-best-raspberry-pi-bundles-for-all-enthusiasts-from-novice-to-expert-systems-gadgetflow/"><u>The Ultimate Selection of the Best Raspberry Pi Bundles for All Enthusiasts: From Novice to Expert Systems - GadgetFlow</u></a></li>
+<li><a href="https://games-able.techidaily.com/transform-your-xbox-experience-better-blue-ray/"><u>Transform Your XBox Experience - Better Blue-Ray</u></a></li>
 </ul></div>
 
