@@ -1,7 +1,7 @@
 ---
 title: "Resolución De Problemas: Motivos Por Los Que El Disco D No Se Puede Acceder Y Cómo Solucionarlo en Windows 11"
-date: 2025-01-25T16:40:51.004Z
-updated: 2025-01-31T17:29:49.519Z
+date: 2025-02-24T16:47:29.755Z
+updated: 2025-03-03T18:43:19.770Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa0def063b41c33922ff4a5cb.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -69,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -80,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -101,10 +89,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -144,10 +124,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -179,10 +155,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -198,20 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-enhance-video-pace-youtube-via-desktops-and-phones/"><u>[New] In 2024, Enhance Video Pace - YouTube via Desktops & Phones</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dynamic-images-from-static-pixels-from-photos-to-video/"><u>[Updated] Dynamic Images From Static Pixels From Photos to Video</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-live-stream-lifeline-high-quality-recorders-reviewed-in-obs/"><u>[Updated] In 2024, Live Stream Lifeline High-Quality Recorders Reviewed in OBS</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-list-empowering-film-suggestions/"><u>[Updated] In 2024, The Ultimate List Empowering Film Suggestions</u></a></li>
-<li><a href="https://win-lab.techidaily.com/windows-11-u/"><u>必要なステップで、Windows 11 の起動 U盤を手転げに作成する | 専門家レベル</u></a></li>
-<li><a href="https://win-lab.techidaily.com/automatisation-de-la-gestion-de-lespace-disque-de-sauvegarde-sur-windows-11/"><u>Automatisation De La Gestion De L'espace Disque De Sauvegarde Sur Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/creating-smooth-motion-flows-the-ken-burns-effect-walkthrough-for-2024/"><u>Creating Smooth Motion Flows The Ken Burns Effect Walkthrough for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-infinix-hot-40-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Hot 40 Pro Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/empfehlenswerte-open-source-festplattenklon-tools-fur-verschiedene-windows-versionen-win11win10win8win7-kostenfrei/"><u>Empfehlenswerte Open-Source Festplattenklon-Tools Für Verschiedene Windows Versionen (Win11/Win10/Win8/Win7) Kostenfrei</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-6s-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-transfer-your-files-safely-using-clonezilla-from-an-ssd-to-an-nvme-drive/"><u>How to Transfer Your Files Safely Using Clonezilla From an SSD to an NVMe Drive</u></a></li>
-<li><a href="https://win-lab.techidaily.com/mcafee-antivirus-a-trusted-protector-or-a-hidden-threat/"><u>McAfee Antivirus: A Trusted Protector or a Hidden Threat?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ssd-purificazione-inoppugnabile-vs-eliminazione-sicura-guida-comparativa-e-passaggi-dettagliati/"><u>SSD Purificazione Inoppugnabile Vs. Eliminazione Sicura: Guida Comparativa E Passaggi Dettagliati</u></a></li>
-<li><a href="https://win-lab.techidaily.com/trustworthy-free-software-for-windows-data-backup/"><u>Trustworthy Free Software for Windows Data Backup</u></a></li>
-<li><a href="https://win-lab.techidaily.com/alnhg-alfaaal-ltrhyl-alkhadm-mkonat-thlatha-asasya-llkyam-bthlk/"><u>النهج الفعال لترحيل الخادم: مكونات ثلاثة أساسية للقيام بذلك</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-breaking-down-the-finest-liquid-simulation-games/"><u>[Updated] Breaking Down the Finest Liquid Simulation Games</u></a></li>
+<li><a href="https://win-lab.techidaily.com/back-to-classroom-essentials-the-ultimate-checklist-for-students-necessities/"><u>Back to Classroom Essentials: The Ultimate Checklist for Students' Necessities</u></a></li>
+<li><a href="https://win-lab.techidaily.com/best-10-techniques-and-applications-for-cutting-out-foregrounds-in-jpg-photos/"><u>Best 10 Techniques & Applications for Cutting Out Foregrounds in JPG Photos</u></a></li>
+<li><a href="https://win-lab.techidaily.com/convert-wlmp-video-clips-to-versatile-mp4-with-our-flawless-conversion-tool/"><u>Convert WLMP Video Clips to Versatile MP4 with Our Flawless Conversion Tool</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/dai-un-taglio-ai-tuoi-dvd-gratis-con-questi-top-8-software-di-rip-dvd-per-macbook/"><u>Dai Un Taglio Ai Tuoi DVD Gratis Con Questi Top 8 Software Di Rip DVD per MacBook</u></a></li>
+<li><a href="https://win-lab.techidaily.com/easy-conversion-techniques-from-mp3-to-m4r-format/"><u>Easy Conversion Techniques From MP3 to M4R Format</u></a></li>
+<li><a href="https://win-lab.techidaily.com/easy-steps-for-transforming-mp4-files-into-m4a-audio-format/"><u>Easy Steps for Transforming MP4 Files Into M4A Audio Format</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sdr-vs-hdr-embracing-hdr-for-enhanced-video-production/"><u>In 2024, SDR vs HDR Embracing HDR for Enhanced Video Production</u></a></li>
+<li><a href="https://win-lab.techidaily.com/new-and-improved-version-3-of-video-converter-unveiled-offering-cutting-edge-functionality-for-users/"><u>New and Improved Version 3 of Video Converter Unveiled, Offering Cutting-Edge Functionality for Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/the-ultimate-iphone-manual-for-capturing-and-adjusting-pace-in-motion/"><u>The Ultimate iPhone Manual for Capturing and Adjusting Pace in Motion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-ranked-mobile-melody-design-experts/"><u>Top-Ranked Mobile Melody Design Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-off-safety-notifications-how-to-manage-emergency-and-amber-alerts-on-iphone/"><u>Turning Off Safety Notifications: How to Manage Emergency & AMBER Alerts on iPhone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-maximizing-creativity-with-pexelscom-a-closer-look-at-image-licensing/"><u>Updated Maximizing Creativity with Pexels.com A Closer Look at Image Licensing</u></a></li>
 </ul></div>
 

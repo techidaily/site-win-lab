@@ -1,7 +1,7 @@
 ---
 title: "Proceso Detallado: Guardando Los Contactos De Tu Correo Electrónico De Gmail Con Seguridad"
-date: 2025-01-29T16:42:16.198Z
-updated: 2025-01-31T17:35:14.142Z
+date: 2025-02-25T22:14:06.800Z
+updated: 2025-03-04T00:44:21.401Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858ec27b5c29bc07659651b716.jpg
@@ -24,17 +24,9 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -73,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -93,25 +81,13 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
@@ -177,10 +153,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,16 +170,18 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-and-channelizing-imovie-productions-on-youtube-for-2024/"><u>[Updated] Crafting and Channelizing iMovie Productions on YouTube for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-integrated-sound-system-guidebook-for-2024/"><u>[Updated] Integrated Sound System Guidebook for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-precision-in-adding-time-stamps-to-images/"><u>[Updated] Precision in Adding Time Stamps to Images</u></a></li>
-<li><a href="https://win-lab.techidaily.com/best-it-the-batman-ii-fullscreen-resolution-posters-and-desktop-images-professional-visual-content-from-yl-software-solutions/"><u>Best It: The Batman II Fullscreen Resolution Posters & Desktop Images - Professional Visual Content From YL Software Solutions</u></a></li>
-<li><a href="https://win-lab.techidaily.com/ferramenta-on-line-sem-custo-transforme-seu-m2ts-em-mp4-usando-movavi-aulas-iniciais/"><u>Ferramenta On-Line Sem Custo: Transforme Seu M2TS Em MP4 Usando Movavi – Aulas Iniciais</u></a></li>
-<li><a href="https://win-lab.techidaily.com/how-to-keep-your-computer-running-smoothly-tips-and-tricks-yl-computings-guide/"><u>How To Keep Your Computer Running Smoothly: Tips and Tricks - YL Computing's Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-description-crafting-compelling-podcast-hooks/"><u>In 2024, The Art of Description Crafting Compelling Podcast Hooks</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/organizational-wizardry-how-to-seamlessly-arrange-your-inbox-with-gmail-labels/"><u>Organizational Wizardry: How to Seamlessly Arrange Your Inbox with Gmail Labels</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/save-verbatim-audio-review-notes/"><u>Save Verbatim Audio, Review Notes</u></a></li>
-<li><a href="https://win-lab.techidaily.com/step-by-step-guide-replacing-defective-memory-sticks-tips-from-yl-computers/"><u>Step-by-Step Guide: Replacing Defective Memory Sticks - Tips From YL Computers</u></a></li>
-<li><a href="https://win-lab.techidaily.com/swf-online-swf-movavi/"><u>SWF 파일을 원격으로 제공하는 무료 Online SWF 변환 도구 - Movavi</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>[Updated] In 2024, Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/amplify-your-social-impact-with-these-innovative-fb-growth-tactics-for-2024/"><u>Amplify Your Social Impact with These Innovative FB Growth Tactics for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/bring-back-your-memories-expert-photo-recovery-for-samsung-galaxy-models-s-s-ii-s-iii-s-iv/"><u>Bring Back Your Memories: Expert Photo Recovery for Samsung Galaxy Models (S, S II, S III, S IV)</u></a></li>
+<li><a href="https://win-lab.techidaily.com/guide-making-your-scanner-visible-in-windows-tips-from-yl-computing/"><u>Guide: Making Your Scanner Visible in Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-enhance-your-computers-performance-by-deactivating-unnecessary-features-insights-from-yl-computing/"><u>How to Enhance Your Computer's Performance by Deactivating Unnecessary Features: Insights From YL Computing</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/how-to-set-up-a-virtual-ghost-drive-in-windows-11-three-effective-approaches/"><u>How To Set Up A Virtual Ghost Drive In Windows 11: Three Effective Approaches</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-capture-chuckles-through-adobe-media/"><u>In 2024, Capture Chuckles Through Adobe Media</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/master-the-art-of-detection-with-these-4-innovative-ai-murder-mystery-apps/"><u>Master the Art of Detection with These 4 Innovative AI Murder Mystery Apps</u></a></li>
+<li><a href="https://win-lab.techidaily.com/protect-your-crypto-wallet-essential-strategies-for-secure-bitcoin-and-altcoin-holdings-by-yl-software-experts/"><u>Protect Your Crypto Wallet: Essential Strategies for Secure Bitcoin and Altcoin Holdings by YL Software Experts</u></a></li>
+<li><a href="https://win-lab.techidaily.com/securing-your-digital-assets-expert-tips-on-safeguarding-your-crypto-investments-yl-computing/"><u>Securing Your Digital Assets: Expert Tips on Safeguarding Your Crypto Investments - YL Computing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-pc-mastering-background-and-theme-customization-in-windows-10-tips-from-yl-computing/"><u>Transform Your PC: Mastering Background & Theme Customization in Windows 10 - Tips From YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbeatable-savings-on-idevices-in-july-2024-iphones-apple-watches-and-ipads-at-great-prices-discover-all-you-need-to-know/"><u>Unbeatable Savings on iDevices in July 2024 – iPhones, Apple Watches & iPads at Great Prices! Discover All You Need to Know</u></a></li>
 </ul></div>
 

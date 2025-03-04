@@ -1,7 +1,7 @@
 ---
 title: Spotting Fraudulent Facebook Accounts with These Top 6 Tips
-date: 2025-01-25T17:08:04.419Z
-updated: 2025-01-31T17:02:38.180Z
+date: 2025-02-27T02:06:34.716Z
+updated: 2025-03-03T23:56:37.479Z
 tags:
   - product
   - antivirus
@@ -56,19 +56,11 @@ An active user on Facebook regularly changes his/her profile picture. If you see
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Profile Pictures of Celebrities**
 
 Its okay if someone is a fan of a celebrity, but he will not put all profile pictures of that celebrity on his Facebook profile.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **No Profile Picture**
 
@@ -87,10 +79,6 @@ To ensure if a profile picture is genuine you can save it to your computer and t
 To do that Right click on the profile picture and click **Save image as** and then save it to your computer,
 
 ![How to Spot a Fake Facebook Profile](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Search-on-Google-Image.jpg "Search on Google Image")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now open [Google Image search](https://images.google.com/) and click on the **Camera icon**
 
@@ -114,10 +102,6 @@ Now it’s time to check the friend list; a genuine person would like to connect
 
 ![Check the Friend List - Spot Fake Facebook Account](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Check-the-Friendlist.jpg "Check the Friend List")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it is a girl profile and you see 3-4K friends on the list, then it should raise a red flag. Usually, genuine girls on Facebook don’t like unknown people, and they have limited friends. When you see so many friends, and most of them are fake, then don’t accept the friend request and block the person.
 
 ## Check Different Name in URL and Profile
@@ -125,10 +109,6 @@ If it is a girl profile and you see 3-4K friends on the list, then it should rai
 Many fake Facebook accounts have different names in the URL and the profile. It happens when a genuine person’s [Facebook account is hacked](https://tools.techidaily.com/malwarefox/products/) and then operated under another person’s name, or if the account was created for some other activity, and then they change the name to promote different topics.
 
 ![Different Name in URL and Profile](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/09/Different-Name-in-URL-and-Profile.jpg "Different Name in URL and Profile")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 For example, someone creates an account to promote things for the American people, and then they decided to use the same account to push content to Saudi Arabs, so he or she changed the name. However, a different name in the URL and profile is not a clear indication that the account is fake, but if we relate it with other factors, it could be a clear sign.
 
@@ -163,10 +143,6 @@ There are lots of ways to identify a fake Facebook account; however, none of the
 1. ![](https://secure.gravatar.com/avatar/aa8bb61ce2ecac56906832036875e04f?s=50&d=mm&r=g)  
 Max  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [October 9, 2019 at 11:06 am](https://tools.techidaily.com/malwarefox/products/)  
 This is serious as fake fb pages are used to breach false DV .Can put innocent in jail.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -192,10 +168,6 @@ Good Article, Thank you
    [Reply](https://tools.techidaily.com/malwarefox/products/)  
          * ![](https://secure.gravatar.com/avatar/f44f24ddefb03587d905a8a1da978907?s=50&d=mm&r=g)  
          Clara Brown  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
          [September 5, 2022 at 12:30 am](https://tools.techidaily.com/malwarefox/products/)  
          How can you keep up with 5000\. I don’t know that many people  
@@ -269,10 +241,6 @@ Love yourself before you love others
 10. ![](https://secure.gravatar.com/avatar/c77b69ca0d1424b4e59e9401b1f52aea?s=50&d=mm&r=g)  
 Robert Teague  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [September 24, 2021 at 9:18 am](https://tools.techidaily.com/malwarefox/products/)  
 I notice almost all fake fb accounts are people from W. Africa. They always use a beautiful white woman as their profile photo. If you scroll down you will usually come across a pic or two of the actual account creator. It’s so obvious, and they hardly ever have any mutual friends. And there is no need to report them to FB, they use AI to determine if it is real, and they won’t take it down. So annoying.  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
@@ -303,10 +271,6 @@ Wow, my FB profile must look so fake… I hate pictures of myself and I have no 
 13. ![](https://secure.gravatar.com/avatar/00106f10d172325f90652aa470195815?s=50&d=mm&r=g)  
 Janet  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [February 28, 2022 at 12:50 am](https://tools.techidaily.com/malwarefox/products/)  
 My friend has lots of Cambodian beauties on his facebook friends. He only has one short message to one of them ‘Hi, my name is …..nice to meet you’ there is nor reply. He has soem of his family as friends (he’s single) with a couple of messages to one of them.and a short reply to him. No others.  
 The page is about 2/3 yrs old with no recent activity. He says It was set up without his knowledge at first, but then he decided to use it a couple of times as it was there (he didn’t have a facebook account prior to that. He goes out to Cambodia about once a year to see a male friend. Do you think he is lying and is a sex tourist?  
@@ -326,10 +290,6 @@ Thank u
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 16. ![](https://secure.gravatar.com/avatar/1d2835f3144fa289049fa85a53c5d814?s=50&d=mm&r=g)  
 BRIAN K NEMETH  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [June 29, 2022 at 8:11 pm](https://tools.techidaily.com/malwarefox/products/)  
 On facebook messenger, I used a video call to talk to a live person. That’s how I know it’s a real person. If not, I just plain block the whole account  
@@ -366,16 +326,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-digital-video-capture-a-new-eras-insight/"><u>[Updated] Digital Video Capture A New Era's Insight</u></a></li>
-<li><a href="https://win-lab.techidaily.com/1-akthr-3-khtoat-bsyta-hol-iaadad-mzamna-almlfat-altlkaya-fy-windows-11/"><u>1. أكثر 3 خطوات بسيطة حول إعداد مزامنة الملفات التلقائية في Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/big-name-apps-missing-from-apple-vision-pro-exclusive-insight-revealed-by-zdnet/"><u>Big Name Apps Missing From Apple Vision Pro: Exclusive Insight Revealed by ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/creating-a-private-inbox-the-ultimate-tutorial-on-setting-up-anonymous-email-accounts-using-malwarefox/"><u>Creating a Private Inbox: The Ultimate Tutorial on Setting Up Anonymous Email Accounts Using MalwareFox</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/dvdandhdd/"><u>DVDのファイルに変換&HDDへ自由配布 - ダウンロード詳細</u></a></li>
-<li><a href="https://techtrends.techidaily.com/experience-next-level-targeting-powered-by-the-latest-in-cookiebot-solutions/"><u>Experience Next-Level Targeting Powered by the Latest in Cookiebot Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/innovative-design-and-graphics-free-and-affordable-sources/"><u>Innovative Design and Graphics Free & Affordable Sources</u></a></li>
-<li><a href="https://win-lab.techidaily.com/rdbms-vs-dbms-selecting-the-ideal-database-solution-tailored-to-your-requirements/"><u>RDBMS vs DBMS: Selecting the Ideal Database Solution Tailored to Your Requirements</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/streamlining-movie-capture-with-multiple-technology-systems-for-2024/"><u>Streamlining Movie Capture with Multiple Technology Systems for 2024</u></a></li>
-<li><a href="https://win-lab.techidaily.com/troubleshooting-winodws-1110-error-0xc0000005-expert-tips-and-effective-solutions-for-developers/"><u>Troubleshooting Winodws 11/10 Error 0Xc0000005 - Expert Tips & Effective Solutions for Developers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/year-in-review-top-5-camera-tips-filmmakers/"><u>Year in Review Top 5 Camera Tips Filmmakers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-dissecting-the-income-from-a-million-on-youtube/"><u>[New] Dissecting the Income From a Million on YouTube</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficient-call-capturing-on-windowsmac-the-comprerances-list-for-2024/"><u>[New] Efficient Call Capturing on Windows/Mac - The Comprerances' List for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-enjoy-the-joy-of-joint-youtube-video-experiences-for-2024/"><u>[New] Enjoy the Joy of Joint YouTube Video Experiences for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-best-budget-game-recording-software-for-gamers-for-2024/"><u>[New] The Best Budget Game Recording Software for Gamers for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-unseen-viewers-route-navigating-instagram-stories-with-anonymous-viewing/"><u>[Updated] The Unseen Viewer's Route Navigating Instagram Stories with Anonymous Viewing</u></a></li>
+<li><a href="https://win-lab.techidaily.com/access-the-complete-infinite-skills-course-series-subtitled-videos-available-for-download-now/"><u>Access the Complete Infinite Skills Course Series - Subtitled Videos Available for Download Now!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/amos-the-process-of-downloading-and-saving-flickr-footage-in-various-video-codecs/"><u>Amo's the Process of Downloading and Saving Flickr Footage in Various Video Codecs</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/convertendo-dvd-para-avi-gratuitamente-em-2023-guia-rapido-com-3-metodos-eficientes/"><u>Convertendo DVD Para AVI Gratuitamente Em 2023: Guia Rápido Com 3 Métodos Eficientes</u></a></li>
+<li><a href="https://win-lab.techidaily.com/how-to-download-and-use-your-created-flipbooks-offline-flipbuilderguide/"><u>How To Download And Use Your Created Flipbooks Offline - Flipbuilderguide</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-6s-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 6s Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/share-your-creations-easily-learn-to-send-email-attachments-with-interactive-html-links-for-flipbooks-on-flipbuildercom/"><u>Share Your Creations Easily! Learn to Send Email Attachments with Interactive HTML Links for Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-efforts-crafting-perfect-titles-for-2024/"><u>Top 5 Efforts Crafting Perfect Titles for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-multiple-pdfs-into-interactive-flash-books-for-free/"><u>Transform Multiple PDFs Into Interactive Flash Books for Free!</u></a></li>
+<li><a href="https://win-lab.techidaily.com/transform-your-pdfs-into-engaging-flash-books-with-page-turn-sounds-on-flipbuildercom/"><u>Transform Your PDFs Into Engaging Flash Books with Page-Turn Sounds on FlipBuilder.com</u></a></li>
+<li><a href="https://win-lab.techidaily.com/understanding-flipbuilders-product-upgrade-strategy-a-comprehensive-guide/"><u>Understanding FlipBuilder's Product Upgrade Strategy: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/unveiling-flippowerpoint-your-comprehensive-guide-to-enhanced-microsoft-presentations-flipbuildercom/"><u>Unveiling FlipPowerPoint: Your Comprehensive Guide to Enhanced Microsoft Presentations | flipbuilder.com</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-vn-video-editor-for-mac-a-comprehensive-guide-and-alternative-options/"><u>Updated In 2024, VN Video Editor for Mac A Comprehensive Guide and Alternative Options</u></a></li>
 </ul></div>
 

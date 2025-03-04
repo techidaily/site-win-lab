@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: How to Backup Your PartyTyme Playlist & Sync with PC - Quick SEO"
-date: 2025-02-11T17:45:28.390Z
-updated: 2025-02-12T20:25:54.294Z
+date: 2025-03-02T23:57:00.936Z
+updated: 2025-03-03T22:01:18.727Z
 tags:
   - product
 categories:
@@ -32,41 +32,21 @@ All subscribers to the Party Tyme Karaoke subscription service need to do is log
 
 [VIEW LARGER IMAGE ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=300%2C300&ssl=1 "Login using your subscription credentials")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/type-in-credentials-pt.jpg?fit=756%2C756&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 2) Login with the credentials created when you created the account in DEX 3 or LYRX. Your email address is used for the user name and punch in your custom password and click **LOGIN**.
 
 [VIEW LARGER IMAGE ![Locate the gear icon and click it](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=300%2C300&ssl=1 "Locate the gear icon and click it")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-gear-icon-top-right-pt.jpg?fit=552%2C552&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Once you’re logged in, locate the ‘**GEAR**‘ looking icon in top right corner of the website and click on it. This will bring up initial settings for the PT karaoke songbook.
 
 [VIEW LARGER IMAGE ![Click open under other options](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-open-pt.jpg?fit=300%2C300&ssl=1 "Click open under other options")](https://i0.wp.com/pcdj.com/wp-content/uploads/2017/09/click-open-pt.jpg?fit=780%2C780&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) On the settings screen, under ‘**Other Options**‘, click the **OPEN** button. This will launch the ‘**Export To PDF**‘ settings and creation menu.
 
 [VIEW LARGER IMAGE ![Select your songbook options and click OK](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=300%2C300&ssl=1 "Select your songbook options and click OK")](https://i1.wp.com/pcdj.com/wp-content/uploads/2017/09/click-ok-pt.jpg?fit=652%2C652&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) The ‘**Export To PDF**‘ menu allows you to select the ‘**Song List Type**‘ — Domestic, Foreign, or All — the ‘**Domestic Language**‘ — English or Spanish — and the ‘**Order By**‘ — Order by Artist or By Title. After dialing in your options, click the **OK** button. After clicking on **OK** the songbook creation process will begin.
 
 [VIEW LARGER IMAGE ![Click the download here](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=300%2C300&ssl=1 "Click the download here")](https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/click-download-here-pt.jpg?fit=706%2C706&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Once your songbook is prepared and ready for download, you will see ‘**Download Here**‘ in green-colored text at the bottom of the menu box. Click the link/text to launch your customized PDF Party Tyme Karaoke songbook.
 
@@ -93,17 +73,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2017/09/partytymekaraokesongbook-c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-an-introductory-guide-to-navigating-your-way-through-zoom-webinars-for-2024/"><u>[Updated] An Introductory Guide to Navigating Your Way Through Zoom Webinars for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-harnessing-onscreen-power-expert-tips-on-cropping-images/"><u>2024 Approved Harnessing Onscreen Power Expert Tips on Cropping Images</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-master-5-strategies-for-copying-files-to-your-system/"><u>2024 Approved Master 5 Strategies for Copying Files to Your System</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/disable-screen-lock-on-nord-n30-se-by-drfone-android-unlock-android-unlock/"><u>Disable screen lock on Nord N30 SE</u></a></li>
-<li><a href="https://win-lab.techidaily.com/effective-techniques-for-removing-dust-from-your-computer-case-insights-by-yl-computing/"><u>Effective Techniques for Removing Dust From Your Computer Case - Insights by YL Computing</u></a></li>
-<li><a href="https://win-lab.techidaily.com/exclusive-promotion-upgrade-to-professional-disc-jockey-pcdj-from-competing-dj-platforms/"><u>Exclusive Promotion: Upgrade to Professional Disc Jockey (PCDJ) From Competing DJ Platforms!</u></a></li>
-<li><a href="https://win-online.techidaily.com/expert-advice-on-windows-defender-deactivation-is-it-a-safe-practice/"><u>Expert Advice on Windows Defender Deactivation - Is It a Safe Practice?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pros-and-cons-of-inshot-is-it-the-ultimate-editor-in-2024/"><u>Pros and Cons of InShot Is It the Ultimate Editor, In 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/sata-controller-interrupt-quashed/"><u>SATA Controller Interrupt Quashed</u></a></li>
-<li><a href="https://win-lab.techidaily.com/the-insider-guide-to-spotting-quality-ico-investments-techniques-by-leading-team-at-yl-software-and-computing/"><u>The Insider Guide to Spotting Quality ICO Investments: Techniques by Leading Team at YL Software & Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-resolving-misconfigured-speakers-on-windows-11/"><u>Troubleshooting & Resolving Misconfigured Speakers on Windows 11</u></a></li>
-<li><a href="https://win-lab.techidaily.com/troubleshooting-steps-how-to-fix-a-non-responsive-scanning-device-expert-advice-from-yl-computing/"><u>Troubleshooting Steps: How to Fix a Non-Responsive Scanning Device - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-cutting-edge-video-editing-with-movavis-pro-2024-edition/"><u>[New] Cutting Edge Video Editing with Movavi's Pro 2024 Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-samurais-modern-journey-10-games-similar-to-ghost-of-tsushima/"><u>[New] Samurai's Modern Journey 10 Games Similar to Ghost of Tsushima</u></a></li>
+<li><a href="https://facebook.techidaily.com/disabling-friends-who-remain-unseen-on-fb/"><u>Disabling Friends Who Remain Unseen on FB</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/engender-whole-circle-vignetting-on-digital-snapshots/"><u>Engender Whole-Circle Vignetting on Digital Snapshots</u></a></li>
+<li><a href="https://win-lab.techidaily.com/guida-allaggiornamento-di-windows-amo-da-32bit-a-64bit-nessuna-perdita-di-dati-garantita/"><u>Guida All'aggiornamento Di Windows Amo Da 32Bit a 64Bit, Nessuna Perdita Di Dati Garantita!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/identifying-suspicious-chatgpt-websites-safely/"><u>Identifying Suspicious ChatGPT Websites Safely</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-arcade-affordability-index/"><u>In 2024, ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-apple-iphone-se-2022-and-ipad-screen-mirroring-app-drfone-by-drfone-ios/"><u>In 2024, Best Apple iPhone SE (2022) & iPad Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/komplett-einfaches-verfahren-zum-kopieren-von-kleineren-auf-grossere-ssds-mit-windows-11/"><u>Komplett Einfaches Verfahren Zum Kopieren Von Kleineren Auf Größere SSDs Mit Windows 11</u></a></li>
+<li><a href="https://win-lab.techidaily.com/les-3-techniques-essentielles-pour-resolution-de-lerror-fixboot-non-autorise-par-windows/"><u>Les 3 Techniques Essentielles Pour Résolution De L’Error FixBoot, Non Autorisé Par Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/um-startings-top-16-youtube-videos-that-thrive-in-popularity-for-2024/"><u>Premium Startings Top 16 YouTube Videos That Thrive in Popularity for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/resolvez-votre-macbook-proair-en-panne-avec-ces-8-solutions-pour-le-blues-defatigable/"><u>Résolvez Votre MacBook Pro/Air en Panne Avec Ces 8 Solutions Pour Le Blues Défatigable!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/teleportation-and-time-warp-techniques-for-visual-effects-for-2024/"><u>Teleportation and Time Warp Techniques for Visual Effects for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/ultimate-tutorial-how-to-sync-your-icloud-email-addresses-with-outlook/"><u>Ultimate Tutorial: How to Sync Your iCloud Email Addresses with Outlook</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1728492542694-windows-11ssd/"><u>Windows 11系統變更指南：SSD上的快速切換方法</u></a></li>
 </ul></div>
 
